@@ -1,14 +1,45 @@
 ---
 species:
-  common_name: chimpanzee
-  family:
-    name: Hominidae
-  genome_size: 3200000000
-  genome_size_method: null
-  individuals:
-  - short_name: mPanTro1
+  short_name: mPanTro
   name: Pan troglodytes
+  common_name: chimpanzee
+  taxon_id: 9598
   order:
     name: Primates
-  short_name: mPanTro
-  taxon_id: 9598
+  family:
+    name: Hominidae
+  individuals:
+  -
+      short_name: mPanTro1
+      name: Clint
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - Clint_PTR
+      - Clint_PTR_HFSS
+      - S006007
+      sex: male
+      description: >
+        The 'reference' genome chimp;
+        Yerkes chimp pedigree #C0471 (Clint);
+      provider: Evan Eichler (University of Washington), Coriell
+      father: null
+      mother: null
+  -
+      short_name: mPanTro3
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - AG18354
+      - AG18354_PTR
+      - non-Clint
+      sex: male
+      description: null
+      provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
+      father: null
+      mother: null
+  genome_size: 3613710000
+  genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry

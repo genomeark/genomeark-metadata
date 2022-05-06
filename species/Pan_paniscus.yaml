@@ -1,0 +1,54 @@
+---
+species:
+  short_name: mPanPan
+  name: Pan paniscus
+  common_name: bonobo
+  taxon_id: 9597
+  order:
+    name: Primates
+  family:
+    name: Hominidae
+  individuals:
+  -
+      short_name: mPanPan1
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - PR00251
+      - KB8711
+      - PR00251_PPA
+      sex: male
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+      mother: mPanPan2
+      father: mPanPan3
+  -
+      short_name: mPanPan2
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - ISIS174013
+      sex: female
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+      mother: null
+      father: null
+  -
+      short_name: mPanPan3
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - ISIS180343
+      sex: male
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+      mother: null
+      father: null
+  genome_size: 3613710000
+  genome_size_method: GoaT ancestral inferred

@@ -1,0 +1,27 @@
+---
+species:
+  short_name: mPonPyg
+  name: Pongo pygmaeus
+  common_name: Bornean orangutan
+  taxon_id: 9600
+  order:
+    name: Primates
+  family:
+    name: Hominidae
+  individuals:
+  -
+      short_name: mPonPyg2
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - AG05252
+      - AG05252_PPY
+      sex: male
+      description: null
+      provider: Coriell
+      father: null
+      mother: null
+  genome_size: 3579480000
+  genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry

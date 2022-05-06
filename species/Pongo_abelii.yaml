@@ -1,0 +1,28 @@
+---
+species:
+  short_name: mPonAbe
+  name: Pongo abelii
+  common_name: Sumatran orangutan
+  taxon_id: 9601
+  order:
+    name: Primates
+  family:
+    name: Hominidae
+  individuals:
+  -
+      short_name: mPonAbe1
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - GM06213
+      - AG06213
+      - AG06123_PAB
+      sex: male
+      description: null
+      provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
+      father: null
+      mother: null
+  genome_size: 3579480000
+  genome_size_method: GoaT ancestral inferred
