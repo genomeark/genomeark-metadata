@@ -50,5 +50,24 @@ species:
       provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
       mother: null
       father: null
+  -
+      short_name: mPanPan4
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - PPA_5013
+      sex: male
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+      mother: null
+      father: null
+      samples:
+      -
+         sample_id: mPanPan4.testis1
+         tissue: testis
+         dev_stage: adult
+         sample_biosample_id: SAMN13178638
   genome_size: 3613710000
   genome_size_method: GoaT ancestral inferred
