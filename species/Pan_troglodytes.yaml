@@ -41,5 +41,25 @@ species:
       provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
       father: null
       mother: null
+  -
+      short_name: mPanTro4
+      name: null
+      biosample_id: null
+      strain: null
+      subspecies: null
+      alt_ids:
+      - PTR_8720-2
+      - 8720
+      sex: male
+      description: null
+      provider: University of Texas, MD Anderson Cancer Center, Michael E. Keeling Center for Comparative Medicine and Research
+      father: null
+      mother: null
+      samples:
+      -
+         sample_id: mPanTro4.testis1
+         tissue: testis
+         dev_stage: adult
+         sample_biosample_id: null
   genome_size: 3613710000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
