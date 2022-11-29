@@ -58,5 +58,24 @@ species:
       provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
       mother: null
       father: null
+  -
+      short_name: mGorGor4
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - OR6737
+      - GGO_OR6737
+      sex: male
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
+      mother: null
+      father: null
+      samples:
+      -
+         sample_id: mGorGor4.testis1
+         tissue: testis
+         dev_stage: adult
+         sample_biosample_id: SAMN31928435
   genome_size: 3491460000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry

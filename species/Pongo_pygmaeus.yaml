@@ -23,5 +23,30 @@ species:
       provider: Coriell
       father: null
       mother: null
+  -
+      short_name: mPonPyg3
+	  subspecies: pygmaeus
+      subspecies:
+        name: Pongo pygmaeus pygmaeus
+        common_name: Northwest Bornean orangutan
+        taxon_id: 9602
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - PPY_3405
+      - Ppypy 3405
+      - 3405
+      sex: male
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
+      mother: null
+      father: null
+      samples:
+      -
+         sample_id: mPonPyg3.testis1
+         tissue: testis
+         dev_stage: adult
+         sample_biosample_id: SAMN13178639
   genome_size: 3579480000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
