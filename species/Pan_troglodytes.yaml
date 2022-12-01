@@ -49,6 +49,7 @@ species:
       subspecies: null
       alt_ids:
       - PTR_8720-2
+      - Ptr 8720-2
       - 8720
       sex: male
       description: null
@@ -60,6 +61,6 @@ species:
          sample_id: mPanTro4.testis1
          tissue: testis
          dev_stage: adult
-         sample_biosample_id: null
+         sample_biosample_id: SAMN31975257
   genome_size: 3613710000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
