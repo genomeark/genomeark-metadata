@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fScoSco
+  name: Scomber scombrus
+  taxon_id: 13677
+  common_name: Atlantic mackerel
+  order:
+    name: Perciformes
+  family:
+    name: Scombridae
+  individuals:
+    - short_name: fScoSco1
+      biosample_id: SAMEA110450232
+      sex:
+  genome_size: 948660000
+  genome_size_method: GoaT

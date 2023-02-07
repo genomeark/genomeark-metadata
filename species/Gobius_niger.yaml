@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fGobNig
+  name: Gobius niger
+  taxon_id: 85417
+  common_name: black goby
+  order:
+    name: Perciformes
+  family:
+    name: Gobiidae
+  individuals:
+    - short_name: fGobNig1
+      biosample_id: SAMEA13854149
+      sex:
+  genome_size: 987780000
+  genome_size_method: GoaT

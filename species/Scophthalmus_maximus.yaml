@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fScoMax
+  name: Scophthalmus maximus
+  taxon_id: 52904
+  common_name: turbot
+  order:
+    name: Pleuronectiformes
+  family:
+    name: Scophthalmidae
+  individuals:
+    - short_name: fScoMax1
+      biosample_id: SAMEA110450106
+      sex:
+  genome_size: 841080000
+  genome_size_method: GoaT

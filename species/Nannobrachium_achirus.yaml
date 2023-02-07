@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fNanAch
+  name: Nannobrachium achirus
+  taxon_id: 473322
+  common_name: lantern fish
+  order:
+    name: Myctophiformes
+  family:
+    name: Myctophidae
+  individuals:
+    - short_name: fNanAch1
+      biosample_id: SAMEA12815432
+      sex:
+  genome_size: 1956000000
+  genome_size_method: GoaT

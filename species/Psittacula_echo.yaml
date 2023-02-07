@@ -1,0 +1,16 @@
+---
+species:
+  short_name: bPsiEch
+  name: Psittacula echo
+  taxon_id: 232653
+  common_name: Mauritius parakeet
+  order:
+    name: Psittaciformes
+  family:
+    name: Psittacidae
+  individuals:
+    - short_name: bPsiEch3
+      biosample_id: SAMEA12361725
+      sex:
+  genome_size: 1251840000
+  genome_size_method: GoaT

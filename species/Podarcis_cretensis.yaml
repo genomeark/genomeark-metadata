@@ -1,0 +1,19 @@
+---
+species:
+  short_name: rPodCre
+  name: Podarcis cretensis
+  taxon_id: 1330250
+  common_name: cretan wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodCre1
+      biosample_id: SAMEA12110018
+      sex: male
+    - short_name: rPodCre2
+      biosample_id: SAMEA12110019
+      sex: male
+  genome_size: 1932772500
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fKreAnd
+  name: Krefftichthys anderssoni
+  taxon_id: 123330
+  common_name: Rhombic lanternfish
+  order:
+    name: Myctophiformes
+  family:
+    name: Myctophidae
+  individuals:
+    - short_name: fKreAnd1
+      biosample_id: SAMEA12815431
+      sex: female
+  genome_size: 1907100000
+  genome_size_method: GoaT

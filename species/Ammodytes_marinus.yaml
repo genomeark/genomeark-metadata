@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fAmmMar
+  name: Ammodytes marinus
+  taxon_id: 146480
+  common_name: lesser sand-eel
+  order:
+    name: Perciformes
+  family:
+    name: Ammodytidae
+  individuals:
+    - short_name: fAmmMar1
+      biosample_id: SAMEA110137622
+      sex: female
+  genome_size: 613695000
+  genome_size_method: GoaT

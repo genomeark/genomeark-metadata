@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fOsmEpe
+  name: Osmerus eperlanus
+  taxon_id: 29151
+  common_name: European smelt
+  order:
+    name: Osmeriformes
+  family:
+    name: Osmeridae
+  individuals:
+    - short_name: fOsmEpe2
+      biosample_id: SAMEA14448128
+      sex:
+  genome_size: 606360000
+  genome_size_method: GoaT

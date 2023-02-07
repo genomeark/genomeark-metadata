@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mEriEur
+  name: Erinaceus europaeus
+  taxon_id: 9365
+  common_name: western European hedgehog
+  order:
+    name: Erinaceomorpha
+  family:
+    name: Erinaceidae
+  individuals:
+    - short_name: mEriEur1
+      biosample_id: SAMEA13207413
+      sex: male
+  genome_size: 3579480000
+  genome_size_method: GoaT

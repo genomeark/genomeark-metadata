@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mChiNiv
+  name: Chionomys nivalis
+  taxon_id: 269649
+  common_name: European snow vole
+  order:
+    name: Rodentia
+  family:
+    name: Cricetidae
+  individuals:
+    - short_name: mChiNiv1
+      biosample_id: SAMEA13217622
+      sex: male
+  genome_size: 2845980000
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mPleAur
+  name: Plecotus auritus
+  taxon_id: 61862
+  common_name: brown big-eared bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mPleAur1
+      biosample_id: SAMEA110056142
+      sex: female
+  genome_size: 2180940000
+  genome_size_method: GoaT

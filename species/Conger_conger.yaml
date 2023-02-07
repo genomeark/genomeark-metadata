@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fConCon
+  name: Conger conger
+  taxon_id: 82655
+  common_name: European conger
+  order:
+    name: Anguilliformes
+  family:
+    name: Congridae
+  individuals:
+    - short_name: fConCon1
+      biosample_id: SAMEA12219431
+      sex:
+  genome_size: 1623480000
+  genome_size_method: GoaT

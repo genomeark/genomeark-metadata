@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fEleCar
+  name: Electrona carlsbergi
+  taxon_id: 123328
+  common_name: Electron subantarctic
+  order:
+    name: Myctophiformes
+  family:
+    name: Myctophidae
+  individuals:
+    - short_name: fEleCar1
+      biosample_id: SAMEA12815493
+      sex: female
+  genome_size: 1907100000
+  genome_size_method: GoaT

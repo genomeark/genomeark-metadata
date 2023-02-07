@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fCorLav
+  name: Coregonus lavaretus
+  taxon_id: 59291
+  common_name: common whitefish
+  order:
+    name: Salmoniformes
+  family:
+    name: Salmonidae
+  individuals:
+    - short_name: fCorLav1
+      biosample_id: SAMEA111528661
+      sex: male
+  genome_size: 3041580000
+  genome_size_method: GoaT

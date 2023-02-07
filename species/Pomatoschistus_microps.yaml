@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fPomMic
+  name: Pomatoschistus microps
+  taxon_id: 225753
+  common_name: common goby
+  order:
+    name: Perciformes
+  family:
+    name: Gobiidae
+  individuals:
+    - short_name: fPomMic3
+      biosample_id: SAMEA12231814
+      sex:
+  genome_size: 933990000
+  genome_size_method: GoaT

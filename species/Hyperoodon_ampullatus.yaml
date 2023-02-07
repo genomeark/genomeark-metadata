@@ -1,0 +1,19 @@
+---
+species:
+  short_name: mHypAmp
+  name: Hyperoodon ampullatus
+  taxon_id: 48744
+  common_name: northern bottlenose whale
+  order:
+    name: Cetacea
+  family:
+    name: Hyperoodontidae
+  individuals:
+    - short_name: mHypAmp1
+      biosample_id: SAMEA10839124
+      sex: female
+    - short_name: mHypAmp2
+      biosample_id: SAMEA10839125
+      sex: female
+  genome_size: 3217620000
+  genome_size_method: GoaT

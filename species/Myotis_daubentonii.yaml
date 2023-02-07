@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mMyoDau
+  name: Myotis daubentonii
+  taxon_id: 98922
+  common_name: Daubenton's bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mMyoDau2
+      biosample_id: SAMEA9921455
+      sex: male
+  genome_size: 2210280000
+  genome_size_method: GoaT

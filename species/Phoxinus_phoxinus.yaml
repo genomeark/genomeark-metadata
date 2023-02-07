@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fPhoPho
+  name: Phoxinus phoxinus
+  taxon_id: 58324
+  common_name: Eurasian minnow
+  order:
+    name: Cypriniformes
+  family:
+    name: Cyprinidae
+  individuals:
+    - short_name: fPhoPho1
+      biosample_id: SAMEA11296539
+      sex: female
+  genome_size: 1124700000
+  genome_size_method: GoaT

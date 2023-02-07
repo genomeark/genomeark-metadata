@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fBenEln
+  name: Benthalbella elongata
+  taxon_id: 1090477
+  common_name: perl eyes
+  order:
+    name: Aulopiformes
+  family:
+    name: Scopelarchidae
+  individuals:
+    - short_name: fBenEln1
+      biosample_id: SAMEA12815437
+      sex:
+  genome_size: 1274456250
+  genome_size_method: GoaT

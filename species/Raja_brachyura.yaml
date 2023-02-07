@@ -1,0 +1,16 @@
+---
+species:
+  short_name: sRajBra
+  name: Raja brachyura
+  taxon_id: 223862
+  common_name: blonde ray
+  order:
+    name: Rajiformes
+  family:
+    name: Rajidae
+  individuals:
+    - short_name: sRajBra1
+      biosample_id: SAMEA110450105
+      sex: female
+  genome_size: 3423000000
+  genome_size_method: GoaT

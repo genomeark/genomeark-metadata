@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fAbrBra
+  name: Abramis brama
+  taxon_id: 38527
+  common_name: common bream
+  order:
+    name: Cypriniformes
+  family:
+    name: Cyprinidae
+  individuals:
+    - short_name: fAbrBra2
+      biosample_id: SAMEA11296536
+      sex:
+  genome_size: 1271400000
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fProAnd
+  name: Protomyctophum andriashevi
+  taxon_id: 443713
+  common_name: Andriashev's lanternfish
+  order:
+    name: Myctophiformes
+  family:
+    name: Myctophidae
+  individuals:
+    - short_name: fProAnd1
+      biosample_id: SAMEA12815433
+      sex: male
+  genome_size: 1907100000
+  genome_size_method: GoaT

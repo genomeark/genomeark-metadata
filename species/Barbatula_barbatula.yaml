@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fBarBar
+  name: Barbatula barbatula
+  taxon_id: 135647
+  common_name: stone loach
+  order:
+    name: Cypriniformes
+  family:
+    name: Nemacheilidae
+  individuals:
+    - short_name: fBarBar1
+      biosample_id: SAMEA11296540
+      sex: female
+  genome_size: 528120000
+  genome_size_method: GoaT

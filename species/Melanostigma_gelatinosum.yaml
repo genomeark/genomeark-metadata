@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fMelGel
+  name: Melanostigma gelatinosum
+  taxon_id: 1091424
+  common_name: limp eelpout
+  order:
+    name: Perciformes
+  family:
+    name: Zoarcidae
+  individuals:
+    - short_name: fMelGel1
+      biosample_id: SAMEA12815492
+      sex:
+  genome_size: 899760000
+  genome_size_method: GoaT

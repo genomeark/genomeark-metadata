@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mBalAcu
+  name: Balaenoptera acutorostrata
+  taxon_id: 9767
+  common_name: minke whale
+  order:
+    name: Cetacea
+  family:
+    name: Balaenopteridae
+  individuals:
+    - short_name: mBalAcu1
+      biosample_id: SAMEA111380540
+      sex: female
+  genome_size: 2865540000
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mPipPyg
+  name: Pipistrellus pygmaeus
+  taxon_id: 246814
+  common_name: soprano pipistrelle
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mPipPyg2
+      biosample_id: SAMEA9921456
+      sex: male
+  genome_size: 2122260000
+  genome_size_method: GoaT

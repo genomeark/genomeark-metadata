@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fPlePla
+  name: Pleuronectes platessa
+  taxon_id: 8262
+  common_name: European plaice
+  order:
+    name: Pleuronectiformes
+  family:
+    name: Pleuronectidae
+  individuals:
+    - short_name: fPlePla1
+      biosample_id: SAMEA13853390
+      sex:
+  genome_size: 381420000
+  genome_size_method: GoaT

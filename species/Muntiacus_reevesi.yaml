@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mMunRee
+  name: Muntiacus reevesi
+  taxon_id: 9886
+  common_name: Reeves' muntjac
+  order:
+    name: Artiodactyla
+  family:
+    name: Cervidae
+  individuals:
+    - short_name: mMunRee2
+      biosample_id: SAMEA110690973
+      sex: male
+  genome_size: 2924220000
+  genome_size_method: GoaT

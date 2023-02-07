@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fNotRos
+  name: Notothenia rossii
+  taxon_id: 101497
+  common_name: marbled rockcod
+  order:
+    name: Perciformes
+  family:
+    name: Nototheniidae
+  individuals:
+    - short_name: fNotRos5
+      biosample_id: 
+      sex:
+  genome_size: 1234725000
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: rVipUrs
+  name: Vipera ursinii
+  taxon_id: 103942
+  common_name: Hungarian meadow viper
+  order:
+    name: Squamata
+  family:
+    name: Viperidae
+  individuals:
+    - short_name: rVipUrs1
+      biosample_id: SAMEA12832258
+      sex: female
+  genome_size: 2039130000
+  genome_size_method: GoaT

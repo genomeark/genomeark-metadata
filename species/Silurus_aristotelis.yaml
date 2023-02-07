@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fSilAri
+  name: Silurus aristotelis
+  taxon_id: 933932
+  common_name: Aristotle's catfish
+  order:
+    name: Siluriformes
+  family:
+    name: Siluridae
+  individuals:
+    - short_name: fSilAri3
+      biosample_id: SAMEA12595289
+      sex: male
+  genome_size: 1251840000
+  genome_size_method: GoaT
