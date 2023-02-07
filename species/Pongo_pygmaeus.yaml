@@ -25,7 +25,6 @@ species:
       mother: null
   -
       short_name: mPonPyg3
-	  subspecies: pygmaeus
       subspecies:
         name: Pongo pygmaeus pygmaeus
         common_name: Northwest Bornean orangutan

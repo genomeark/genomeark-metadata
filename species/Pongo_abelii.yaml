@@ -43,7 +43,7 @@ species:
          sample_id: mPonAbe2.testis1
          tissue: testis
          dev_stage: adult
-		 age: 31
+         age: 31
          sample_biosample_id: SAMN13178754
   genome_size: 3579480000
   genome_size_method: GoaT ancestral inferred
