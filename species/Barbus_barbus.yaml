@@ -10,5 +10,10 @@ species:
     name: Cyprinidae
   individuals:
     - short_name: fBarBab1
+      biosample_id: SAMEA13335783
+      sex: male
+    - short_name: fBarBab2
+      biosample_id: SAMEA11296535
+      sex: male
   genome_size:
   genome_size_method:

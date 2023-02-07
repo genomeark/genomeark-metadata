@@ -9,6 +9,8 @@ species:
   family:
     name: Carangidae
   individuals:
-    - short_name: fTraTra
+    - short_name: fTraTra1
+      biosample_id: SAMEA7524396
+      sex:
   genome_size:
   genome_size_method:

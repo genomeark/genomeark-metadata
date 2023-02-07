@@ -10,5 +10,10 @@ species:
     name: Vespertilionidae
   individuals:
     - short_name: mPipPip1
+      biosample_id: SAMEA994724
+      sex: male
+    - short_name: mPipPip2
+      biosample_id: SAMEA9921453
+      sex: female
   genome_size:
   genome_size_method:

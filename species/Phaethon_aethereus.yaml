@@ -12,5 +12,11 @@ species:
     - short_name: bPhaAeh1
       biosample_id: SAMEA8228671
       sex: female
+    - short_name: bPhaAeh3
+      biosample_id: SAMEA8228673
+      sex: female
+    - short_name: bPhaAeh6
+      biosample_id: SAMEA8228676
+      sex: female
   genome_size:
   genome_size_method:

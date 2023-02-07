@@ -10,5 +10,10 @@ species:
     name: Syngnathidae
   individuals:
     - short_name: fSynAcu1
+      biosample_id:
+      sex:
+    - short_name: fSynAcu2
+      biosample_id: SAMEA13854528
+      sex:
   genome_size:
   genome_size_method:

@@ -11,6 +11,9 @@ species:
   individuals:
     - short_name: mApoSyl1
       biosample_id: SAMEA7702024
+      sex: male
+    - short_name: mApoSyl2
+      biosample_id: SAMEA7702026
       sex: female
   genome_size:
   genome_size_method:

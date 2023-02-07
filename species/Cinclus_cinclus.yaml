@@ -9,6 +9,9 @@ species:
   family:
     name: Cinclidae
   individuals:
+    - short_name: bCinCin1
+      biosample_id: SAMEA9679959
+      sex:
     - short_name: bCinCin2
       biosample_id: SAMEA9679961
       sex: male

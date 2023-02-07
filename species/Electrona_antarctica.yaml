@@ -10,5 +10,10 @@ species:
     name: Myctophidae
   individuals:
     - short_name: fEleAnt2
+      biosample_id: SAMEA8748807
+      sex: female
+    - short_name: fEleAnt3
+      biosample_id: SAMEA8748808
+      sex:
   genome_size:
   genome_size_method:

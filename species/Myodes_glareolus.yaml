@@ -12,5 +12,8 @@ species:
     - short_name: mMyoGla1
       biosample_id: SAMEA7702027
       sex: female
+    - short_name: mMyoGla2
+      biosample_id: SAMEA7702028
+      sex: male
   genome_size:
   genome_size_method:
