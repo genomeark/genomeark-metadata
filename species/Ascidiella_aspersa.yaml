@@ -1,0 +1,16 @@
+---
+species:
+  short_name: kaAscAspe
+  name: Ascidiella aspersa
+  taxon_id: 201961
+  common_name: A solitary sea squirt
+  order:
+    name: Phlebobranchia
+  family:
+    name: Ascidiidae
+  individuals:
+    - short_name: kaAscAspe2
+      biosample_id: SAMEA7536462
+      sex:
+  genome_size: 107580000
+  genome_size_method: GoaT

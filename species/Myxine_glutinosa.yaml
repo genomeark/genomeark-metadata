@@ -1,0 +1,16 @@
+---
+species:
+  short_name: kmMyxGlut
+  name: Myxine glutinosa
+  taxon_id: 7769
+  common_name: Atlantic hagfish
+  order:
+    name: Myxiniformes
+  family:
+    name: Myxinidae
+  individuals:
+    - short_name: kmMyxGlut1
+      biosample_id: SAMEA12790223
+      sex:
+  genome_size: 4195620000
+  genome_size_method: GoaT

@@ -1,0 +1,16 @@
+---
+species:
+  short_name: kaDenGros
+  name: Dendrodoa grossularia
+  taxon_id: 30295
+  common_name: Baked bean ascidian
+  order:
+    name: Stolidobranchia
+  family:
+    name: Styelidae
+  individuals:
+    - short_name: kaDenGros1
+      biosample_id: SAMEA8712112
+      sex:
+  genome_size: 723720000
+  genome_size_method: GoaT

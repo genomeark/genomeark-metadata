@@ -9,7 +9,11 @@ species:
   family:
     name: Harrimaniidae
   individuals:
+    - short_name: keSacKowa1
+      biosample_id: SAMEA8748971
+      sex:
     - short_name: keSacKowa2
       biosample_id: SAMEA8748972
+      sex:
   genome_size:
   genome_size_method:
