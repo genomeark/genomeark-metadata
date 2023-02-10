@@ -1,0 +1,16 @@
+---
+species:
+  short_name: rZooViv
+  name: Zootoca vivipara
+  taxon_id: 8524
+  common_name: common lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rZooViv1
+      biosample_id: SAMEA111528662
+      sex: female
+  genome_size: 1349640000
+  genome_size_method: GoaT

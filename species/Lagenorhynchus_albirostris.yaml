@@ -1,0 +1,16 @@
+---
+species:
+  short_name: mLagAlb
+  name: Lagenorhynchus albirostris
+  taxon_id: 27610
+  common_name: white-beaked dolphin
+  order:
+    name: Cetacea
+  family:
+    name: Delphinidae
+  individuals:
+    - short_name: mLagAlb1
+      biosample_id: SAMEA111380537
+      sex: female
+  genome_size: 3080700000
+  genome_size_method: GoaT
