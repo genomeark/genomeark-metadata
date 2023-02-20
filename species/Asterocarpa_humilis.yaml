@@ -1,0 +1,16 @@
+---
+species:
+  short_name: kaAstHumi
+  name: Asterocarpa humilis
+  taxon_id: 1273101
+  common_name: (An Acsidian)
+  order:
+    name: Stolidobranchia
+  family:
+    name: Styelidae
+  individuals:
+    - short_name: kaAstHumi1
+      biosample_id: SAMEA110449874
+      sex:
+  genome_size: 723720000
+  genome_size_method: GoaT
