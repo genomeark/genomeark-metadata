@@ -12,5 +12,8 @@ species:
     - short_name: mEriEur1
       biosample_id: SAMEA13207413
       sex: male
+    - short_name: mEriEur2
+      biosample_id: SAMEA13207416
+      sex: female
   genome_size: 3579480000
   genome_size_method: GoaT
