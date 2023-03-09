@@ -1,0 +1,16 @@
+---
+species:
+  short_name: kcLamFluv
+  name: Lampetra fluviatilis
+  taxon_id: 7748
+  common_name: European river lamprey
+  order:
+    name: Petromyzontiformes
+  family:
+    name: Petromyzontidae
+  individuals:
+    - short_name: kcLamFluv1
+      biosample_id: SAMEA111528664
+      sex: female
+  genome_size: 1339860000
+  genome_size_method: GoaT

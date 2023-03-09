@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fLabMix
+  name: Labrus mixtus
+  taxon_id: 508554
+  common_name: cuckoo wrasse
+  order:
+    name: Perciformes
+  family:
+    name: Labridae
+  individuals:
+    - short_name: fLabMix1
+      biosample_id: SAMEA111562155
+      sex: male
+  genome_size: 1408320000
+  genome_size_method: GoaT
