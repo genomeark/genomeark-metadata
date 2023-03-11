@@ -12,5 +12,8 @@ species:
     - short_name: bFalPun1
       biosample_id: SAMEA14356472
       sex:
+    - short_name: bFalPun2
+      biosample_id: SAMEA14356473
+      sex: female
   genome_size: 1403430000
   genome_size_method: GoaT

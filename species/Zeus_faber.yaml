@@ -10,5 +10,9 @@ species:
     name: Zeidae
   individuals:
     - short_name: fZeuFab1
+      biosample_id: SAMEA104384836
+    - short_name: fZeuFab8
+      biosample_id: SAMEA111562156
+      sex:
   genome_size:
   genome_size_method:
