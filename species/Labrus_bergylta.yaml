@@ -1,0 +1,16 @@
+---
+species:
+  short_name: fLabBer
+  name: Labrus bergylta
+  taxon_id: 56723
+  common_name: ballan wrasse
+  order:
+    name: Perciformes
+  family:
+    name: Labridae
+  individuals:
+    - short_name: fLabBer1
+      biosample_id: SAMEA111562158
+      sex: female
+  genome_size: 1408320000
+  genome_size_method: GoaT
