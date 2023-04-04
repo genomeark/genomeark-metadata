@@ -6,7 +6,7 @@ species:
   short_name: bLatDis
   taxon_id: 678569
   common_name: Swift parrot
-  genome_size: 1.385
+  genome_size: 1385000000
   genome_size_method: GoAT
   order:
     name: Psittaciformes

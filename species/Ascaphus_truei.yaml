@@ -6,7 +6,7 @@ species:
   short_name: aAscTru
   taxon_id: 8439
   common_name: tailed frog
-  genome_size: 4.042
+  genome_size: 4042000000
   genome_size_method: GoAT
   order:
     name: Anura

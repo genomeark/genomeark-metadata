@@ -6,7 +6,7 @@ species:
   short_name: bSitCar
   taxon_id: 50250
   common_name: white-breasted nuthatches
-  genome_size: 1.193
+  genome_size: 1193000000
   genome_size_method: GoAT
   order:
     name: Passeriformes

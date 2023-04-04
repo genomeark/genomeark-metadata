@@ -6,7 +6,7 @@ species:
   short_name: fHopMal
   taxon_id: 27720
   common_name: trahira
-  genome_size: 1.252
+  genome_size: 1252000000
   genome_size_method: GoAT
   order:
     name: Characiformes

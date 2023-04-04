@@ -6,7 +6,7 @@ species:
   short_name: bCopSec
   taxon_id: 797021
   common_name: Seychelles magpie-robin
-  genome_size: 1.261
+  genome_size: 1261000000
   genome_size_method: GoAT
   order:
     name: Passeriformes

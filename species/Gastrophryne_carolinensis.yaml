@@ -6,7 +6,7 @@ species:
   short_name: aGasCar
   taxon_id: 8429
   common_name: eastern narrow-mouthed toad
-  genome_size: 4.548
+  genome_size: 4548000000
   genome_size_method: GoAT
   order:
     name: Anura

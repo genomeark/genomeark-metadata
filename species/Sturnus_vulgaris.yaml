@@ -6,7 +6,7 @@ species:
   short_name: bStuVul
   taxon_id: 9172
   common_name: Common starling
-  genome_size: 1.281
+  genome_size: 1281000000
   genome_size_method: GoAT
   order:
     name: Passeriformes
