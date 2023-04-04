@@ -1,6 +1,6 @@
 ---
 species:
-  short_name: qChiOpi
+  short_name: qmChiOpil
   name: Chionoecetes opilio
   taxon_id: 41210
   common_name: snow crab
@@ -9,8 +9,8 @@ species:
   family:
     name: Majidae
   individuals:
-    - short_name: qChiOpi1
+    - short_name: qmChiOpil2
       provider: Amber Messmer, Ian Bradbury, Corey Morris
       sex: male
-  genome_size: 2500000000
-  genome_size_method:
+  genome_size: 3000000000
+  genome_size_method: https://goat.genomehubs.org
