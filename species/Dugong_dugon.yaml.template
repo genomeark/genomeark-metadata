@@ -1,0 +1,14 @@
+species:
+  name: Dugong dugon
+  short_name: mDugDug
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mDugDug1
+    biosample_id:
+    description:
+    provider:

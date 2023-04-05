@@ -1,0 +1,14 @@
+species:
+  name: Balaenoptera ricei
+  short_name: mBalRic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mBalRic1
+    biosample_id:
+    description:
+    provider:

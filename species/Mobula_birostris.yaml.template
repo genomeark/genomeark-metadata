@@ -1,0 +1,14 @@
+species:
+  name: Mobula birostris
+  short_name: sMobBir
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sMobBir1
+    biosample_id:
+    description:
+    provider:

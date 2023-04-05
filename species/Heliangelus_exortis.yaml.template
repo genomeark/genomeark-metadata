@@ -1,0 +1,14 @@
+species:
+  name: Heliangelus exortis
+  short_name: bHelExo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bHelExo1
+    biosample_id:
+    description:
+    provider:

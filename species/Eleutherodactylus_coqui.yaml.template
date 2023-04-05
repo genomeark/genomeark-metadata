@@ -1,0 +1,14 @@
+species:
+  name: Eleutherodactylus coqui
+  short_name: aEleCoq
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aEleCoq3
+    biosample_id:
+    description:
+    provider:

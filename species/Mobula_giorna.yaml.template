@@ -1,0 +1,14 @@
+species:
+  name: Mobula giorna
+  short_name: sMobGio
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sMobGio1
+    biosample_id:
+    description:
+    provider:

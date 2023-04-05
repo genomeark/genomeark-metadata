@@ -1,0 +1,14 @@
+species:
+  name: Pelobates fuscus
+  short_name: aPelFus
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aPelFus1
+    biosample_id:
+    description:
+    provider:

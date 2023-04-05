@@ -1,0 +1,14 @@
+species:
+  name: Carcinoscorpius rotundicauda
+  short_name: qCarRot
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: qCarRot1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Narcine bancroftii
+  short_name: sNarBan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sNarBan1
+    biosample_id:
+    description:
+    provider:

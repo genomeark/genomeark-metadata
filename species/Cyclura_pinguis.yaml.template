@@ -1,0 +1,14 @@
+species:
+  name: Cyclura pinguis
+  short_name: rCycPin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rCycPin1
+    biosample_id:
+    description:
+    provider:

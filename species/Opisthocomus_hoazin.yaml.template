@@ -1,0 +1,14 @@
+species:
+  name: Opisthocomus hoazin
+  short_name: bOpiHoa
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bOpiHoa1
+    biosample_id:
+    description:
+    provider:

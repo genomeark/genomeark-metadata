@@ -1,0 +1,14 @@
+species:
+  name: Dixiphia pipra
+  short_name: bDixPip
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bDixPip1
+    biosample_id:
+    description:
+    provider:

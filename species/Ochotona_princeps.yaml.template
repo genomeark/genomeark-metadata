@@ -1,0 +1,14 @@
+species:
+  name: Ochotona princeps
+  short_name: mOchPri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mOchPri1
+    biosample_id:
+    description:
+    provider:

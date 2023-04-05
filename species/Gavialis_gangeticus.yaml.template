@@ -1,0 +1,14 @@
+species:
+  name: Gavialis gangeticus
+  short_name: rGavGan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rGavGan2
+    biosample_id:
+    description:
+    provider:

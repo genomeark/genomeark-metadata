@@ -1,0 +1,14 @@
+species:
+  name: Salminus brasiliensis
+  short_name: fSalBra
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fSalBra1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Spizella passerina
+  short_name: bSpiPas
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSpiPas1
+    biosample_id:
+    description:
+    provider:

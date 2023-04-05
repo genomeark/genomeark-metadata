@@ -1,0 +1,14 @@
+species:
+  name: Lepidochelys kempii
+  short_name: rLepKem
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rLepKem1
+    biosample_id:
+    description:
+    provider:

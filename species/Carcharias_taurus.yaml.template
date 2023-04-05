@@ -1,0 +1,14 @@
+species:
+  name: Carcharias taurus
+  short_name: sCarTau
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sCarTau1
+    biosample_id:
+    description:
+    provider:

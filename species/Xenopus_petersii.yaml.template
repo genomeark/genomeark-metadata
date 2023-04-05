@@ -1,0 +1,22 @@
+species:
+  name: Xenopus petersii
+  short_name: aXenPet
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aXenPet1
+    biosample_id:
+    description:
+    provider:
+  - short_name: aXenPet2
+    biosample_id:
+    description:
+    provider:
+  - short_name: aXenPet3
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Odontesthes bonariensis
+  short_name: fOdoBon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fOdoBon6
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Pelodytes ibericus
+  short_name: aPelIbe
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aPelIbe1
+    biosample_id:
+    description:
+    provider:

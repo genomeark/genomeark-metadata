@@ -1,0 +1,14 @@
+species:
+  name: Equus grevyi
+  short_name: mEquGre
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mEquGre1
+    biosample_id:
+    description:
+    provider:

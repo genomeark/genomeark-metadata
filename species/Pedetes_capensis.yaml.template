@@ -1,0 +1,14 @@
+species:
+  name: Pedetes capensis
+  short_name: mPedCap
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPedCap1
+    biosample_id:
+    description:
+    provider:

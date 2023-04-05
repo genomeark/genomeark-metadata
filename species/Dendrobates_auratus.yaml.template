@@ -1,0 +1,22 @@
+species:
+  name: Dendrobates auratus
+  short_name: aDenAur
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aDenAur1
+    biosample_id:
+    description:
+    provider:
+  - short_name: aDenAur2
+    biosample_id:
+    description:
+    provider:
+  - short_name: aDenAur3
+    biosample_id:
+    description:
+    provider:

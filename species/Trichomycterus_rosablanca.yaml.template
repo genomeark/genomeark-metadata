@@ -1,0 +1,14 @@
+species:
+  name: Trichomycterus rosablanca
+  short_name: fTriRos
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fTriRos1
+    biosample_id:
+    description:
+    provider:

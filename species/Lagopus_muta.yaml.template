@@ -1,0 +1,14 @@
+species:
+  name: Lagopus muta
+  short_name: bLagMut
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bLagMut1
+    biosample_id:
+    description:
+    provider:

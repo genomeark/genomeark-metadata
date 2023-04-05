@@ -1,0 +1,14 @@
+species:
+  name: Myioborus ornatus
+  short_name: bMyiOrn
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMyiOrn1
+    biosample_id:
+    description:
+    provider:

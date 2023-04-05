@@ -1,0 +1,14 @@
+species:
+  name: Anelosimus studiosus
+  short_name: qqAneStud
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: qqAneStud1
+    biosample_id:
+    description:
+    provider:

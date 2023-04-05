@@ -1,0 +1,14 @@
+species:
+  name: Mixophyes fleayi
+  short_name: aMixFle
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aMixFle1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,22 @@
+species:
+  name: Camelus dromedarius
+  short_name: mCamDro
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCamDro1
+    biosample_id:
+    description:
+    provider:
+  - short_name: mCamDro2
+    biosample_id:
+    description:
+    provider:
+  - short_name: mCamDro3
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,22 @@
+species:
+  name: Chlamydotis macqueenii
+  short_name: bChlMac
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bChlMac1
+    biosample_id:
+    description:
+    provider:
+  - short_name: bChlMac2
+    biosample_id:
+    description:
+    provider:
+  - short_name: bChlMac3
+    biosample_id:
+    description:
+    provider:

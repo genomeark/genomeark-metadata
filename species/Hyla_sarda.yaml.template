@@ -1,0 +1,14 @@
+species:
+  name: Hyla sarda
+  short_name: aHylSar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aHylSar1
+    biosample_id:
+    description:
+    provider:

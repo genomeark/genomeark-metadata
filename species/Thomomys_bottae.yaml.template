@@ -1,0 +1,14 @@
+species:
+  name: Thomomys bottae
+  short_name: mThoBot
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mThoBot2
+    biosample_id:
+    description:
+    provider:

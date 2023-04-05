@@ -1,0 +1,18 @@
+species:
+  name: Mustela lutreola
+  short_name: mMusLut
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMusLut2
+    biosample_id:
+    description:
+    provider:
+  - short_name: mMusLut3
+    biosample_id:
+    description:
+    provider:

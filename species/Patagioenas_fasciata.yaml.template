@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas fasciata
+  short_name: bPatFas
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatFas1
+    biosample_id:
+    description:
+    provider:

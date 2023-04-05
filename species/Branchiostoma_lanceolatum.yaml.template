@@ -1,0 +1,14 @@
+species:
+  name: Branchiostoma lanceolatum
+  short_name: iBraLan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: iBraLan1
+    biosample_id:
+    description:
+    provider:

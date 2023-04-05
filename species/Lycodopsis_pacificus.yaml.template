@@ -1,0 +1,14 @@
+species:
+  name: Lycodopsis pacificus
+  short_name: fLycPai
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fLycPai1
+    biosample_id:
+    description:
+    provider:

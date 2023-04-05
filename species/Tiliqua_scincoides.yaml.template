@@ -1,0 +1,14 @@
+species:
+  name: Tiliqua scincoides
+  short_name: rTilSci
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rTilSci1
+    biosample_id:
+    description:
+    provider:

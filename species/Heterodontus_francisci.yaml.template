@@ -1,0 +1,14 @@
+species:
+  name: Heterodontus francisci
+  short_name: sHetFra
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sHetFra1
+    biosample_id:
+    description:
+    provider:

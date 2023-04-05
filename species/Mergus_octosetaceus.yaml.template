@@ -1,0 +1,14 @@
+species:
+  name: Mergus octosetaceus
+  short_name: bMerOct
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMerOct1
+    biosample_id:
+    description:
+    provider:
