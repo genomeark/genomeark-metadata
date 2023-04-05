@@ -1,0 +1,8 @@
+---
+projects:
+  - ident: vgp
+    name:  Vertebrate Genomes Project
+    url:   https://vertebrategenomesproject.org/
+  - ident: t2t
+    name:  Telomere-to-Telomere Project
+    url:   https://sites.google.com/ucsc.edu/t2tworkinggroup
