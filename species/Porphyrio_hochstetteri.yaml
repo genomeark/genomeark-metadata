@@ -21,3 +21,4 @@ species:
       provider: Glen Greaves, Lara Urban
   genome_size: 1200000000
   genome_size_method:
+  project: [ vgp ]

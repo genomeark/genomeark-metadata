@@ -12,3 +12,4 @@ species:
     name: Cichliformes
   short_name: fAmpLab
   taxon_id: 61820
+  project: [ vgp ]

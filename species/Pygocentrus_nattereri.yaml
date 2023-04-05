@@ -12,3 +12,4 @@ species:
     name: Characiformes
   short_name: fPygNat
   taxon_id: 42514
+  project: [ vgp ]

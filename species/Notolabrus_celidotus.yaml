@@ -12,3 +12,4 @@ species:
     name: Perciformes
   short_name: fNotCel
   taxon_id: 1203425
+  project: [ vgp ]

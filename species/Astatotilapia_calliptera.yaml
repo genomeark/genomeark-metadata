@@ -12,3 +12,4 @@ species:
     - short_name: fAstCal1
   genome_size: 972478608
   genome_size_method:
+  project: [ vgp ]

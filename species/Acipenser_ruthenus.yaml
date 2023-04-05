@@ -21,3 +21,4 @@ species:
       father: fAciRut2
   genome_size: 
   genome_size_method:
+  project: [ vgp ]

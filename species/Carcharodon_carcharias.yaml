@@ -12,3 +12,4 @@ species:
     name: Lamniformes
   short_name: sCarCar
   taxon_id: 13397
+  project: [ vgp ]

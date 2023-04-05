@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   family:
     name: Fringillidae
+  project: [ vgp ]

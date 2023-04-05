@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bSylAtr
   taxon_id: 48155
+  project: [ vgp ]

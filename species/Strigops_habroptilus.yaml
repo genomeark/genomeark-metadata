@@ -12,3 +12,4 @@ species:
     - short_name: bStrHab1
   genome_size: 1193409022
   genome_size_method:
+  project: [ vgp ]

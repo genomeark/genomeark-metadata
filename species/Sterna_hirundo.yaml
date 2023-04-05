@@ -12,3 +12,4 @@ species:
     name: Charadriiformes
   short_name: bSteHir
   taxon_id: 108405
+  project: [ vgp ]

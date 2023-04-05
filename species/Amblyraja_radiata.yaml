@@ -12,3 +12,4 @@ species:
     - short_name: sAmbRad1
   genome_size: 2072923533
   genome_size_method:
+  project: [ vgp ]

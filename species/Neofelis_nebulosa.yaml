@@ -12,3 +12,4 @@ species:
     name: Carnivora
   family:
     name: Felidae
+  project: [ vgp ]

@@ -17,3 +17,4 @@ species:
       provider: Reid Hyle, Nina Overgaard Therkildsen
   genome_size: 900000000
   genome_size_method:
+  project: [ vgp ]

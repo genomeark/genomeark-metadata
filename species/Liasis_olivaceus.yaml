@@ -12,3 +12,4 @@ species:
     name: Squamata
   family:
     name: Pythonidae
+  project: [ vgp ]

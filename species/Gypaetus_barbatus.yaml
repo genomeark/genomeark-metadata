@@ -12,3 +12,4 @@ species:
     name: Falconiformes
   family:
     name: Accipitridae
+  project: [ vgp ]

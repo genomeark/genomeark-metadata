@@ -17,3 +17,4 @@ species:
       sex: female
   genome_size: 1403430000
   genome_size_method: GoaT
+  project: [ ]

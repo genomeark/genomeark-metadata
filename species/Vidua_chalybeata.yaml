@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bVidCha
   taxon_id: 81927
+  project: [ vgp ]

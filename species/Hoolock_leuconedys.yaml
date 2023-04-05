@@ -29,3 +29,4 @@ species:
          sample_biosample_id: null
   genome_size: 3230000000
   genome_size_method: GoaT ancestral inferred
+  project: [ ]

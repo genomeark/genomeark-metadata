@@ -12,3 +12,4 @@ species:
     name: Psittaciformes
   family:
     name: Psittacidae
+  project: [ vgp ]

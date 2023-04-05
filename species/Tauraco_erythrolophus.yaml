@@ -12,3 +12,4 @@ species:
     name: Musophagiformes
   short_name: bTauEry
   taxon_id: 121530
+  project: [ vgp ]

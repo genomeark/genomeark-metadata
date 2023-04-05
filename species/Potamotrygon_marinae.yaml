@@ -14,3 +14,4 @@ species:
       provider: Yann Guiguen, Julien Bobe, Gavin Naylor
   genome_size: 4500000000
   genome_size_method:
+  project: [ vgp ]

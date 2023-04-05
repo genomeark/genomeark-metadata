@@ -12,3 +12,4 @@ species:
     name: Perciformes
   short_name: fTauAds
   taxon_id: 34787
+  project: [ vgp ]

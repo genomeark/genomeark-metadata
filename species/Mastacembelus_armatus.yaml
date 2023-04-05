@@ -12,3 +12,4 @@ species:
     - short_name: fMasArm1
   genome_size: 756753344
   genome_size_method:
+  project: [ vgp ]

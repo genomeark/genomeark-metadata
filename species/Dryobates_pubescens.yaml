@@ -12,3 +12,4 @@ species:
     name: Piciformes
   short_name: bDryPub
   taxon_id: 118200
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Testudines
   short_name: rGopFla
   taxon_id: 286002
+  project: [ vgp ]

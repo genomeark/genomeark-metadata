@@ -12,3 +12,4 @@ species:
     name: Piciformes
   short_name: bPogPus
   taxon_id: 488313
+  project: [ vgp ]

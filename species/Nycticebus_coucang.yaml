@@ -12,3 +12,4 @@ species:
     name: Primates
   family:
     name: Lorisidae
+  project: [ vgp ]

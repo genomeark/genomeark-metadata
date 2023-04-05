@@ -12,3 +12,4 @@ species:
     name: Lophiiformes
   short_name: fAntMac
   taxon_id: 882753
+  project: [ vgp ]

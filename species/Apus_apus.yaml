@@ -10,3 +10,4 @@ species:
     name: Apodidae
   individuals:
     - short_name: bApuApu2
+  project: [ vgp ]

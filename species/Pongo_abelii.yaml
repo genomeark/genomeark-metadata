@@ -47,3 +47,4 @@ species:
          sample_biosample_id: SAMN13178754
   genome_size: 3579480000
   genome_size_method: GoaT ancestral inferred
+  project: [ t2t ]

@@ -12,3 +12,4 @@ species:
     name: Phoenicopteriformes
   short_name: bPhoRub
   taxon_id: 9217
+  project: [ vgp ]

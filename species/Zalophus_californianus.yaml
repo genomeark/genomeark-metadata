@@ -12,3 +12,4 @@ species:
     name: Carnivora
   short_name: mZalCal
   taxon_id: 9704
+  project: [ vgp ]

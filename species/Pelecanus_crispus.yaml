@@ -10,3 +10,4 @@ species:
     name: Pelecanidae
   individuals:
     - short_name: bPelCri1
+  project: [ vgp ]

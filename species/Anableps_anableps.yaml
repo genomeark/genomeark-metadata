@@ -12,3 +12,4 @@ species:
     - short_name: fAnaAna1
   genome_size: 939460000
   genome_size_method: 10X Genomics Supernova assembly 
+  project: [ vgp ]

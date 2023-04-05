@@ -10,3 +10,4 @@ species:
     name: Melanotaeniidae
   individuals:
     - short_name: fMelBoe1
+  project: [ vgp ]

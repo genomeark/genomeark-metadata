@@ -12,3 +12,4 @@ species:
     name: Apodiformes
   short_name: bHemCom
   taxon_id: 243314
+  project: [ vgp ]

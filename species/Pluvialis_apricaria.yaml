@@ -12,3 +12,4 @@ species:
     name: Charadriiformes
   short_name: bPluApr
   taxon_id: 670352
+  project: [ vgp ]

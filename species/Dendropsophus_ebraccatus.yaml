@@ -12,3 +12,4 @@ species:
     name: Anura
   short_name: aDenEbr
   taxon_id: 150705
+  project: [ vgp ]

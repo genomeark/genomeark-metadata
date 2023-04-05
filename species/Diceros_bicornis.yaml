@@ -34,3 +34,4 @@ species:
         taxon_id: 1081385
   genome_size: 3000000000
   genome_size_method:
+  project: [ vgp ]

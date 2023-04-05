@@ -12,3 +12,4 @@ species:
     name: Orectolobiformes
   short_name: sHemOce
   taxon_id: 170820
+  project: [ vgp ]

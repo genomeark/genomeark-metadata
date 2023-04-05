@@ -12,3 +12,4 @@ species:
     - short_name: bGeoTri1
   genome_size: 1440000000
   genome_size_method: Feulgen Image Analysis Densitometry
+  project: [ vgp ]

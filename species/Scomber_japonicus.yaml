@@ -13,3 +13,4 @@ species:
       provider: Chul Lee
   genome_size: 900000000
   genome_size_method:
+  project: [ vgp ]

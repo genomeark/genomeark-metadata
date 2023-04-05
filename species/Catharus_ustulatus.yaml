@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bCatUst
   taxon_id: 91951
+  project: [ vgp ]

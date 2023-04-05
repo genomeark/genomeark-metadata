@@ -14,3 +14,4 @@ species:
       sex: female
   genome_size: 1400000000
   genome_size_method: GoaT ancestral inferred
+  project: [ vgp ]

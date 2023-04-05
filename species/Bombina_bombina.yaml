@@ -10,3 +10,4 @@ species:
     name: Bombinatoridae
   individuals:
     - short_name: aBomBom1
+  project: [ vgp ]

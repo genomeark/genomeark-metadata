@@ -12,3 +12,4 @@ species:
     name: Cuculiformes
   short_name: bCucCan
   taxon_id: 55661
+  project: [ vgp ]

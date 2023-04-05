@@ -12,3 +12,4 @@ species:
     - short_name: bAquChr1
   genome_size:
   genome_size_method:
+  project: [ vgp ]

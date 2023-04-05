@@ -12,3 +12,4 @@ species:
     name: Pleuronectiformes
   short_name: fHipHip
   taxon_id: 8267
+  project: [ vgp ]

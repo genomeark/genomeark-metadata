@@ -12,3 +12,4 @@ species:
     name: Falconiformes
   short_name: bFalRus
   taxon_id: 120794
+  project: [ vgp ]

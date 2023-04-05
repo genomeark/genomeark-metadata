@@ -10,3 +10,4 @@ species:
     name: Testudines
   short_name: rCheMyd
   taxon_id: 8469
+  project: [ vgp ]

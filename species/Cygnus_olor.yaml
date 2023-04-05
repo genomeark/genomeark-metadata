@@ -12,3 +12,4 @@ species:
     name: Anseriformes
   short_name: bCygOlo
   taxon_id: 8869
+  project: [ vgp ]

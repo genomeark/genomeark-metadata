@@ -20,3 +20,4 @@ species:
       sex: female
   genome_size:
   genome_size_method:
+  project: [ vgp ]

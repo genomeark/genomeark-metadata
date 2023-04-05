@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bCorMon
   taxon_id: 1196302
+  project: [ vgp ]

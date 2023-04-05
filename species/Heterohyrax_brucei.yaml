@@ -10,3 +10,4 @@ species:
     name: Procaviidae
   individuals:
     - short_name: mHetBru1
+  project: [ vgp ]

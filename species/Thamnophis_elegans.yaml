@@ -12,3 +12,4 @@ species:
     name: Squamata
   short_name: rThaEle
   taxon_id: 35005
+  project: [ vgp ]

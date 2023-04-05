@@ -16,3 +16,4 @@ species:
     - short_name: bTaeGut5
   genome_size: 1035611271
   genome_size_method:
+  project: [ vgp ]

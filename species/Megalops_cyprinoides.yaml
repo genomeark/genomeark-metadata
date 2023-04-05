@@ -12,3 +12,4 @@ species:
     name: Elopiformes
   short_name: fMegCyp
   taxon_id: 118141
+  project: [ vgp ]

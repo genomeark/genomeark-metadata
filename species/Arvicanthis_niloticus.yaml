@@ -12,3 +12,4 @@ species:
     name: Rodentia
   short_name: mArvNil
   taxon_id: 61156
+  project: [ vgp ]

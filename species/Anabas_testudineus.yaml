@@ -12,3 +12,4 @@ species:
     - short_name: fAnaTes1
   genome_size: 662696525
   genome_size_method:
+  project: [ vgp ]

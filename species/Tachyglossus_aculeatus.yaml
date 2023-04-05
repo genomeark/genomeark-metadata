@@ -12,3 +12,4 @@ species:
     name: Monotremata
   short_name: mTacAcu
   taxon_id: 9261
+  project: [ vgp ]

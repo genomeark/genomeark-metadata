@@ -14,3 +14,4 @@ species:
       provider: Jolene Sutton, Stefanie Großer
   genome_size: 1200000000
   genome_size_method:
+  project: [ vgp ]

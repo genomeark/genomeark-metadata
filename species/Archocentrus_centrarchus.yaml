@@ -12,3 +12,4 @@ species:
     - short_name: fArcCen1
   genome_size: 988048114
   genome_size_method:
+  project: [ vgp ]

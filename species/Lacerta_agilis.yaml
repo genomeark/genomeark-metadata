@@ -12,3 +12,4 @@ species:
     name: Squamata
   short_name: rLacAgi
   taxon_id: 80427
+  project: [ vgp ]

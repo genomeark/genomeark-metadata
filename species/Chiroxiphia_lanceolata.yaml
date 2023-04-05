@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bChiLan
   taxon_id: 296741
+  project: [ vgp ]

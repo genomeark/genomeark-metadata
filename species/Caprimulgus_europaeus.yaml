@@ -12,3 +12,4 @@ species:
     name: Caprimulgiformes
   short_name: bCapEur
   taxon_id: 111811
+  project: [ vgp ]

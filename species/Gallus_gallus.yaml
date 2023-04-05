@@ -38,3 +38,4 @@ species:
     sex: female
     description: >
         Broiler Cobb breed;
+  project: [ vgp ]

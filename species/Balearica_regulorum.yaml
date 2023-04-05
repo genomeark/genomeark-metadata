@@ -12,3 +12,4 @@ species:
     name: Gruiformes
   short_name: bBalReg
   taxon_id: 925459
+  project: [ vgp ]

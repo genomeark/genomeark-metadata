@@ -10,3 +10,4 @@ species:
     name: Galaxiidae
   individuals:
     - short_name: fAplTae1
+  project: [ vgp ]

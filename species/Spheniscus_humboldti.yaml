@@ -12,3 +12,4 @@ species:
     name: Sphenisciformes
   family:
     name: Spheniscidae
+  project: [ vgp ]

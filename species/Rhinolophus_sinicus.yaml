@@ -14,3 +14,4 @@ species:
       sex: male
   genome_size: 2900000000
   genome_size_method:
+  project: [ vgp ]

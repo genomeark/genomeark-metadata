@@ -13,3 +13,4 @@ species:
       provider: Tomas Hrbek, Guilherme Oliveira
   genome_size: 1200000000
   genome_size_method:
+  project: [ vgp ]

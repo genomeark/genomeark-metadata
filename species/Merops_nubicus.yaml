@@ -12,3 +12,4 @@ species:
     name: Coraciiformes
   short_name: bMerNub
   taxon_id: 57421
+  project: [ vgp ]

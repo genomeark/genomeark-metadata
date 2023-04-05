@@ -79,3 +79,4 @@ species:
          sample_biosample_id: SAMN31928435
   genome_size: 3491460000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+  project: [ t2t ]

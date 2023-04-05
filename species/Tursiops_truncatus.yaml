@@ -12,3 +12,4 @@ species:
     name: Artiodactyla
   short_name: mTurTru
   taxon_id: 9739
+  project: [ vgp ]

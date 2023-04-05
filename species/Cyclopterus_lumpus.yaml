@@ -12,3 +12,4 @@ species:
     name: Scorpaeniformes
   short_name: fCycLum
   taxon_id: 8103
+  project: [ vgp ]

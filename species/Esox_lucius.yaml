@@ -12,3 +12,4 @@ species:
     - short_name: fEsoLuc1
   genome_size: 1105706148
   genome_size_method: Genomescope
+  project: [ vgp ]

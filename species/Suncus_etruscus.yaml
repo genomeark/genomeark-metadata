@@ -14,3 +14,4 @@ species:
       provider: Susanne Meyer, Jessica Antosiewicz-Bourget, Yury Bukhman
   genome_size: 3000000000
   genome_size_method:
+  project: [ vgp ]

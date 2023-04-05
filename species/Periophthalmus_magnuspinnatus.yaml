@@ -12,3 +12,4 @@ species:
     name: Gobiiformes
   short_name: fPerMag
   taxon_id: 409849
+  project: [ vgp ]

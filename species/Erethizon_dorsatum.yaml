@@ -12,3 +12,4 @@ species:
     name: Rodentia
   short_name: mEreDor
   taxon_id: 34844
+  project: [ vgp ]

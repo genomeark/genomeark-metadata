@@ -12,3 +12,4 @@ species:
     name: Lemuriformes
   short_name: mLemCat
   taxon_id: 9447
+  project: [ vgp ]

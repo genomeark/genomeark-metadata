@@ -10,3 +10,4 @@ species:
     name: Pangasiidae
   individuals:
     - short_name: fPanHyp1
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Gymnotiformes
   short_name: fEleEle
   taxon_id: 8005
+  project: [ vgp ]

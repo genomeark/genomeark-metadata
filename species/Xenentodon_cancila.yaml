@@ -10,3 +10,4 @@ species:
     name: Belonidae
   individuals:
     - short_name: fXenCan1
+  project: [ vgp ]

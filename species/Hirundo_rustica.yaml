@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bHirRus
   taxon_id: 43150
+  project: [ vgp ]

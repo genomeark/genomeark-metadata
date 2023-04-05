@@ -20,3 +20,4 @@ species:
       sex: male
   genome_size: 713940000
   genome_size_method: GoaT
+  project: [ ]

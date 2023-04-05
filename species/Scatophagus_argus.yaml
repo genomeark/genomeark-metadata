@@ -12,3 +12,4 @@ species:
     name: Perciformes
   short_name: fScaArg
   taxon_id: 75038
+  project: [ vgp ]

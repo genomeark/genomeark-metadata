@@ -12,3 +12,4 @@ species:
     name: Charadriiformes
   short_name: bAlcTor
   taxon_id: 28689
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Passeriformes
   short_name: bSylBor
   taxon_id: 1471886
+  project: [ vgp ]

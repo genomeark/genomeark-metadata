@@ -12,3 +12,4 @@ species:
     name: Pterocliformes
   short_name: bPteGut
   taxon_id: 240206
+  project: [ vgp ]

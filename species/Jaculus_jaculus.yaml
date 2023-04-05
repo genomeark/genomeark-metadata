@@ -10,3 +10,4 @@ species:
     name: Dipodidae
   individuals:
     - short_name: mJacJac1
+  project: [ vgp ]

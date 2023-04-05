@@ -10,3 +10,4 @@ species:
     name: Toxotidae
   individuals:
     - short_name: fToxJac2
+  project: [ vgp ]

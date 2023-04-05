@@ -10,3 +10,4 @@ species:
     name: Pholidichthyidae
   individuals:
     - short_name: fPhoLeu1
+  project: [ vgp ]

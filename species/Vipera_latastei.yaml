@@ -13,3 +13,4 @@ species:
       provider: Tomàs Marqués
   genome_size: 2500000000
   genome_size_method:
+  project: [ vgp ]

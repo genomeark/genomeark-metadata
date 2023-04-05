@@ -13,3 +13,4 @@ species:
     - short_name: fCotGob3
   genome_size: 700000000
   genome_size_method:
+  project: [ vgp ]

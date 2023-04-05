@@ -12,3 +12,4 @@ species:
     - short_name: mPipKuh1
   genome_size: 1775719727
   genome_size_method: DAmar assembly 
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Cingulata
   family:
     name: Dasypodidae
+  project: [ vgp ]

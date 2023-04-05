@@ -12,3 +12,4 @@ species:
     name: Cetartiodactyla
   short_name: mBosTau
   taxon_id: 9913
+  project: [ vgp ]

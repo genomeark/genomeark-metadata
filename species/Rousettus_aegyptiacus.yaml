@@ -12,3 +12,4 @@ species:
     name: Chiroptera
   short_name: mRouAeg
   taxon_id: 9407
+  project: [ vgp ]

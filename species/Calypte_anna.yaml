@@ -12,3 +12,4 @@ species:
     - short_name: bCalAnn1
   genome_size: 1116472572
   genome_size_method:
+  project: [ vgp ]

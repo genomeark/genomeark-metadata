@@ -12,3 +12,4 @@ species:
     name: Ciconiiformes
   short_name: bCicMag
   taxon_id: 52777
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Petromyzontiformes
   short_name: kPetMar
   taxon_id: 7757
+  project: [ vgp ]

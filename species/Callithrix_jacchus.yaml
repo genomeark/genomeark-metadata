@@ -12,3 +12,4 @@ species:
     name: Primates
   short_name: mCalJac
   taxon_id: 9483
+  project: [ vgp ]

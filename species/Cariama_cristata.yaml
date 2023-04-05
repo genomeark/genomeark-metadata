@@ -12,3 +12,4 @@ species:
     - short_name: bCarCri1
   genome_size: 1500000000
   genome_size_method:
+  project: [ vgp ]

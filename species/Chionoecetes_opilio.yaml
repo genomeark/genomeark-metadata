@@ -14,3 +14,4 @@ species:
       sex: male
   genome_size: 3000000000
   genome_size_method: https://goat.genomehubs.org
+  project: [ vgp ]

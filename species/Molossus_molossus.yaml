@@ -12,3 +12,4 @@ species:
     - short_name: mMolMol1
   genome_size: 2319008189
   genome_size_method: DAmar assembly 
+  project: [ vgp ]

@@ -10,3 +10,4 @@ species:
     name: Chiroptera
   short_name: mMyoMyo
   taxon_id: 51298
+  project: [ vgp ]

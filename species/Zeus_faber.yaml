@@ -16,3 +16,4 @@ species:
       sex:
   genome_size:
   genome_size_method:
+  project: [ vgp ]

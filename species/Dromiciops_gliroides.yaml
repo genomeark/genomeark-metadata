@@ -10,3 +10,4 @@ species:
     name: Microbiotheriidae
   individuals:
     - short_name: mDroGli1
+  project: [ vgp ]

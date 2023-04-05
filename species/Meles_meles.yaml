@@ -22,3 +22,4 @@ species:
       mother: mMelMel2
   genome_size: 2802245436
   genome_size_method: genomescope (k=31)
+  project: [ vgp ]

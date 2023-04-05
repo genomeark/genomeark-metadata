@@ -12,3 +12,4 @@ species:
     name: Carnivora
   short_name: mMusErm
   taxon_id: 36723
+  project: [ vgp ]

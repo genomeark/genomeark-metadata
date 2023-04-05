@@ -12,3 +12,4 @@ species:
       biosample_id: SAMEA8748816
   genome_size:
   genome_size_method:
+  project: [ vgp ]

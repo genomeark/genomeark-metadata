@@ -12,3 +12,4 @@ species:
     - short_name: fAngAng1
   genome_size: 1355153153
   genome_size_method: meryl
+  project: [ vgp ]

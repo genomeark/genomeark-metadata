@@ -12,3 +12,4 @@ species:
     - short_name: mBalMus1
   genome_size: 3093707188
   genome_size_method: genomescope (k=31)
+  project: [ vgp ]

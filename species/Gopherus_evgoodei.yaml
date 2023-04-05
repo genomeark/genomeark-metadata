@@ -12,3 +12,4 @@ species:
     - short_name: rGopEvg1
   genome_size: 2684436481
   genome_size_method:
+  project: [ vgp ]

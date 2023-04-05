@@ -12,3 +12,4 @@ species:
     name: Anura
   family:
     name: Myobatrachidae
+  project: [ vgp ]

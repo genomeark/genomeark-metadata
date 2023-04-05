@@ -10,3 +10,4 @@ species:
     name: Laridae
   individuals:
     - short_name: bRisTri1
+  project: [ vgp ]

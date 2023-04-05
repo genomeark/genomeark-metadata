@@ -14,3 +14,4 @@ species:
     name: Falconiformes
   short_name: bFalNau
   taxon_id: 148594
+  project: [ vgp ]

@@ -12,3 +12,4 @@ species:
     name: Psittaciformes
   short_name: bMelUnd
   taxon_id: 13146
+  project: [ vgp ]

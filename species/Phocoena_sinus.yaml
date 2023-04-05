@@ -12,3 +12,4 @@ species:
     name: Artiodactyla
   short_name: mPhoSin
   taxon_id: 42100
+  project: [ vgp ]

@@ -10,3 +10,4 @@ species:
     name: Alytidae
   individuals:
     - short_name: aDisPic1
+  project: [ vgp ]

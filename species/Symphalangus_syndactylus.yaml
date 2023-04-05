@@ -24,3 +24,4 @@ species:
       mother: null
   genome_size: 3295860000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+  project: [ t2t ]
