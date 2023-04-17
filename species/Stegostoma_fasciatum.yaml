@@ -1,0 +1,14 @@
+---
+species:
+  name: Stegostoma fasciatum
+  individuals:
+  - short_name: sSteFas4
+  short_name: sSteFas
+  taxon_id: 378071
+  common_name: zebra shark
+  genome_size: 3157655626
+  genome_size_method: 
+  order:
+    name: Orectolobiformes
+  family:
+    name: Stegostomatidae

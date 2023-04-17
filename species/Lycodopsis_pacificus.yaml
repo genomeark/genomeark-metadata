@@ -1,0 +1,14 @@
+---
+species:
+  name: Lycodopsis pacificus
+  individuals:
+  - short_name: fLycPai1
+  short_name: fLycPai
+  taxon_id: 1772091
+  common_name: blackbelly eelpout
+  genome_size: 649712992
+  genome_size_method: 
+  order:
+    name: Scorpaeniformes
+  family:
+    name: Zoarcidae

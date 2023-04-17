@@ -1,0 +1,24 @@
+---
+species:
+  common_name: dark-edged splitfin
+  family:
+    name: Goodeidae
+  genome_size: 1150000000
+  genome_size_method: GOAT
+  individuals:
+  - short_name: fGirMul3
+  name: Girardinichthys multiradiatus
+  order:
+    name: Cyprinodontiformes
+  short_name: fGirMul
+  taxon_id: 208333
+individuals:
+- short_name: fGirMul3
+    sex: male
+    provider: Manfred Schartl
+- short_name: fGirMul4
+    sex: male
+    provider: Manfred Schartl
+- short_name: fGirMul5
+    sex: male
+    provider: Manfred Schartl
