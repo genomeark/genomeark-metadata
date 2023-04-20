@@ -1,0 +1,14 @@
+species:
+  name: Hydrolagus colliei
+  short_name: sHydCol
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sHydCol1
+    biosample_id:
+    description:
+    provider:
