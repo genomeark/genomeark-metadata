@@ -9,6 +9,9 @@ species:
   family:
     name: Psittacidae
   individuals:
+    - short_name: bPsiEch1
+      biosample_id: SAMEA12361723
+      sex: female
     - short_name: bPsiEch3
       biosample_id: SAMEA12361725
       sex:

@@ -9,6 +9,9 @@ species:
   family:
     name: Cervidae
   individuals:
+    - short_name: mMunRee1
+      biosample_id: SAMEA110690972
+      sex: female
     - short_name: mMunRee2
       biosample_id: SAMEA110690973
       sex: male
