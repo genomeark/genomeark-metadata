@@ -2,16 +2,16 @@
 species:
   short_name: fHypImm
   name: Hyperoplus immaculatus
-  taxon_id: 
-  common_name: 
+  taxon_id: 1484357
+  common_name: greater sand-eel
   order:
-    name: 
+    name: Uranoscopiformes
   family:
-    name: 
+    name: Ammodytidae
   individuals:
     - short_name: fHypImm3
-      biosample_id: 
+      biosample_id: SAMEA13854416
       sex:
   genome_size:
   genome_size_method: GoaT
-  project: [ ]
+  project: [ vgp ]

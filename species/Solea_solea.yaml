@@ -12,12 +12,6 @@ species:
     - short_name: fSolSol10
       biosample_id: SAMEA10984647
       sex: female
-    - short_name: fSolSol3
-      biosample_id: SAMEA10984640
-      sex: female
-    - short_name: fSolSol7
-      biosample_id: SAMEA10984644
-      sex: male
   genome_size: 713940000
   genome_size_method: GoaT
-  project: [ ]
+  project: [ vgp ]

@@ -10,7 +10,8 @@ species:
     name: Paralepididae
   individuals:
     - short_name: fNotCoa1
-      biosample_id: SAMEA8748820
+      biosample_id: SAMEA8748806
+      sex:
   genome_size:
   genome_size_method:
   project: [ vgp ]

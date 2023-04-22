@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bOtiTar
+  name: Otis tarda
+  taxon_id: 73107
+  common_name: great bustard
+  order:
+    name: Otidiformes
+  family:
+    name: Otididae
+  individuals:
+    - short_name: bOtiTar3
+      biosample_id: SAMEA9850966
+      sex: female
+  genome_size: 1388760000
+  genome_size_method: GoaT
+  project: [ vgp ]
