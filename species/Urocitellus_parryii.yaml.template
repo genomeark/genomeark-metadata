@@ -1,0 +1,14 @@
+species:
+  name: Urocitellus parryii
+  short_name: mUroPar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mUroPar3
+    biosample_id:
+    description:
+    provider:

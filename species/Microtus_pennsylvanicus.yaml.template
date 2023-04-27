@@ -1,0 +1,14 @@
+species:
+  name: Microtus pennsylvanicus
+  short_name: mMicPen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMicPen1
+    biosample_id:
+    description:
+    provider:

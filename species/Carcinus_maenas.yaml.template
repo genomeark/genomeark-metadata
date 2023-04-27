@@ -1,0 +1,14 @@
+species:
+  name: Carcinus maenas
+  short_name: qmCarMaen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: qmCarMaen1
+    biosample_id:
+    description:
+    provider:

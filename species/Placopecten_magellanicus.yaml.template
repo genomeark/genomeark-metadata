@@ -1,0 +1,14 @@
+species:
+  name: Placopecten magellanicus
+  short_name: bxPlaMage
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bxPlaMage1
+    biosample_id:
+    description:
+    provider:
