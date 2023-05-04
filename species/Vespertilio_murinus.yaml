@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mVesMur
+  name: Vespertilio murinus
+  taxon_id: 59485
+  common_name: particolored bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mVesMur1
+      biosample_id: SAMEA112247422
+      sex:
+  genome_size: 2288520000
+  genome_size_method: GoaT
+  project: [ dtol, vgp ]
