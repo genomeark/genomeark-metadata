@@ -1,0 +1,30 @@
+species:
+  name: Equus asinus
+  short_name: mEquAsi
+  common_name: ass (donkey)
+  taxon_id: 9793
+  order:
+    name: Perissodactyla
+  family:
+    name: Equidae
+  individuals:
+  - 
+    short_name: mEquAsi1
+    biosample_id: null
+	strain: null
+    subspecies:
+      name: Equus asinus africanus
+      common_name: African wild ass
+      taxon_id: 582580
+	alt_ids:
+	- 3611
+	sex: male
+    description: >
+	  This individual is the sire for a mule trio (mEquAca1).
+	  The dam for the trio is mEquCab4.
+    provider: Ted Kalbfleisch (University of Kentucky)
+	mother: null
+	father: null
+  genome_size: 4030000000
+  genome_size_method: GoaT
+  project: [ ]
