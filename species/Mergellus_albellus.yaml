@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bMerAlb
+  name: Mergellus albellus
+  taxon_id: 107026
+  common_name: Smew
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bMerAlb1
+      biosample_id: SAMEA112468122
+      sex: female
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bCygCol
+  name: Cygnus columbianus
+  taxon_id: 110926
+  common_name: tundra swan
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bCygCol1
+      biosample_id: SAMEA112468031
+      sex: female
+  genome_size: 1471890000
+  genome_size_method: GoaT
+  project: [ vgp ]

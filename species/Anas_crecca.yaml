@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAnaCre
+  name: Anas crecca
+  taxon_id: 75839
+  common_name: Common teal
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAnaCre1
+      biosample_id: SAMEA112468121
+      sex: male
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

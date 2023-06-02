@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarFus
+  name: Larus fuscus
+  taxon_id: 8915
+  common_name: Lesser black-backed gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarFus1
+      biosample_id: SAMEA112468039
+      sex: female
+  genome_size: 1432770000
+  genome_size_method: GoaT
+  project: [ vgp ]

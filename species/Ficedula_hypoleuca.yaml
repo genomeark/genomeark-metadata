@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bFicHyp
+  name: Ficedula hypoleuca
+  taxon_id: 46689
+  common_name: Pied Flycatcher
+  order:
+    name: Passeriformes
+  family:
+    name: Muscicapidae
+  individuals:
+    - short_name: bFicHyp2
+      biosample_id: SAMEA112468131
+      sex: female
+  genome_size: 1234725000
+  genome_size_method: GoaT
+  project: [ vgp ]

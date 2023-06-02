@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bMarStr
+  name: Mareca strepera
+  taxon_id: 75861
+  common_name: gadwall
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bMarStr1
+      biosample_id: SAMEA112468030
+      sex: female
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

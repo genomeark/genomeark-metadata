@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bClaHye
+  name: Clangula hyemalis
+  taxon_id: 197941
+  common_name: long-tailed duck
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bClaHye2
+      biosample_id: SAMEA112468035
+      sex: male
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

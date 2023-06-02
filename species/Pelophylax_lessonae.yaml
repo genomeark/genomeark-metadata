@@ -1,0 +1,17 @@
+---
+species:
+  short_name: aPelLes
+  name: Pelophylax lessonae
+  taxon_id: 45623
+  common_name: pool frog
+  order:
+    name: Anura
+  family:
+    name: Ranidae
+  individuals:
+    - short_name: aPelLes1
+      biosample_id: SAMEA112468029
+      sex: female
+  genome_size: 6288540000
+  genome_size_method: GoaT
+  project: [ vgp ]

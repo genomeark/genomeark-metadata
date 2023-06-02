@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bBucCla
+  name: Bucephala clangula
+  taxon_id: 107022
+  common_name: common goldeneye
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bBucCla1
+      biosample_id: SAMEA112468123
+      sex: male
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

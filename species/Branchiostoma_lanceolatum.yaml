@@ -1,0 +1,17 @@
+---
+species:
+  short_name: klBraLanc
+  name: Branchiostoma lanceolatum
+  taxon_id: 7740
+  common_name: amphioxus
+  order:
+    name: Amphioxiformes
+  family:
+    name: Branchiostomatidae
+  individuals:
+    - short_name: klBraLanc2
+      biosample_id: SAMEA111562176
+      sex:
+  genome_size: 577020000
+  genome_size_method: GoaT
+  project: [ vgp ]

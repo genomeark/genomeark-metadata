@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAnaAcu
+  name: Anas acuta
+  taxon_id: 28680
+  common_name: northern pintail
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAnaAcu1
+      biosample_id: SAMEA112468036
+      sex: male
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

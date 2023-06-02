@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bNetRuf
+  name: Netta rufina
+  taxon_id: 30387
+  common_name: red-crested pochard
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bNetRuf1
+      biosample_id: SAMEA112468124
+      sex: female
+  genome_size: 1349640000
+  genome_size_method: GoaT
+  project: [ vgp ]

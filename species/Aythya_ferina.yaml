@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAytFer
+  name: Aythya ferina
+  taxon_id: 219593
+  common_name: common pochard
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAytFer1
+      biosample_id: SAMEA112468034
+      sex: female
+  genome_size: 1349640000
+  genome_size_method: GoaT
+  project: [ vgp ]
