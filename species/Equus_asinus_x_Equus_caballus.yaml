@@ -11,14 +11,14 @@ species:
   - 
     short_name: mEquAca1
     biosample_id: null
-	strain: null
-	alt_ids:
-	- 4285
-	sex: male
+    strain: null
+    alt_ids:
+    - 4285
+    sex: male
     description: null
     provider: Ted Kalbfleisch (University of Kentucky)
-	mother: mEquCab4
-	father: mEquAsi1
+    mother: mEquCab4
+    father: mEquAsi1
   genome_size: 4480000000
   genome_size_method: GoaT
   project: [ t2t ]

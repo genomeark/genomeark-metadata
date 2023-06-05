@@ -26,16 +26,16 @@ species:
   - 
     short_name: mEquCab4
     biosample_id: null
-	strain: null
-	alt_ids:
-	- 3958
-	sex: female
+    strain: null
+    alt_ids:
+    - 3958
+    sex: female
     description: >
-	  This individual is the dam for a mule trio (mEquAca1).
-	  The sire for the trio is mEquAsi1.
+      This individual is the dam for a mule trio (mEquAca1).
+      The sire for the trio is mEquAsi1.
     provider: Ted Kalbfleisch (University of Kentucky)
-	mother: null
-	father: null
+    mother: null
+    father: null
   genome_size: 3110000000
   genome_size_method: GoaT
   project: [ ]
