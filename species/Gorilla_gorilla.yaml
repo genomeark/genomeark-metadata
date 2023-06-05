@@ -28,7 +28,7 @@ species:
       father: mGorGor3
   -
       short_name: mGorGor2
-      name: null
+      name: Dolly
       biosample_id: null
       strain: null
       subspecies:
@@ -38,13 +38,16 @@ species:
       alt_ids:
       - ISIS24489
       sex: female
+      birth_date: January 1963 (estimated)
+      birth_location: Congo
+      birth_type: Wild born
       description: null
       provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
       mother: null
       father: null
   -
       short_name: mGorGor3
-      name: null
+      name: Trib
       biosample_id: null
       strain: null
       subspecies:
@@ -54,6 +57,9 @@ species:
       alt_ids:
       - ISIS24485
       sex: male
+      birth_date: January 1959 (estimated)
+      birth_location: Congo
+      birth_type: Wild born
       description: null
       provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
       mother: null
