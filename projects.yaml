@@ -1,8 +1,18 @@
 ---
 projects:
-  - ident: vgp
-    name:  Vertebrate Genomes Project
-    url:   https://vertebrategenomesproject.org/
-  - ident: t2t
-    name:  Telomere-to-Telomere Project
-    url:   https://sites.google.com/ucsc.edu/t2tworkinggroup
+  - ident:    vgp
+    name:     Vertebrate Genomes Project
+    url:      https://vertebrategenomesproject.org/
+    data_use: |
+      Samples and data come from a variety of sources. To support fair and
+      productive use of this data, please abide by the
+      <a href="https://genome10k.soe.ucsc.edu/data-use-policies/"><em>Data Use Policy</em></a>
+      and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
+  - ident:    t2t
+    name:     Telomere-to-Telomere Project
+    url:      https://sites.google.com/ucsc.edu/t2tworkinggroup
+    data_use: |
+      Samples and data come from a variety of sources. To support fair and
+      productive use of this data, please abide by the
+      <a href="https://genome10k.soe.ucsc.edu/data-use-policies/"><em>Data Use Policy</em></a>
+      and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
