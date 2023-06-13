@@ -1,0 +1,16 @@
+---
+species:
+  short_name: rCarCar
+  name: Caretta caretta
+  common_name: Loggerhead turtle
+  taxon_id: 8467
+  order:
+    name: Testudines
+  family:
+    name: Cheloniidae
+  individuals:
+  -
+        short_name: rCarCar2
+  genome_size: 2581920000
+  genome_size_method: GoAT
+  project: [ vgp ]
