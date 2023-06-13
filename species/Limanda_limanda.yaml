@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fLimLim
+  name: Limanda limanda
+  taxon_id: 27771
+  common_name: common dab
+  order:
+    name: Pleuronectiformes
+  family:
+    name: Pleuronectidae
+  individuals:
+    - short_name: fLimLim1
+      biosample_id: SAMEA112765706
+      sex:
+  genome_size: 792180000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bPhaCar
+  name: Phalacrocorax carbo
+  taxon_id: 9209
+  common_name: great cormorant
+  order:
+    name: Suliformes
+  family:
+    name: Phalacrocoracidae
+  individuals:
+    - short_name: bPhaCar3
+      biosample_id: SAMEA112468128
+      sex: male
+  genome_size: 1398540000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: aBomVar
+  name: Bombina variegata
+  taxon_id: 8348
+  common_name: yellow-bellied toad
+  order:
+    name: Anura
+  family:
+    name: Bombinatoridae
+  individuals:
+    - short_name: aBomVar4
+      biosample_id: SAMEA112651403
+      sex: male
+  genome_size: 8958480000
+  genome_size_method: GoaT
+  project: [ erga, vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bNumArq
+  name: Numenius arquata
+  taxon_id: 31919
+  common_name: Eurasian curlew
+  order:
+    name: Charadriiformes
+  family:
+    name: Scolopacidae
+  individuals:
+    - short_name: bNumArq3
+      biosample_id: SAMEA112693994
+      sex:
+  genome_size: 1320300000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: kaPolScub
+  name: Polycarpa scuba
+  taxon_id: 2980199
+  common_name: Bicolour sea squirt
+  order:
+    name: Stolidobranchia
+  family:
+    name: Styelidae
+  individuals:
+    - short_name: kaPolScub1
+      biosample_id: SAMEA112789122
+      sex:
+  genome_size: 723720000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fEchVip
+  name: Echiichthys vipera
+  taxon_id: 94984
+  common_name: lesser weever
+  order:
+    name: Perciformes
+  family:
+    name: Trachinidae
+  individuals:
+    - short_name: fEchVip8
+      biosample_id: SAMEA112765695
+      sex:
+  genome_size: 1036680000
+  genome_size_method: GoaT
+  project: [ vgp ]
