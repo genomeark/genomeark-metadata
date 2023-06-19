@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMicMin
+  name: Micromys minutus
+  taxon_id: 13151
+  common_name: European harvest mouse
+  order:
+    name: Rodentia
+  family:
+    name: Muridae
+  individuals:
+    - short_name: mMicMin1
+      biosample_id: SAMEA112468042
+      sex: female
+  genome_size: 3110040000
+  genome_size_method: GoaT
+  project: [ vgp ]

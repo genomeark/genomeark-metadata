@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mNeoVis
+  name: Neovison vison
+  taxon_id: 452646
+  common_name: American mink
+  order:
+    name: Carnivora
+  family:
+    name: Mustelidae
+  individuals:
+    - short_name: mNeoVis2
+      biosample_id: SAMEA112468126
+      sex: female
+  genome_size: 2880210000
+  genome_size_method: GoaT
+  project: [ vgp ]
