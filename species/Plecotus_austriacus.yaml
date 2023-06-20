@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mPleAus
+  name: Plecotus austriacus
+  taxon_id: 109483
+  common_name: gray big-eared bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mPleAus1
+      biosample_id: SAMEA112124174
+      sex: male
+  genome_size: 2180940000
+  genome_size_method: GoaT
+  project: [ vgp ]

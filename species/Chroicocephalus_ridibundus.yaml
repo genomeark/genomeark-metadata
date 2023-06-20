@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bChrRid
+  name: Chroicocephalus ridibundus
+  taxon_id: 1192867
+  common_name: black-headed gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bChrRid1
+      biosample_id: SAMEA112468038
+      sex: male
+  genome_size: 1779960000
+  genome_size_method: GoaT
+  project: [ vgp ]
