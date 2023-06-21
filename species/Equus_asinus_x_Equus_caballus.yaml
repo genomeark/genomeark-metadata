@@ -1,6 +1,6 @@
 species:
   name: Equus asinus x Equus caballus
-  short_name: mEquAsi
+  short_name: mEquAca
   common_name: hybrid of male donkey and female horse
   taxon_id: 319699
   order:
