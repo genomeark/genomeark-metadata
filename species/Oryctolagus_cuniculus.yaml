@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mOryCun
+  name: Oryctolagus cuniculus
+  taxon_id: 9986
+  common_name: rabbit
+  order:
+    name: Lagomorpha
+  family:
+    name: Leporidae
+  individuals:
+    - short_name: mOryCun1
+      biosample_id: SAMEA112468037
+      sex: female
+  genome_size: 3188280000
+  genome_size_method: GoaT
+  project: [ vgp ]

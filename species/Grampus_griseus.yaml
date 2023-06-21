@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mGraGri
+  name: Grampus griseus
+  taxon_id: 83653
+  common_name: Risso's dolphin
+  order:
+    name: Cetacea
+  family:
+    name: Delphinidae
+  individuals:
+    - short_name: mGraGri1
+      biosample_id: SAMEA111380541
+      sex: male
+  genome_size: 3080700000
+  genome_size_method: GoaT
+  project: [ vgp ]
