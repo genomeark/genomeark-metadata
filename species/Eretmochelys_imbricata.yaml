@@ -1,0 +1,16 @@
+---
+species:
+  short_name: rEreImb1
+  name: Eretmochelys imbricata
+  common_name: Hawksbill sea turtle
+  taxon_id: 27787
+  order:
+    name: Testudines
+  family:
+    name: Cheloniidae
+  individuals:
+  -
+        short_name: rEreImb1
+  genome_size: 2581920000
+  genome_size_method: GoaT
+  project: [ vgp ]
