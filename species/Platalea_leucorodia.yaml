@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bPlaLeu
+  name: Platalea leucorodia
+  taxon_id: 257867
+  common_name: Eurasian spoonbill
+  order:
+    name: Pelecaniformes
+  family:
+    name: Threskiornithidae
+  individuals:
+    - short_name: bPlaLeu2
+      biosample_id: SAMEA112468120
+      sex: female
+  genome_size: 1222500000
+  genome_size_method: GoaT
+  project: [ vgp ]
