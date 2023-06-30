@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fThuThy
+  name: Thunnus thynnus
+  taxon_id: 8237
+  common_name: Atlantic bluefin tuna
+  order:
+    name: Perciformes
+  family:
+    name: Scombridae
+  individuals:
+    - short_name: fThuThy3
+      biosample_id: SAMEA111406336
+      sex:
+  genome_size: 782400000
+  genome_size_method: GoaT
+  project: [ vgp ]
