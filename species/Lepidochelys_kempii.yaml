@@ -1,0 +1,16 @@
+---
+species:
+  short_name: rLepKem
+  name: Lepidochelys kempii
+  common_name: Kemp's ridley sea turtle
+  taxon_id: 8472
+  order:
+    name: Testudines
+  family:
+    name: Cheloniidae
+  individuals:
+  -
+        short_name: rLepKem1
+  genome_size: 2581920000
+  genome_size_method: GoaT
+  project: [ vgp ]
