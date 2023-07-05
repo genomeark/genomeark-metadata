@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fScaEry
+  name: Scardinius erythrophthalmus
+  taxon_id: 58319
+  common_name: rudd
+  order:
+    name: Cypriniformes
+  family:
+    name: Cyprinidae
+  individuals:
+    - short_name: fScaEry2
+      biosample_id: SAMEA11296541
+      sex: female
+  genome_size: 1168710000
+  genome_size_method: GoaT
+  project: [ vgp ]
