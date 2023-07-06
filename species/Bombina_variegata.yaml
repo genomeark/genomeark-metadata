@@ -14,4 +14,5 @@ species:
       sex: male
   genome_size: 8958480000
   genome_size_method: GoaT
+  data_use_project: erga
   project: [ erga, vgp ]
