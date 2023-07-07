@@ -1,0 +1,14 @@
+species:
+  name: Cotumix chinensis
+  short_name: bCotChi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCotChi1
+    biosample_id:
+    description:
+    provider:

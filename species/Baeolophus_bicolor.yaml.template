@@ -1,0 +1,14 @@
+species:
+  name: Baeolophus bicolor
+  short_name: bBaeBic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bBaeBic1
+    biosample_id:
+    description:
+    provider:

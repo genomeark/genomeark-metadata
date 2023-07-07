@@ -1,0 +1,14 @@
+species:
+  name: Caloenas nicobarica
+  short_name: bCalNic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCalNic1
+    biosample_id:
+    description:
+    provider:

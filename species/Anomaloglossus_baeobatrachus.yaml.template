@@ -1,0 +1,14 @@
+species:
+  name: Anomaloglossus baeobatrachus
+  short_name: aAnoBae
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aAnoBae1
+    biosample_id:
+    description:
+    provider:

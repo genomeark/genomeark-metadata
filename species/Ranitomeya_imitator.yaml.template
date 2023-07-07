@@ -1,0 +1,18 @@
+species:
+  name: Ranitomeya imitator
+  short_name: aRanImi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aRanImi1
+    biosample_id:
+    description:
+    provider:
+  - short_name: aRanImi2
+    biosample_id:
+    description:
+    provider:

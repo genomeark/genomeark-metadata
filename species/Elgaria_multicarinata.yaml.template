@@ -1,0 +1,14 @@
+species:
+  name: Elgaria multicarinata
+  short_name: rElgMul
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rElgMul1
+    biosample_id:
+    description:
+    provider:

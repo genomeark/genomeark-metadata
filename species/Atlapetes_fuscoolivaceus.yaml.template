@@ -1,0 +1,14 @@
+species:
+  name: Atlapetes fuscoolivaceus
+  short_name: bAtlFus
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAtlFus1
+    biosample_id:
+    description:
+    provider:

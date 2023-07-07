@@ -1,0 +1,14 @@
+species:
+  name: Passer domesticus
+  short_name: bPasDom
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPasDom1
+    biosample_id:
+    description:
+    provider:

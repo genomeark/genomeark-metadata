@@ -1,0 +1,14 @@
+species:
+  name: Macaca nemestrina
+  short_name: mMacNem
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMacNem1
+    biosample_id:
+    description:
+    provider:

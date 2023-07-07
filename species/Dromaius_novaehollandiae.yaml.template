@@ -1,0 +1,14 @@
+species:
+  name: Dromaius novaehollandiae
+  short_name: bDroNov
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bDroNov1
+    biosample_id:
+    description:
+    provider:

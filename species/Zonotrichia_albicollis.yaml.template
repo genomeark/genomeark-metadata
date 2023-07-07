@@ -1,0 +1,14 @@
+species:
+  name: Zonotrichia albicollis
+  short_name: bZonAlb
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bZonAlb1
+    biosample_id:
+    description:
+    provider:

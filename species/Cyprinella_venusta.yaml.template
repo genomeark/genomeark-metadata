@@ -1,0 +1,14 @@
+species:
+  name: Cyprinella venusta
+  short_name: fCypVen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fCypVen1
+    biosample_id:
+    description:
+    provider:

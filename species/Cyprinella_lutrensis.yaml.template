@@ -1,0 +1,14 @@
+species:
+  name: Cyprinella lutrensis
+  short_name: fCypLut
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fCypLut1
+    biosample_id:
+    description:
+    provider:

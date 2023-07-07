@@ -1,0 +1,14 @@
+species:
+  name: Salvelinus alpinus
+  short_name: fSalAlp
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fSalAlp3
+    biosample_id:
+    description:
+    provider:
