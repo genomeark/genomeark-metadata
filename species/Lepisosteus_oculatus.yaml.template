@@ -1,0 +1,14 @@
+species:
+  name: Lepisosteus oculatus
+  short_name: fLepOcu
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fLepOcu1
+    biosample_id:
+    description:
+    provider:

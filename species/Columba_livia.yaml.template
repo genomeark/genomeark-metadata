@@ -1,0 +1,14 @@
+species:
+  name: Columba livia
+  short_name: bColLiv
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bColLiv1
+    biosample_id:
+    description:
+    provider:

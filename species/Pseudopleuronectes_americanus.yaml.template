@@ -1,0 +1,14 @@
+species:
+  name: Pseudopleuronectes americanus
+  short_name: fPseAme
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fPseAme1
+    biosample_id:
+    description:
+    provider:

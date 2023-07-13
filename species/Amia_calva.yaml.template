@@ -1,0 +1,14 @@
+species:
+  name: Amia calva
+  short_name: fAmiCal
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAmiCal2
+    biosample_id:
+    description:
+    provider:

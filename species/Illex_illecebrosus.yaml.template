@@ -1,0 +1,14 @@
+species:
+  name: Illex illecebrosus
+  short_name: xcIllIlle
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: xcIllIlle1
+    biosample_id:
+    description:
+    provider:

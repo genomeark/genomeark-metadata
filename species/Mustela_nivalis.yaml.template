@@ -1,0 +1,14 @@
+species:
+  name: Mustela nivalis
+  short_name: mMusNiv
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMusNiv1
+    biosample_id:
+    description:
+    provider:

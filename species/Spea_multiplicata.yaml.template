@@ -1,0 +1,14 @@
+species:
+  name: Spea multiplicata
+  short_name: aSpeMul
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aSpeMul1
+    biosample_id:
+    description:
+    provider:
