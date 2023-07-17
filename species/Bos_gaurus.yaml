@@ -1,0 +1,29 @@
+---
+species:
+  short_name: mBosGau
+  name: Bos gaurus
+  common_name: gaur
+  taxon_id: 9904
+  order:
+    name: Artiodactyla
+  family:
+    name: Bovidae
+  individuals:
+  -
+      short_name: mBosGau1
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - OHDZ_ISB_336
+      sex: male
+      birth_date: null
+      birth_location: null
+      birth_type: null
+      description: This is the sire of mBosGat1 (Bos gaurus x Bos taurus).
+      provider: null
+      mother: null
+      father: null
+  genome_size: 3570000000
+  genome_size_method: GoaT ancestral inferred
+  project: [ t2t ]

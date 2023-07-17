@@ -1,0 +1,29 @@
+---
+species:
+  short_name: mOviAri
+  name: Ovis aries
+  common_name: sheep
+  taxon_id: 9940
+  order:
+    name: Artiodactyla
+  family:
+    name: Bovidae
+  individuals:
+  -
+      short_name: mOviAri1
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - polypay_44
+      sex: female
+      birth_date: null
+      birth_location: null
+      birth_type: null
+      description: Dam of mOviCaa1 (Ovis canadensis x Ovis aries).
+      provider: null
+      mother: null
+      father: null
+  genome_size: 3200000000
+  genome_size_method: GoaT
+  project: [ t2t ]

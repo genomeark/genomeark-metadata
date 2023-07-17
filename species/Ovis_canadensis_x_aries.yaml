@@ -1,0 +1,29 @@
+---
+species:
+  short_name: mOviCaa
+  name: Ovis canadensis x aries
+  common_name: hybrid of male bighorn sheep and female sheep
+  taxon_id: 611332
+  order:
+    name: Artiodactyla
+  family:
+    name: Bovidae
+  individuals:
+  -
+      short_name: mOviCaa1
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - BhxPP_44
+      sex: male
+      birth_date: null
+      birth_location: null
+      birth_type: null
+      description: null
+      provider: null
+      father: mOviCan1
+      mother: mOviAri1
+  genome_size: 3230000000
+  genome_size_method: GoaT ancestral inferred
+  project: [ t2t ]

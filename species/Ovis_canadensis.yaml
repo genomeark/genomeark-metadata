@@ -1,0 +1,29 @@
+---
+species:
+  short_name: mOviCan
+  name: Ovis canadensis
+  common_name: bighorn sheep
+  taxon_id: 37174
+  order:
+    name: Artiodactyla
+  family:
+    name: Bovidae
+  individuals:
+  -
+      short_name: mOviCan1
+      name: null
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - bighorn_X
+      sex: male
+      birth_date: null
+      birth_location: null
+      birth_type: null
+      description: Sire of mOviCaa1 (Ovis canadensis x Ovis aries).
+      provider: null
+      mother: null
+      father: null
+  genome_size: 2300000000
+  genome_size_method: GoaT ancestral inferred
+  project: [ t2t ]
