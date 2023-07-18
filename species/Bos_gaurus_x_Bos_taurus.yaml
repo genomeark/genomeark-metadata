@@ -16,7 +16,7 @@ species:
       strain: null
       alt_ids:
       - Guppy
-      sex: male
+      sex: female
       birth_date: null
       birth_location: null
       birth_type: null
