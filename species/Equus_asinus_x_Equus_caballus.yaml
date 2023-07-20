@@ -19,6 +19,6 @@ species:
     provider: Ted Kalbfleisch (University of Kentucky)
     mother: mEquCab4
     father: mEquAsi1
-  genome_size: 4480000000
-  genome_size_method: GoaT
+  genome_size: 2600000000
+  genome_size_method: non-computational, expert estimation
   project: [ t2t ]
