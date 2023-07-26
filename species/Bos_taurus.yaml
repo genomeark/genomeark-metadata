@@ -29,7 +29,7 @@ species:
       name: null
       biosample_id: null
       strain: null
-      alt_ids: null
+      alt_ids:
       - LVC_Rachael_25X
       sex: female
       birth_date: null
