@@ -1,0 +1,14 @@
+species:
+  name: Serinus canaria
+  short_name: bSerCan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSerCan1
+    biosample_id:
+    description:
+    provider:
