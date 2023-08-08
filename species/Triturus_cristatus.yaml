@@ -1,0 +1,17 @@
+---
+species:
+  short_name: aTriCri
+  name: Triturus cristatus
+  taxon_id: 8323
+  common_name: warty newt
+  order:
+    name: Caudata
+  family:
+    name: Salamandridae
+  individuals:
+    - short_name: aTriCri1
+      biosample_id: SAMEA112468129
+      sex: female
+  genome_size: 24327750000
+  genome_size_method: GoaT
+  project: [ vgp ]

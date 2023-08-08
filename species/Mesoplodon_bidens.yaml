@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMesBid
+  name: Mesoplodon bidens
+  taxon_id: 48745
+  common_name: Sowerby's beaked whale
+  order:
+    name: Cetacea
+  family:
+    name: Hyperoodontidae
+  individuals:
+    - short_name: mMesBid2
+      biosample_id: SAMEA112165298
+      sex: male
+  genome_size: 3217620000
+  genome_size_method: GoaT
+  project: [ vgp ]
