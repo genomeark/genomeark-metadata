@@ -42,4 +42,4 @@ species:
       project: [ t2t ]
   genome_size: 2700000000
   genome_size_method: null
-  project: [ vgp, t2t ]
+  project: [ vgp ]

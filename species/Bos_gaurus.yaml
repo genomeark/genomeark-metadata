@@ -24,6 +24,7 @@ species:
       provider: null
       mother: null
       father: null
+      project: [ t2t ]
   genome_size: 3570000000
   genome_size_method: GoaT ancestral inferred
-  project: [ t2t ]
+  project: [ ]
