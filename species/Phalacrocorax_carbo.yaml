@@ -9,6 +9,9 @@ species:
   family:
     name: Phalacrocoracidae
   individuals:
+    - short_name: bPhaCar2
+      biosample_id: SAMEA8228692
+      sex: female
     - short_name: bPhaCar3
       biosample_id: SAMEA112468128
       sex: male
