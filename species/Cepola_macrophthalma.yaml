@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fCepMac
+  name: Cepola macrophthalma
+  taxon_id: 334382
+  common_name: red bandfish
+  order:
+    name: Perciformes
+  family:
+    name: Cepolidae
+  individuals:
+    - short_name: fCepMac1
+      biosample_id: SAMEA112788985
+      sex:
+  genome_size: 797070000
+  genome_size_method: GoaT
+  project: [ vgp ]
