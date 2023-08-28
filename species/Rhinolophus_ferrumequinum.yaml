@@ -10,6 +10,7 @@ species:
     name: Rhinolophidae
   individuals:
     - short_name: mRhiFer1
+    - short_name: mRhiFer2
   genome_size: 2369916842
   genome_size_method:
-  project: [ vgp ]
+  project: [ vgp , bat1k ]
