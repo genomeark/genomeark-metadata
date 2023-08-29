@@ -1,15 +1,15 @@
 ---
 species:
-  short_name: mRhiSin
-  name: Rhinolophus sinicus
-  taxon_id: 89399
-  common_name: Chinese rufous horseshoe bat
+  short_name: mHipLar
+  name: Hipposideros larvatus
+  taxon_id: 175524
+  common_name: intermediate roundleaf bat
   order:
     name: Chiroptera
   family:
-    name: Rhinolophidae
+    name: Hipposideridae
   individuals:
-    - short_name: mRhiSin1
+    - short_name: mHipLar1
       provider: Jianguo Lu
       sex: male
   genome_size: 2900000000
