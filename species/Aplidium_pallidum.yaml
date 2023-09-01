@@ -1,0 +1,17 @@
+---
+species:
+  short_name: kaAplPall
+  name: Aplidium pallidum
+  taxon_id: 2980188
+  common_name: Red sea pork
+  order:
+    name: Aplousobranchia
+  family:
+    name: Polyclinidae
+  individuals:
+    - short_name: kaAplPall1
+      biosample_id: SAMEA112788962
+      sex:
+  genome_size: 437655000
+  genome_size_method: GoaT
+  project: [ vgp ]
