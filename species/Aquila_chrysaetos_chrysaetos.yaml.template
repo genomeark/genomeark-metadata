@@ -1,0 +1,14 @@
+species:
+  name: Aquila chrysaetos chrysaetos
+  short_name: bAquChr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAquChr1
+    biosample_id:
+    description:
+    provider:

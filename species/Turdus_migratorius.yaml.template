@@ -1,0 +1,14 @@
+species:
+  name: Turdus migratorius
+  short_name: bTurMig
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bTurMig1
+    biosample_id:
+    description:
+    provider:

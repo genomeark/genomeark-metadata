@@ -1,0 +1,14 @@
+species:
+  name: Spinus tristis
+  short_name: bSpiTri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSpiTri1
+    biosample_id:
+    description:
+    provider:
