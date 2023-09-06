@@ -1,0 +1,14 @@
+species:
+  name: Latimeria chalumnae
+  short_name: fLatCha
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fLatCha2
+    biosample_id:
+    description:
+    provider:

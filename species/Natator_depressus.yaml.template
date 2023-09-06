@@ -1,0 +1,14 @@
+species:
+  name: Natator depressus
+  short_name: rNatDep
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rNatDep1
+    biosample_id:
+    description:
+    provider:
