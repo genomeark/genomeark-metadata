@@ -1,0 +1,14 @@
+species:
+  name: Molossus nigricans
+  short_name: mMolNig
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMolNig1
+    biosample_id:
+    description:
+    provider:
