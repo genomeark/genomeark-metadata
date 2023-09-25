@@ -9,6 +9,9 @@ species:
   family:
     name: Scombridae
   individuals:
+    - short_name: fThuThy2
+      biosample_id: SAMEA111406335
+      sex:
     - short_name: fThuThy3
       biosample_id: SAMEA111406336
       sex:
