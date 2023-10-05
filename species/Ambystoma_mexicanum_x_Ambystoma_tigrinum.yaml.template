@@ -1,0 +1,14 @@
+species:
+  name: Ambystoma mexicanum x Ambystoma tigrinum
+  short_name: aAmbMet
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aAmbMet1
+    biosample_id:
+    description:
+    provider:

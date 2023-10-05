@@ -1,0 +1,14 @@
+species:
+  name: Anodorhynchus hyacinthinus
+  short_name: bAnoHya
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAnoHya1
+    biosample_id:
+    description:
+    provider:
