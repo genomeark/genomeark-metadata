@@ -1,0 +1,17 @@
+---
+species:
+  short_name: kaPolMami
+  name: Polycarpa mamillaris
+  taxon_id: 2170621
+  common_name: (A sea squirt)
+  order:
+    name: Stolidobranchia
+  family:
+    name: Styelidae
+  individuals:
+    - short_name: kaPolMami1
+      biosample_id: SAMEA112789121
+      sex:
+  genome_size: 723720000
+  genome_size_method: GoaT
+  project: [ vgp ]
