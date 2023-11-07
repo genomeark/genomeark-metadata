@@ -1,0 +1,14 @@
+species:
+  name: Sebastes mentella
+  short_name: fSebMen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fSebMen1
+    biosample_id:
+    description:
+    provider:

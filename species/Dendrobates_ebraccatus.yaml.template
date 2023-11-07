@@ -1,0 +1,14 @@
+species:
+  name: Dendrobates ebraccatus
+  short_name: aDenEbr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aDenEbr1
+    biosample_id:
+    description:
+    provider:

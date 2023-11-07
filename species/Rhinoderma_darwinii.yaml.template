@@ -1,0 +1,14 @@
+species:
+  name: Rhinoderma darwinii
+  short_name: aRhiDar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aRhiDar1
+    biosample_id:
+    description:
+    provider:

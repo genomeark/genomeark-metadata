@@ -1,0 +1,14 @@
+species:
+  name: Sebastes fasciatus
+  short_name: fSebFas
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fSebFas1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Lophostoma evotis
+  short_name: mLopEvo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mLopEvo1
+    biosample_id:
+    description:
+    provider:
