@@ -9,9 +9,12 @@ species:
   family:
     name: Ascidiidae
   individuals:
+    - short_name: kaAscAspe10
+      biosample_id: SAMEA110449820
+      sex:
     - short_name: kaAscAspe2
       biosample_id: SAMEA7536462
       sex:
   genome_size: 107580000
   genome_size_method: GoaT
-  project: [ ]
+  project: [ vgp ]
