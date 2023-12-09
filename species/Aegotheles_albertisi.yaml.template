@@ -1,0 +1,14 @@
+species:
+  name: Aegotheles albertisi
+  short_name: bAegAlb
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAegAlb1
+    biosample_id:
+    description:
+    provider:

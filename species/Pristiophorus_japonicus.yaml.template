@@ -1,0 +1,14 @@
+species:
+  name: Pristiophorus japonicus
+  short_name: sPriJap
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sPriJap1
+    biosample_id:
+    description:
+    provider:

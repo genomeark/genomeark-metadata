@@ -1,0 +1,14 @@
+species:
+  name: Guaruba guarouba
+  short_name: bGuaGua
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bGuaGua1
+    biosample_id:
+    description:
+    provider:
