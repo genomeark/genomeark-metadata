@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bZosLat
+  name: Zosterops lateralis
+  taxon_id: 43581
+  common_name: silver-eye
+  order:
+    name: Passeriformes
+  family:
+    name: Zosteropidae
+  individuals:
+    - short_name: bZosLat1
+      biosample_id: SAMEA112953925
+      sex: female
+  genome_size: 1320300000
+  genome_size_method: GoaT
+  project: [ vgp ]
