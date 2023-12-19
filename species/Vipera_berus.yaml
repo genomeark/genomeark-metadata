@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rVipBer
+  name: Vipera berus
+  taxon_id: 31155
+  common_name: adder
+  order:
+    name: Squamata
+  family:
+    name: Viperidae
+  individuals:
+    - short_name: rVipBer3
+      biosample_id: SAMEA114293681
+      sex: female
+  genome_size: 2327640000
+  genome_size_method: GoaT
+  project: [ vgp ]

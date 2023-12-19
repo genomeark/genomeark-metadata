@@ -1,0 +1,17 @@
+---
+species:
+  short_name: sCetMax
+  name: Cetorhinus maximus
+  taxon_id: 57982
+  common_name: Basking shark
+  order:
+    name: Lamniformes
+  family:
+    name: Cetorhinidae
+  individuals:
+    - short_name: sCetMax3
+      biosample_id: SAMEA113902670
+      sex: female
+  genome_size: 6019590000
+  genome_size_method: GoaT
+  project: [ vgp ]
