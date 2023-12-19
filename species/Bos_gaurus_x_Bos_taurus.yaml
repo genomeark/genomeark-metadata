@@ -22,8 +22,18 @@ species:
       birth_type: null
       description: null
       provider: null
-      father: mBosGau1
-      mother: mBosTau2
+      father:
+      -
+        short_name: mBosGau1
+        name: Bos gaurus
+        common_name: gaur
+        taxon_id: 9904
+      mother:
+      -
+        short_name: mBosTau2
+        name: Bos taurus
+        common_name: cattle
+        taxon_id: 9913
   genome_size: 3570000000
   genome_size_method: GoaT ancestral inferred
   project: [ t2t ]

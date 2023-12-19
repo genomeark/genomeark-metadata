@@ -22,8 +22,18 @@ species:
       birth_type: null
       description: null
       provider: null
-      father: mOviCan1
-      mother: mOviAri1
+      father:
+      -
+        short_name: mOviCan1
+        name: Ovis canadensis
+        common_name: bighorn sheep
+        taxon_id: 37174
+      mother:
+      -
+        short_name: mOviAri1
+        name: Ovis aries
+        common_name: polypay sheep
+        taxon_id: 9940
   genome_size: 3230000000
   genome_size_method: GoaT ancestral inferred
   project: [ t2t ]

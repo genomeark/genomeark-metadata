@@ -17,8 +17,18 @@ species:
     sex: male
     description: null
     provider: Ted Kalbfleisch (University of Kentucky)
-    mother: mEquCab4
-    father: mEquAsi1
+    father:
+    -
+      short_name: mEquAsi1
+      name: Equus asinus
+      common_name: ass (donkey)
+      taxon_id: 9793
+    mother:
+    -
+      short_name: mEquCab4
+      name: Equus caballas
+      common_name: horse
+      taxon_id: 9796
   genome_size: 2600000000
   genome_size_method: non-computational, expert estimation
   project: [ t2t ]
