@@ -1,0 +1,14 @@
+species:
+  name: Speothos venaticus
+  short_name: mSpeVen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mSpeVen1
+    biosample_id:
+    description:
+    provider:
