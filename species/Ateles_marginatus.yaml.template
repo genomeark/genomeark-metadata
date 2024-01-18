@@ -1,0 +1,14 @@
+species:
+  name: Ateles marginatus
+  short_name: mAteMar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mAteMar1
+    biosample_id:
+    description:
+    provider:
