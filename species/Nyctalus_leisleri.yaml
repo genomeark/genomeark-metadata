@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mNycLei
+  name: Nyctalus leisleri
+  taxon_id: 59465
+  common_name: lesser noctule
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mNycLei1
+      biosample_id: SAMEA114250308
+      sex: male
+  genome_size: 2288520000
+  genome_size_method: GoaT
+  project: [ vgp ]
