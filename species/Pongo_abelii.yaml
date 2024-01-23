@@ -45,6 +45,19 @@ species:
          dev_stage: adult
          age: 31
          sample_biosample_id: SAMN13178754
+  -
+      short_name: mPonAbe3
+      name: Susie
+      biosample_id: SAMN06275555
+      strain: null
+      alt_ids:
+      - Susie_PAB
+      - 1044
+      sex: female
+      description: null
+      provider: Dr. Oliver Ryder (Institute for Conservation Research, San Diego Zoo)
+      mother: null
+      father: null
   genome_size: 3579480000
   genome_size_method: GoaT ancestral inferred
   project: [ t2t ]
