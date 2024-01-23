@@ -1,0 +1,27 @@
+---
+species:
+  short_name: mMacMul
+  name: Macaca mulatta
+  common_name: Rhesus monkey
+  taxon_id: 9544
+  order:
+    name: Primates
+  family:
+    name: Cercopithecidae
+  individuals:
+  -
+      short_name: mMacMul1
+      name: null
+      biosample_id: SAMN30617510
+      strain: null
+      subspecies:
+        name: Macaca mulatta mulatta
+        common_name: Indochinese rhesus macaque
+        taxon_id: 9544
+      alt_ids:
+      - AG07107
+      sex: female
+      description: null
+      provider: Coriell
+      mother: null
+      father: null
