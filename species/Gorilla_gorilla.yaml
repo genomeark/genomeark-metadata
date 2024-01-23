@@ -83,6 +83,19 @@ species:
          tissue: testis
          dev_stage: adult
          sample_biosample_id: SAMN31928435
+  -
+      short_name: mGorGor5
+      name: Kamilah
+      biosample_id: SAMN11078986
+      strain: null
+      alt_ids:
+      - Kamilah_GGO
+      - GGO_0661
+      sex: female
+      description: null
+      provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
+      mother: null
+      father: null
   genome_size: 3491460000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
   project: [ t2t ]
