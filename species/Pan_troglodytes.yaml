@@ -62,6 +62,20 @@ species:
          tissue: testis
          dev_stage: adult
          sample_biosample_id: SAMN31975257
+  -
+      short_name: mPanTro5
+      name: null
+      biosample_id: SAMN29543730
+      strain: null
+      subspecies: null
+      alt_ids:
+      - C8861
+      - C8861_PTR
+      sex: male
+      description: null
+      provider: Yoav Gilad (The University of Chicago)
+      father: null
+      mother: null
   genome_size: 3613710000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
   project: [ vgp, t2t ]
