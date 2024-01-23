@@ -1,0 +1,24 @@
+---
+species:
+  short_name: mTheGel1
+  name: Theropithecus gelada
+  common_name: gelada
+  taxon_id: 9565
+  order:
+    name: Primates
+  family:
+    name: Cercopithecidae
+  individuals:
+  -
+      short_name: mTheGel1
+      name: null
+      biosample_id: SAMN30617510
+      strain: null
+      subspecies: null
+      alt_ids:
+      - DRT_2020_14
+      sex: male
+      description: null
+      provider: Noah Snyder-Mackler (Arizona State University)
+      mother: null
+      father: null
