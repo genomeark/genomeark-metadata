@@ -79,6 +79,20 @@ species:
          tissue: testis
          dev_stage: adult
          sample_biosample_id: SAMN13178638
+  -
+      short_name: mPanPan5
+      name: Mhudiblu
+      biosample_id: SAMN11123633
+      strain: null
+      subspecies: null
+      alt_ids:
+      - Mhudiblu_PPA
+      - 601152
+      sex: female
+      description: null
+      provider: Lucia Carbone (Oregon Health & Science University)
+      mother: null
+      father: null
   genome_size: 3613710000
   genome_size_method: GoaT ancestral inferred
   project: [ t2t ]
