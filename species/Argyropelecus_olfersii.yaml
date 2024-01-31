@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fArgOlf
+  name: Argyropelecus olfersii
+  taxon_id: 473298
+  common_name: 
+  order:
+    name: Stomiiformes
+  family:
+    name: Sternoptychidae
+  individuals:
+    - short_name: fArgOlf1
+      biosample_id: SAMEA114095162
+      sex:
+  genome_size: 1271400000
+  genome_size_method: GoaT
+  project: [ vgp ]
