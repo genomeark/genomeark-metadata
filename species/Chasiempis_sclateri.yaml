@@ -5,7 +5,7 @@ species:
   - short_name: bChaScl1
   short_name: bChaScl
   taxon_id: 1576535
-  common_name: Kauai elepaio
+  common_name: Kaua'i 'elepaio
   genome_size: 1235000000
   genome_size_method: GoAT
   order:
