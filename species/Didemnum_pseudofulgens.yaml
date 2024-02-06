@@ -1,0 +1,17 @@
+---
+species:
+  short_name: kaDidPseu
+  name: Didemnum pseudofulgens
+  taxon_id: 2980193
+  common_name: (A sea squirt)
+  order:
+    name: Enterogona
+  family:
+    name: Didemnidae
+  individuals:
+    - short_name: kaDidPseu1
+      biosample_id: SAMEA112789112
+      sex:
+  genome_size: 437655000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAnaPla
+  name: Anas platyrhynchos
+  taxon_id: 8839
+  common_name: mallard
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAnaPla2
+      biosample_id: SAMEA113398833
+      sex: female
+  genome_size: 1418100000
+  genome_size_method: GoaT
+  project: [ vgp ]

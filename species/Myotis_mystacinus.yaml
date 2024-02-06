@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMyoMys
+  name: Myotis mystacinus
+  taxon_id: 109479
+  common_name: whiskered bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mMyoMys1
+      biosample_id: SAMEA114250307
+      sex: male
+  genome_size: 1887540000
+  genome_size_method: GoaT
+  project: [ vgp ]

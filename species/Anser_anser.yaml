@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAnsAns
+  name: Anser anser
+  taxon_id: 8843
+  common_name: domestic goose
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAnsAns1
+      biosample_id: SAMEA113398854
+      sex: female
+  genome_size: 1408320000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: kaDipList
+  name: Diplosoma listerianum
+  taxon_id: 168635
+  common_name: (An Acsidian)
+  order:
+    name: Aplousobranchia
+  family:
+    name: Didemnidae
+  individuals:
+    - short_name: kaDipList1
+      biosample_id: SAMEA112765689
+      sex:
+  genome_size: 437655000
+  genome_size_method: GoaT
+  project: [ vgp ]

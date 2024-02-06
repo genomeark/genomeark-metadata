@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bGavSte
+  name: Gavia stellata
+  taxon_id: 37040
+  common_name: red-throated loon
+  order:
+    name: Gaviiformes
+  family:
+    name: Gaviidae
+  individuals:
+    - short_name: bGavSte5
+      biosample_id: SAMEA9850966
+      sex: female
+  genome_size: 1398540000
+  genome_size_method: GoaT
+  project: [ vgp ]

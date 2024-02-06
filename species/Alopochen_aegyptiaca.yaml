@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAloAeg
+  name: Alopochen aegyptiaca
+  taxon_id: 30382
+  common_name: Egyptian goose
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAloAeg2
+      biosample_id: SAMEA113398845
+      sex: female
+  genome_size: 1364310000
+  genome_size_method: GoaT
+  project: [ vgp ]
