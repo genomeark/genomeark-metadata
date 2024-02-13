@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bVanVan
+  name: Vanellus vanellus
+  taxon_id: 100859
+  common_name: Lapwing
+  order:
+    name: Charadriiformes
+  family:
+    name: Charadriidae
+  individuals:
+    - short_name: bVanVan1
+      biosample_id: SAMEA113398832
+      sex: male
+  genome_size: 1633260000
+  genome_size_method: GoaT
+  project: [ vgp ]
