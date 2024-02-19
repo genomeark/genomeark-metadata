@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodLio
+  name: Podarcis liolepis
+  taxon_id: 662736
+  common_name: Columbretes wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodLio1
+      biosample_id: SAMEA114217798
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]

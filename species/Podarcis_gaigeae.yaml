@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodGai
+  name: Podarcis gaigeae
+  taxon_id: 90521
+  common_name: Skyros wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodGai1
+      biosample_id: SAMEA114217796
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]

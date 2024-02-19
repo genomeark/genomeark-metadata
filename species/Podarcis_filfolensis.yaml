@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodFil
+  name: Podarcis filfolensis
+  taxon_id: 65481
+  common_name: Filfola wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodFil1
+      biosample_id: SAMEA113403362
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]
