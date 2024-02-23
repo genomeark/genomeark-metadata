@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mBalBor
+  name: Balaenoptera borealis
+  taxon_id: 9768
+  common_name: sei whale
+  order:
+    name: Cetacea
+  family:
+    name: Balaenopteridae
+  individuals:
+    - short_name: mBalBor1
+      biosample_id: SAMEA114493134
+      sex: female
+  genome_size: 2865540000
+  genome_size_method: GoaT
+  project: [ vgp ]

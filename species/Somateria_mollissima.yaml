@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bSomMol
+  name: Somateria mollissima
+  taxon_id: 76058
+  common_name: common eider
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bSomMol2
+      biosample_id: SAMEA113398850
+      sex: female
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

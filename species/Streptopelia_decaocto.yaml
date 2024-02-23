@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bStrDea
+  name: Streptopelia decaocto
+  taxon_id: 177147
+  common_name: Eurasian collared-dove
+  order:
+    name: Columbiformes
+  family:
+    name: Columbidae
+  individuals:
+    - short_name: bStrDea1
+      biosample_id: SAMEA113398962
+      sex: male
+  genome_size: 1290960000
+  genome_size_method: GoaT
+  project: [ vgp ]

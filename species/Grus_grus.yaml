@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bGruGru
+  name: Grus grus
+  taxon_id: 40816
+  common_name: Eurasian crane
+  order:
+    name: Gruiformes
+  family:
+    name: Gruidae
+  individuals:
+    - short_name: bGruGru1
+      biosample_id: SAMEA113398837
+      sex: male
+  genome_size: 1486560000
+  genome_size_method: GoaT
+  project: [ vgp ]

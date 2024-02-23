@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fGaiVul
+  name: Gaidropsarus vulgaris
+  taxon_id: 348057
+  common_name: three-bearded rockling
+  order:
+    name: Gadiformes
+  family:
+    name: Lotidae
+  individuals:
+    - short_name: fGaiVul1
+      biosample_id: SAMEA114298641
+      sex:
+  genome_size: 811740000
+  genome_size_method: GoaT
+  project: [ vgp ]

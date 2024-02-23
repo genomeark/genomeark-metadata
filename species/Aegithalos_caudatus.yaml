@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAegCau
+  name: Aegithalos caudatus
+  taxon_id: 73327
+  common_name: Northern long-tailed tit
+  order:
+    name: Passeriformes
+  family:
+    name: Aegithalidae
+  individuals:
+    - short_name: bAegCau2
+      biosample_id: SAMEA114464538
+      sex:
+  genome_size: 1281180000
+  genome_size_method: GoaT
+  project: [ vgp ]

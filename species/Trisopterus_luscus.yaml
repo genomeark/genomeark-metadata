@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fTriLus
+  name: Trisopterus luscus
+  taxon_id: 27722
+  common_name: Not provided by NCBI taxonomy
+  order:
+    name: Gadiformes
+  family:
+    name: Gadidae
+  individuals:
+    - short_name: fTriLus1
+      biosample_id: SAMEA114298638
+      sex:
+  genome_size: 860640000
+  genome_size_method: GoaT
+  project: [ vgp ]

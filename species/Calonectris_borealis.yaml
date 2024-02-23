@@ -12,6 +12,9 @@ species:
     - short_name: bCalBor6
       biosample_id: SAMEA8228670
       sex: female
+    - short_name: bCalBor7
+      biosample_id: SAMEA114294356
+      sex:
   genome_size:
   genome_size_method:
   project: [ vgp ]

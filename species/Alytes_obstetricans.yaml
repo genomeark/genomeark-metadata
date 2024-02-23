@@ -1,0 +1,20 @@
+---
+species:
+  short_name: aAlyObs
+  name: Alytes obstetricans
+  taxon_id: 8443
+  common_name: midwife toad
+  order:
+    name: Anura
+  family:
+    name: Alytidae
+  individuals:
+    - short_name: aAlyObs21
+      biosample_id: SAMEA114498587
+      sex: female
+    - short_name: aAlyObs22
+      biosample_id: SAMEA114498642
+      sex: male
+  genome_size: 9564840000
+  genome_size_method: GoaT
+  project: [ vgp ]

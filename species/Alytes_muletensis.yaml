@@ -1,0 +1,20 @@
+---
+species:
+  short_name: aAlyMul
+  name: Alytes muletensis
+  taxon_id: 97955
+  common_name: Mallorcan midwife toad
+  order:
+    name: Anura
+  family:
+    name: Alytidae
+  individuals:
+    - short_name: aAlyMul1
+      biosample_id: SAMEA114521711
+      sex: female
+    - short_name: aAlyMul2
+      biosample_id: SAMEA114521712
+      sex: male
+  genome_size: 8058720000
+  genome_size_method: GoaT
+  project: [ vgp ]
