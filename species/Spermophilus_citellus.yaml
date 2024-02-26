@@ -12,6 +12,9 @@ species:
     - short_name: mSpeCit2
       biosample_id: SAMEA10332751
       sex: female
+    - short_name: mSpeCit3
+      biosample_id: SAMEA10332752
+      sex: female
   genome_size: 3882659999.5
   genome_size_method: GoaT
   project: [ vgp ]
