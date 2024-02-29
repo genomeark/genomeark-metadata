@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mVulVul
+  name: Vulpes vulpes
+  taxon_id: 9627
+  common_name: red fox
+  order:
+    name: Carnivora
+  family:
+    name: Canidae
+  individuals:
+    - short_name: mVulVul1
+      biosample_id: SAMEA113398840
+      sex: female
+  genome_size: 2787300000
+  genome_size_method: GoaT
+  project: [ vgp ]
