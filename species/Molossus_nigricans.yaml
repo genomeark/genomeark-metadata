@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Molossus nigricans
+  taxon_id: 2997257
+  common_name: northern black mastiff bat
+  order:
+    name: Chiroptera
+  family:
+    name: Molossidae
+  individuals:
+  - mMolNig1
+  genome_size: 2508570000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Rhinolophus clivosus
+  taxon_id: 59478
+  common_name: Geoffroy's horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+  - mRhiCli1
+  genome_size: 2102700000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

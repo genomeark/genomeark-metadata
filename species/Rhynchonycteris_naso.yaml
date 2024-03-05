@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Rhynchonycteris naso
+  taxon_id: 249017
+  common_name: proboscis bat
+  order:
+    name: Chiroptera
+  family:
+    name: Emballonuridae
+  individuals:
+  - mRhyNas2
+  genome_size: 3090480000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

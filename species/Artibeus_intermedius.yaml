@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Artibeus intermedius
+  taxon_id: 51014
+  common_name: intermediate fruit-eating bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mArtInt1
+  genome_size: 2376540000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

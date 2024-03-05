@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Rhinolophus blasii
+  taxon_id: 519037
+  common_name: Blasius' horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+  - mRhiBla1
+  genome_size: 2102700000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

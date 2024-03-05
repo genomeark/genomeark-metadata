@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Gardnerycteris keenani
+  taxon_id: 2358194
+  common_name: Keenan's hairy-nosed bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mGarKee1
+  genome_size: 2141820000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

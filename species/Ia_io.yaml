@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Ia io
+  taxon_id: 360967
+  common_name: great evening bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+  - mIaxIox1
+  genome_size: 2288520000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

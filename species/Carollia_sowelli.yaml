@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Carollia sowelli
+  taxon_id: 208969
+  common_name: Sowell's short-tailed bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mCarSow1
+  genome_size: 2836200000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

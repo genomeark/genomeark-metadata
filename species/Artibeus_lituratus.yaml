@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Artibeus lituratus
+  taxon_id: 27634
+  common_name: great fruit-eating bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mArtLit1
+  genome_size: 2577030000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

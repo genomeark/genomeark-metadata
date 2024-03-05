@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Molossus alvarezi
+  taxon_id: 1552295
+  common_name: Alvarez's mastiff bat
+  order:
+    name: Chiroptera
+  family:
+    name: Molossidae
+  individuals:
+  - mMolAlv2
+  genome_size: 2508570000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

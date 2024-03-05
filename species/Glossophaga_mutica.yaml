@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Glossophaga mutica
+  taxon_id: 2994998
+  common_name: Merriam's long-tongued bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mGloMut1
+  genome_size: 2435220000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

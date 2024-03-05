@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Myotis nesopolus
+  taxon_id: 1163727
+  common_name: Curaçao myotis
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+  - mMyoNes1
+  genome_size: 2210280000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

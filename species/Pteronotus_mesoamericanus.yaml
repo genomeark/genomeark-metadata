@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Pteronotus mesoamericanus
+  taxon_id: 1884717
+  common_name: Mesoamerican mustached bat
+  order:
+    name: Chiroptera
+  family:
+    name: Mormoopidae
+  individuals:
+  - ''
+  genome_size: 2591700000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

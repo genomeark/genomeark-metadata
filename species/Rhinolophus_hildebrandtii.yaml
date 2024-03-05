@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Rhinolophus hildebrandtii
+  taxon_id: 302411
+  common_name: Hildebrandt's horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+  - mRhiHil1
+  genome_size: 2102700000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

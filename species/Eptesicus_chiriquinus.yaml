@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Eptesicus chiriquinus
+  taxon_id: 409022
+  common_name: Chiriquinan serotine
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+  - mEptChi1
+  genome_size: 2383875000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

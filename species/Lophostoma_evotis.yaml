@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Lophostoma evotis
+  taxon_id: 574022
+  common_name: Davis' round-eared bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mLopEvo1
+  genome_size: 2454780000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

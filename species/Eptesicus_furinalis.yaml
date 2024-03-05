@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Eptesicus furinalis
+  taxon_id: 124746
+  common_name: Argentine brown bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+  - mEptFur1
+  genome_size: 2474340000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

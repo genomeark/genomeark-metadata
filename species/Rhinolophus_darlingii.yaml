@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Rhinolophus darlingii
+  taxon_id: 49443
+  common_name: Darling's horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+  - mRhiDar1
+  genome_size: 2278740000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

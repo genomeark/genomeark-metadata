@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Micronycteris microtis
+  taxon_id: 249008
+  common_name: common big-eared bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mMicMic1
+  genome_size: 2229840000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

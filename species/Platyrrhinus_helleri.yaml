@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Platyrrhinus helleri
+  taxon_id: 27658
+  common_name: Heller's broad-nosed bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+  - mPlaHel1
+  genome_size: 2572140000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]

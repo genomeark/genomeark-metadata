@@ -1,0 +1,14 @@
+---
+species:
+  short_name: Dermanura phaeotis
+  taxon_id: 1051665
+  common_name: pygmy fruit-eating bat
+  order:
+    name: Chiroptera
+  family:
+    name: Natalidae
+  individuals:
+  - ''
+  genome_size: 2489010000
+  genome_size_method: GoaT
+  project: [ vgp , bat1k ]
