@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bBraCan
+  name: Branta canadensis
+  taxon_id: 8853
+  common_name: Canada goose
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bBraCan1
+      biosample_id: SAMEA113398965
+      sex: male
+  genome_size: 1388760000
+  genome_size_method: GoaT
+  project: [ vgp ]

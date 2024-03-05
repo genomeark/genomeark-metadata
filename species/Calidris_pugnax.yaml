@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bCalPug
+  name: Calidris pugnax
+  taxon_id: 198806
+  common_name: ruff
+  order:
+    name: Charadriiformes
+  family:
+    name: Scolopacidae
+  individuals:
+    - short_name: bCalPug1
+      biosample_id: SAMEA113398839
+      sex: male
+  genome_size: 1251840000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bFulAtr
+  name: Fulica atra
+  taxon_id: 9121
+  common_name: Eurasian coot
+  order:
+    name: Gruiformes
+  family:
+    name: Rallidae
+  individuals:
+    - short_name: bFulAtr2
+      biosample_id: SAMEA113398836
+      sex: female
+  genome_size: 1359420000
+  genome_size_method: GoaT
+  project: [ vgp ]

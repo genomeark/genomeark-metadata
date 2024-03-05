@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bColPal
+  name: Columba palumbus
+  taxon_id: 8934
+  common_name: Wood Pigeon
+  order:
+    name: Columbiformes
+  family:
+    name: Columbidae
+  individuals:
+    - short_name: bColPal1
+      biosample_id: SAMEA113398963
+      sex: male
+  genome_size: 1442550000
+  genome_size_method: GoaT
+  project: [ vgp ]
