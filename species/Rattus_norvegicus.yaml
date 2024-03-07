@@ -9,9 +9,71 @@ species:
   family:
     name: Muridae
   individuals:
-    - short_name: mRatNor1
-      biosample_id: SAMEA7524397
-      sex: male
-  genome_size:
-  genome_size_method:
-  project: [ vgp ]
+  -
+    short_name: mRatNor1
+    biosample_id: SAMEA7524397
+    alt_ids:
+    - SAN0001274
+    sex: male
+    project: [ vgp ]
+  -
+    short_name: mRatNor2
+    alt_ids:
+    - WKY/Bbb
+  -
+    short_name: mRatNor3
+    alt_ids:
+    - SHR/Utx (SHR-B2)
+  -
+    short_name: mRatNor4
+    biosample_id: null
+    strain: SHRSP/BbbUtx
+    alt_ids:
+    - RGD_8142383
+    - SHRA3/Utx
+    - SHR-A3
+    sex: male
+    birth_date: various, 2022-2023
+    birth_location: Texas, USA
+    breeding_method: natural
+    description: >
+      This "individual" represents the rat strain SHRSP/BbbUtx maintained at
+      UTHealth by Dr. Peter Doris. Multiple individuals are grouped together
+      because the strain is fully inbred and the genome is pseudohaploid.
+      Collections from various inviduals have occurred at multiple
+      timepoints, but they are generally being treated as coming from the
+      same source (similar to having a cell line) for the purpose of genome
+      assembly. A cell line was avoided so that somatic recombination could
+      be studied. For the purpose of this Tree of Life ID (ToLID), all
+      samples are from specimens at the same location and in the same
+      conditions. A reference genome assembly has already been generated using
+      PacBio HiFi and CLR (with other supporting data, e.g. Hi-C). The same
+      strain is being used for a T2T assembly effort.
+    provider: Dr. Peter Doris, University of Texas Health (UTHealth) Houston
+    samples:
+    -
+      sample_id: mRatNor4.liver1
+      tissue: liver
+      age: 18 weeks
+      dev_stage: adult
+      sample_biosample_id: SAMN24538170
+      birth_date: 2020-10-29
+      collection_date: 2021-03-08
+      provider: Dr. Peter Doris, University of Texas Health (UTHealth) Houston
+    -
+      sample_id: mRatNor4.kidney1
+      tissue: kindey
+      age: late gestational
+      dev_stage: late gestational
+      sample_biosample_id: null
+      collection_date: various, 2022-2023
+      provider: Dr. Peter Doris, University of Texas Health (UTHealth) Houston
+      description: >
+        Multiple samples were collected throughout 2022-2023 from multiple male
+        specimens. Intrabdominal testes are used to determine sex from these
+        late gestational fetuses. These samples were used for DNA sequencing
+        for the rat T2T project.
+    project: [ t2t ]
+  genome_size: 2900000000
+  genome_size_method: Expert estimate and existing assembly size
+  project: [ vgp, t2t ]
