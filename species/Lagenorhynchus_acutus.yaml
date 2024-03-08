@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mLagAcu
+  name: Lagenorhynchus acutus
+  taxon_id: 90246
+  common_name: Atlantic white-sided dolphin
+  order:
+    name: Cetacea
+  family:
+    name: Delphinidae
+  individuals:
+    - short_name: mLagAcu1
+      biosample_id: SAMEA114493133
+      sex: male
+  genome_size: 3080700000
+  genome_size_method: GoaT
+  project: [ vgp ]
