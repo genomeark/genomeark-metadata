@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAnsFab
+  name: Anser fabalis
+  taxon_id: 132587
+  common_name: Taiga bean goose
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAnsFab1
+      biosample_id: SAMEA113398846
+      sex: male
+  genome_size: 1378980000
+  genome_size_method: GoaT
+  project: [ vgp ]

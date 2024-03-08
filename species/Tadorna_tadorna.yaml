@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bTadTad
+  name: Tadorna tadorna
+  taxon_id: 75865
+  common_name: common shelduck
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bTadTad1
+      biosample_id: SAMEA113398967
+      sex: male
+  genome_size: 1364310000
+  genome_size_method: GoaT
+  project: [ vgp ]
