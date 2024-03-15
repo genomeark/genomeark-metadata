@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mRhiHip
+  name: Rhinolophus hipposideros
+  taxon_id: 77218
+  common_name: lesser horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+    - short_name: mRhiHip2
+      biosample_id: SAMEA113980802
+      sex: female
+  genome_size: 1877760000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarCac
+  name: Larus cachinnans
+  taxon_id: 119609
+  common_name: caspian gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarCac1
+      biosample_id: SAMEA114216486
+      sex: female
+  genome_size: 1467000000
+  genome_size_method: GoaT
+  project: [ vgp ]

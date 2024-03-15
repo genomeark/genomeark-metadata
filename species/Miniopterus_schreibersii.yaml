@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMinSch
+  name: Miniopterus schreibersii
+  taxon_id: 9433
+  common_name: Schreibers' long-fingered bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mMinSch1
+      biosample_id: SAMEA113980738
+      sex: male
+  genome_size: 1887540000
+  genome_size_method: GoaT
+  project: [ vgp ]

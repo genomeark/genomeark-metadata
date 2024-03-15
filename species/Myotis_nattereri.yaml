@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMyoNat
+  name: Myotis nattereri
+  taxon_id: 109481
+  common_name: Natterer's bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mMyoNat1
+      biosample_id: SAMEA114614248
+      sex: male
+  genome_size: 2210280000
+  genome_size_method: GoaT
+  project: [ vgp ]
