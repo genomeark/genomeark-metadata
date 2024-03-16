@@ -9,9 +9,9 @@ species:
   family:
     name: Phaethontidae
   individuals:
-    - short_name: bPhaAeh1
-      biosample_id: SAMEA8228671
-      sex: female
+    - short_name: bPhaAeh10
+      biosample_id: SAMEA114294362
+      sex:
     - short_name: bPhaAeh3
       biosample_id: SAMEA8228673
       sex: female

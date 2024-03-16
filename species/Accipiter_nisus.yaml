@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAccNis
+  name: Accipiter nisus
+  taxon_id: 211598
+  common_name: Eurasian sparrowhawk
+  order:
+    name: Accipitriformes
+  family:
+    name: Accipitridae
+  individuals:
+    - short_name: bAccNis1
+      biosample_id: SAMEA114594454
+      sex:
+  genome_size: 1095360000
+  genome_size_method: GoaT
+  project: [ vgp ]

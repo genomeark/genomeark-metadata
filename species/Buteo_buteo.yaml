@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bButBut
+  name: Buteo buteo
+  taxon_id: 30397
+  common_name: common buzzard
+  order:
+    name: Accipitriformes
+  family:
+    name: Accipitridae
+  individuals:
+    - short_name: bButBut1
+      biosample_id: SAMEA114594453
+      sex:
+  genome_size: 1388760000
+  genome_size_method: GoaT
+  project: [ vgp ]
