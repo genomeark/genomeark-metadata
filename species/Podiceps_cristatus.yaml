@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bPodCri
+  name: Podiceps cristatus
+  taxon_id: 345573
+  common_name: great crested grebe
+  order:
+    name: Podicipediformes
+  family:
+    name: Podicipedidae
+  individuals:
+    - short_name: bPodCri2
+      biosample_id: SAMEA8228691
+      sex:
+  genome_size: 1486560000
+  genome_size_method: GoaT
+  project: [ vgp ]
