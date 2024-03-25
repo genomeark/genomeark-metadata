@@ -1,0 +1,14 @@
+species:
+  name: Chiropotes utahicki
+  short_name: mChiUta
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mChiUta1
+    biosample_id:
+    description:
+    provider:

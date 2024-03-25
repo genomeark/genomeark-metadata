@@ -1,0 +1,14 @@
+species:
+  name: Panthera onca
+  short_name: mPanOnc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPanOnc2
+    biosample_id:
+    description:
+    provider:

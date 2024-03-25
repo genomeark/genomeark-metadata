@@ -1,0 +1,14 @@
+species:
+  name: Marmota flaviventris
+  short_name: mMarFla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMarFla1
+    biosample_id:
+    description:
+    provider:

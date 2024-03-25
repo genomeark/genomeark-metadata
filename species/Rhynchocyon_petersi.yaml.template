@@ -1,0 +1,14 @@
+species:
+  name: Rhynchocyon petersi
+  short_name: mRhyPet
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mRhyPet1
+    biosample_id:
+    description:
+    provider:

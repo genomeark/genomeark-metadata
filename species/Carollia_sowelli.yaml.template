@@ -1,0 +1,14 @@
+species:
+  name: Carollia sowelli
+  short_name: mCarSow
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCarSow1
+    biosample_id:
+    description:
+    provider:

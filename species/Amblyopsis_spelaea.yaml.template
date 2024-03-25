@@ -1,0 +1,14 @@
+species:
+  name: Amblyopsis spelaea
+  short_name: fAmbSpe
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAmbSpe1
+    biosample_id:
+    description:
+    provider:

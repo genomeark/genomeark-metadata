@@ -1,0 +1,14 @@
+species:
+  name: Prochilodus lineatus
+  short_name: fProLin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fProLin1
+    biosample_id:
+    description:
+    provider:

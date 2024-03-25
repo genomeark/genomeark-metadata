@@ -1,0 +1,14 @@
+species:
+  name: Rhamphochromis sp. chilingali
+  short_name: fRhaChi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fRhaChi2
+    biosample_id:
+    description:
+    provider:

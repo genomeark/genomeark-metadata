@@ -1,0 +1,14 @@
+species:
+  name: Rhinolophus blasii
+  short_name: mRhiBla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mRhiBla1
+    biosample_id:
+    description:
+    provider:
