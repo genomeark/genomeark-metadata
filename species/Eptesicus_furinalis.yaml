@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Eptesicus furinalis
+  short_name: mEptFur
+  name: Eptesicus furinalis
   taxon_id: 124746
   common_name: Argentine brown bat
   order:

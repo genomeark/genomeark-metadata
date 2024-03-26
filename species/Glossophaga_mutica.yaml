@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Glossophaga mutica
+  short_name: mGloMut
+  name: Glossophaga mutica
   taxon_id: 2994998
   common_name: Merriam's long-tongued bat
   order:

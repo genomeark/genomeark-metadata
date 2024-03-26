@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Artibeus intermedius
+  short_name: mArtInt
+  name: Artibeus intermedius
   taxon_id: 51014
   common_name: intermediate fruit-eating bat
   order:

@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Nycteris thebaica
+  short_name: mNycThe
+  name: Nycteris thebaica
   taxon_id: 59467
   common_name: Egyptian slit-faced bat
   order:

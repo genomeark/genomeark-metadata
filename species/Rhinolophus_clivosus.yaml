@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Rhinolophus clivosus
+  short_name: mRhiCli
+  name: Rhinolophus clivosus
   taxon_id: 59478
   common_name: Geoffroy's horseshoe bat
   order:

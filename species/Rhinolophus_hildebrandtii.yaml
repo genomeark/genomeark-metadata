@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Rhinolophus hildebrandtii
+  short_name: mRhiHil
+  name: Rhinolophus hildebrandtii
   taxon_id: 302411
   common_name: Hildebrandt's horseshoe bat
   order:

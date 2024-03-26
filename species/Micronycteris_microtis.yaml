@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Micronycteris microtis
+  short_name: mMicMic
+  name: Micronycteris microtis
   taxon_id: 249008
   common_name: common big-eared bat
   order:

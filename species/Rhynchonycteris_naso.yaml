@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Rhynchonycteris naso
+  short_name: mRhyNas
+  name: Rhynchonycteris naso
   taxon_id: 249017
   common_name: proboscis bat
   order:
