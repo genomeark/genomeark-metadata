@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Molossus alvarezi
+  short_name: mMolAlv
+  name: Molossus alvarezi
   taxon_id: 1552295
   common_name: Alvarez's mastiff bat
   order:

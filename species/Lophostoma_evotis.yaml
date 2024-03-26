@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Lophostoma evotis
+  short_name: mLopEvo
+  name: Lophostoma evotis
   taxon_id: 574022
   common_name: Davis' round-eared bat
   order:

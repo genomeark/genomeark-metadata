@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Carollia sowelli
+  short_name: mCarSow
+  name: Carollia sowelli
   taxon_id: 208969
   common_name: Sowell's short-tailed bat
   order:

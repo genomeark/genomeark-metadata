@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Myotis nesopolus
+  short_name: mMyoNes
+  name: Myotis nesopolus
   taxon_id: 1163727
   common_name: Curaçao myotis
   order:

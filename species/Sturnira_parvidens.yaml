@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Sturnira parvidens
+  short_name: mStuPar
+  name: Sturnira parvidens
   taxon_id: 196700
   common_name: little yellow-shouldered Mesoamerican bat
   order:

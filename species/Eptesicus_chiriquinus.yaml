@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Eptesicus chiriquinus
+  short_name: mEptChi
+  name: Eptesicus chiriquinus
   taxon_id: 409022
   common_name: Chiriquinan serotine
   order:

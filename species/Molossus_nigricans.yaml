@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Molossus nigricans
+  short_name: mMolNig
+  name: Molossus nigricans
   taxon_id: 2997257
   common_name: northern black mastiff bat
   order:
