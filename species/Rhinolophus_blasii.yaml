@@ -9,7 +9,7 @@ species:
   family:
     name: Rhinolophidae
   individuals:
-  - mRhiBla1
+    - short_name: mRhiBla1
   genome_size: 2102700000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

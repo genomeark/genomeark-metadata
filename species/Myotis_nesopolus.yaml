@@ -9,7 +9,7 @@ species:
   family:
     name: Vespertilionidae
   individuals:
-  - mMyoNes1
+    - short_name: mMyoNes1
   genome_size: 2210280000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

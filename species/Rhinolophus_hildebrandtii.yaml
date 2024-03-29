@@ -9,7 +9,7 @@ species:
   family:
     name: Rhinolophidae
   individuals:
-  - mRhiHil1
+    - short_name: mRhiHil1
   genome_size: 2102700000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

@@ -9,7 +9,7 @@ species:
   family:
     name: Vespertilionidae
   individuals:
-  - mEptChi1
+    - short_name: mEptChi1
   genome_size: 2383875000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

@@ -9,7 +9,7 @@ species:
   family:
     name: Vespertilionidae
   individuals:
-  - mMyoTri1
+    - short_name: mMyoTri1
   genome_size: 2210280000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mGarKee1
+    - short_name: mGarKee1
   genome_size: 2141820000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

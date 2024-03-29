@@ -9,7 +9,7 @@ species:
   family:
     name: Nycteridae
   individuals:
-  - mNycThe2
+    - short_name: mNycThe2
   genome_size: 2757960000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

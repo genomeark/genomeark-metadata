@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mLopEvo1
+    - short_name: mLopEvo1
   genome_size: 2454780000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

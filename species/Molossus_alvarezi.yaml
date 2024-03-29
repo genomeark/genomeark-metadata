@@ -9,7 +9,7 @@ species:
   family:
     name: Molossidae
   individuals:
-  - mMolAlv2
+    - short_name: mMolAlv2
   genome_size: 2508570000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

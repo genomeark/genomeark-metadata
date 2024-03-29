@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mMicMic1
+    - short_name: mMicMic1
   genome_size: 2229840000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

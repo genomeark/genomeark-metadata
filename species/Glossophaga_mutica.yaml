@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mGloMut1
+    - short_name: mGloMut1
   genome_size: 2435220000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

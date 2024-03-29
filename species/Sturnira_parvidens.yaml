@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mStuPar1
+    - short_name: mStuPar1
   genome_size: 2704170000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

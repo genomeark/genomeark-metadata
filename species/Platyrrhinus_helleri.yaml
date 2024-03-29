@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mPlaHel1
+    - short_name: mPlaHel1
   genome_size: 2572140000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

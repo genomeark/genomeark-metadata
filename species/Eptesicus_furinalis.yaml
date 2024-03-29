@@ -9,7 +9,7 @@ species:
   family:
     name: Vespertilionidae
   individuals:
-  - mEptFur1
+    - short_name: mEptFur1
   genome_size: 2474340000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

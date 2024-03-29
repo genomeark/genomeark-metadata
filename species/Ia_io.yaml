@@ -9,7 +9,7 @@ species:
   family:
     name: Vespertilionidae
   individuals:
-  - mIaxIox1
+    - short_name: mIaxIox1
   genome_size: 2288520000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

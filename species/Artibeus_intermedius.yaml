@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mArtInt1
+    - short_name: mArtInt1
   genome_size: 2376540000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

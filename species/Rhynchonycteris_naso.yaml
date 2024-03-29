@@ -9,7 +9,7 @@ species:
   family:
     name: Emballonuridae
   individuals:
-  - mRhyNas2
+    - short_name: mRhyNas2
   genome_size: 3090480000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

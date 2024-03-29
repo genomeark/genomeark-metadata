@@ -9,7 +9,7 @@ species:
   family:
     name: Rhinolophidae
   individuals:
-  - mRhiDar1
+    - short_name: mRhiDar1
   genome_size: 2278740000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]

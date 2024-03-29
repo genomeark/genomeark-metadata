@@ -9,7 +9,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-  - mCarSow1
+    - short_name: mCarSow1
   genome_size: 2836200000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]
