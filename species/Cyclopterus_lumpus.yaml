@@ -10,6 +10,7 @@ species:
     name: Cyclopteridae
   individuals:
     - short_name: fCycLum1
+      biosample_id:
       sex:
     - short_name: fCycLum2
       biosample_id: SAMEA112789128

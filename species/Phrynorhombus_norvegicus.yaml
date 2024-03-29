@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fPhrNor
+  name: Phrynorhombus norvegicus
+  taxon_id: 508659
+  common_name: Norwegian topknot
+  order:
+    name: Pleuronectiformes
+  family:
+    name: Scophthalmidae
+  individuals:
+    - short_name: fPhrNor1
+      biosample_id: SAMEA112788960
+      sex:
+  genome_size: 738390000
+  genome_size_method: GoaT
+  project: [ vgp ]
