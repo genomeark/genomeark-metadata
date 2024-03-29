@@ -9,6 +9,9 @@ species:
   family:
     name: Gaviidae
   individuals:
+    - short_name: bGavSte4
+      biosample_id: SAMEA9654315
+      sex: male
     - short_name: bGavSte5
       biosample_id: SAMEA9850966
       sex: female

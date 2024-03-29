@@ -1,15 +1,18 @@
 ---
 species:
-  common_name: mute swan
-  family:
-    name: Anatidae
-  genome_size: 1480000000
-  genome_size_method: null
-  individuals:
-  - short_name: bCygOlo1
+  short_name: bCygOlo
   name: Cygnus olor
+  taxon_id: 8869
+  common_name: mute swan
   order:
     name: Anseriformes
-  short_name: bCygOlo
-  taxon_id: 8869
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bCygOlo1
+    - short_name: bCygOlo2
+      biosample_id: SAMEA113398849
+      sex: male
+  genome_size: 1480000000
+  genome_size_method: null
   project: [ vgp ]
