@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bFalTin
+  name: Falco tinnunculus
+  taxon_id: 100819
+  common_name: common kestrel
+  order:
+    name: Falconiformes
+  family:
+    name: Falconidae
+  individuals:
+    - short_name: bFalTin1
+      biosample_id: SAMEA114594452
+      sex:
+  genome_size: 1403430000
+  genome_size_method: GoaT
+  project: [ vgp ]

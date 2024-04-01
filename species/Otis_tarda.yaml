@@ -9,8 +9,8 @@ species:
   family:
     name: Otididae
   individuals:
-    - short_name: bOtiTar3
-      biosample_id: SAMEA9850966
+    - short_name: bOtiTar7
+      biosample_id: SAMEA114806514
       sex: female
   genome_size: 1388760000
   genome_size_method: GoaT
