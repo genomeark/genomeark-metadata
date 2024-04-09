@@ -1,6 +1,6 @@
 species:
-  name: Molossus nigricans
-  short_name: mMolNig
+  name: Peromyscus gossypinus
+  short_name: mPerGos
   common_name:
   taxon_id:
   order:
@@ -8,7 +8,7 @@ species:
   family:
     name:
   individuals:
-  - short_name: mMolNig1
+  - short_name: mPerGos1
     biosample_id:
     description:
     provider:

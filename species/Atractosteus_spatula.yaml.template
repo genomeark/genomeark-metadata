@@ -1,6 +1,6 @@
 species:
-  name: Molossus alvarezi
-  short_name: mMolAlv
+  name: Atractosteus spatula
+  short_name: fAtrSpa
   common_name:
   taxon_id:
   order:
@@ -8,7 +8,7 @@ species:
   family:
     name:
   individuals:
-  - short_name: mMolAlv2
+  - short_name: fAtrSpa1
     biosample_id:
     description:
     provider:

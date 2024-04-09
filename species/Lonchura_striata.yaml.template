@@ -1,6 +1,6 @@
 species:
-  name: Carollia sowelli
-  short_name: mCarSow
+  name: Lonchura striata
+  short_name: bLonStr
   common_name:
   taxon_id:
   order:
@@ -8,7 +8,7 @@ species:
   family:
     name:
   individuals:
-  - short_name: mCarSow1
+  - short_name: bLonStr1
     biosample_id:
     description:
     provider:

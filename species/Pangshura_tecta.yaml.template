@@ -1,6 +1,6 @@
 species:
-  name: Lophostoma evotis
-  short_name: mLopEvo
+  name: Pangshura tecta
+  short_name: rPanTec
   common_name:
   taxon_id:
   order:
@@ -8,7 +8,7 @@ species:
   family:
     name:
   individuals:
-  - short_name: mLopEvo1
+  - short_name: rPanTec1
     biosample_id:
     description:
     provider:
