@@ -1,14 +1,13 @@
 ---
 species:
-  short_name: Myotis pilosatibialis
+  short_name: mMyoDau
+  name: Myotis pilosatibialis
   taxon_id: 2940081
   common_name: hairy-legged myotis
   order:
     name: Chiroptera
   family:
     name: Vespertilionidae
-  individuals:
-  - ''
   genome_size: 2210280000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]
