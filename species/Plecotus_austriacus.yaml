@@ -12,6 +12,9 @@ species:
     - short_name: mPleAus1
       biosample_id: SAMEA112124174
       sex: male
+    - short_name: mPleAus2
+      biosample_id: SAMEA114614236
+      sex: female
   genome_size: 2180940000
   genome_size_method: GoaT
   project: [ vgp ]
