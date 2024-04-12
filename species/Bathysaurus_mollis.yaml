@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fBatMol
+  name: Bathysaurus mollis
+  taxon_id: 1126214
+  common_name: 
+  order:
+    name: Aulopiformes
+  family:
+    name: Bathysauridae
+  individuals:
+    - short_name: fBatMol1
+      biosample_id: SAMEA114806302
+      sex:
+  genome_size: 1274456250
+  genome_size_method: GoaT
+  project: [ vgp ]
