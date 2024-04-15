@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarHyp
+  name: Larus hyperboreus
+  taxon_id: 119637
+  common_name: Glaucous Gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarHyp1
+      biosample_id: SAMEA115119300
+      sex: female
+  genome_size: 1432770000
+  genome_size_method: GoaT
+  project: [ vgp ]

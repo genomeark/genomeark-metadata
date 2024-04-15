@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarArg
+  name: Larus argentatus
+  taxon_id: 35669
+  common_name: Herring Gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarArg3
+      biosample_id: SAMEA115168456
+      sex: female
+  genome_size: 1398540000
+  genome_size_method: GoaT
+  project: [ vgp ]
