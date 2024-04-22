@@ -1,0 +1,14 @@
+species:
+  name: Ictidomys tridecemlineatus
+  short_name: mIctTri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mIctTri1
+    biosample_id:
+    description:
+    provider:

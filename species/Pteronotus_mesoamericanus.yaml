@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Pteronotus mesoamericanus
+  name: Pteronotus mesoamericanus
+  short_name: mPteMes
   taxon_id: 1884717
   common_name: Mesoamerican mustached bat
   order:

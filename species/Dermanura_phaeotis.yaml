@@ -1,6 +1,7 @@
 ---
 species:
-  short_name: Dermanura phaeotis
+  name: Dermanura phaeotis
+  short_name: mDerPha
   taxon_id: 1051665
   common_name: pygmy fruit-eating bat
   order:

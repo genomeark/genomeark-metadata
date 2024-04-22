@@ -1,0 +1,14 @@
+species:
+  name: Callospermophilus lateralis
+  short_name: mCalLat
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCalLat1
+    biosample_id:
+    description:
+    provider:

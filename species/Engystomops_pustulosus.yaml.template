@@ -1,0 +1,26 @@
+species:
+  name: Engystomops pustulosus
+  short_name: aEngPut
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aEngPut1
+    biosample_id:
+    description:
+    provider:
+  - short_name: aEngPut2
+    biosample_id:
+    description:
+    provider:
+  - short_name: aEngPut3
+    biosample_id:
+    description:
+    provider:
+  - short_name: aEngPut4
+    biosample_id:
+    description:
+    provider:
