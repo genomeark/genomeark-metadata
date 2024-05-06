@@ -1,0 +1,44 @@
+---
+species:
+  short_name: mNomLeu
+  name: Nomascus leucogenys
+  taxon_id: 61853
+  common_name: Northern White-Cheeked Gibbon
+  order:
+    name: Primates
+  family:
+    name: Nomascus
+  individuals:
+  -
+    short_name: mNomLeu1
+    name: Vok
+    biosample_id: null
+    alt_ids:
+    - NLL600 (ISIS#)
+    - 830031 (Melbourne local ID)
+    sex: male
+    birth_date: 29 April 1983
+    birth_location: Melbourne Zoo, Melbourne, Australia
+    birth_type: Captive born
+    mother: null
+    father: null
+    description: >
+      Vok is male Northern White-Cheeked Gibbon born in the Melbourne Zoo, and
+      his genome is being sequenced as part of a T2T effort. We do not have the
+      information on Vok's parents, but we do know that he is the Sire of St.
+      Paddy (male; ISIS# NLL696) and Parker (female; ISIS# NLL699).
+    provider: Lucia Carbone, Oregon Health & Science University
+    samples:
+    -
+      sample_id: mNomLeu1.lcl1
+      sample_type: cell culture
+      tissue: null
+      isolation_source: EBV-transformed lymphoblastoid cell line
+      age: null
+      sample_biosample_id: null
+      collection_date: null
+      provider: Lucia Carbone, Oregon Health & Science University
+    project: [ t2t ]
+  genome_size: 3230000000
+  genome_size_method: Genomes on a Tree (GoaT) estimate
+  project: [ t2t ]

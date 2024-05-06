@@ -1,0 +1,64 @@
+---
+species:
+  short_name: mHylMol
+  name: Hylobates moloch
+  taxon_id: 81572
+  common_name: Silvery Gibbon
+  order:
+    name: Primates
+  family:
+    name: Hylobatidae
+  individuals:
+  -
+    short_name: mHylMol1
+    name: Lionel
+    biosample_id: SAMN12851060
+    alt_ids:
+    - HMO894 (ISIS#)
+    sex: male
+    birth_date: 6 November 2011
+    birth_location: Gibbon Conservation Center, Santa Clarita, California, USA
+    birth_type: Captive born
+    mother: mHylMol2
+    father: null
+    description: >
+      Lionel is a male silvery or Javan gibbon born in the Gibbon Conservation
+      Center, and his genome is being sequenced as part of a T2T effort.
+      Lionel's parents are Shelby (father) and Chloe (mother; mHylMol2;
+      ISIS# HMO803).
+    provider: Lucia Carbone, Oregon Health & Science University
+    samples:
+    -
+      sample_id: mHylMol1.lcl1
+      sample_type: cell culture
+      tissue: null
+      isolation_source: EBV-transformed lymphoblastoid cell line
+      age: 7 years
+      sample_biosample_id: SAMN12851060
+      collection_date: null
+      provider: Lucia Carbone, Oregon Health & Science University
+    project: [ t2t ]
+  -
+    short_name: mHylMol2
+    name: Chloe
+    biosample_id: null
+    alt_ids:
+    - HMO803 (ISIS#)
+    - 910114 (Winnipeg local ID)
+    sex: female
+    birth_date: 24 February 1990
+    birth_location: Assiniboine Park Zoo, Winnipeg, Manitoba, Canada
+    birth_type: Captive born
+    mother: null
+    father: null
+    description: >
+      Chloe is a female silvery or Javan gibbon born in the Assiniboine Park
+      Zoo, and the genome of her male child (Lionel; mHylMol1; ISIS# HMO894) is
+      being sequenced as part of a T2T effort. Chloe's parents are Billy J
+      (father) and Bobbie-Jean (mother).
+    provider: Lucia Carbone, Oregon Health & Science University
+    samples: null
+    project: null
+  genome_size: 3168720000
+  genome_size_method: Feulgen Densitometry (found via the Animal Genome Size Database and Genomes on a Tree (GoaT))
+  project: [ t2t ]
