@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarCan
+  name: Larus canus
+  taxon_id: 28681
+  common_name: Common Gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarCan2
+      biosample_id: SAMEA115168455
+      sex: male
+  genome_size: 1432770000
+  genome_size_method: GoaT
+  project: [ vgp ]

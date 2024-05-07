@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarMar
+  name: Larus marinus
+  taxon_id: 8912
+  common_name: Great Black-backed Gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarMar3
+      biosample_id: SAMEA115168457
+      sex: female
+  genome_size: 1432770000
+  genome_size_method: GoaT
+  project: [ vgp ]
