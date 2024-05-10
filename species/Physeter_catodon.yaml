@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mPhyCat
+  name: Physeter catodon
+  taxon_id: 9755
+  common_name: sperm whale
+  order:
+    name: Artiodactyla
+  family:
+    name: Physeteridae
+  individuals:
+    - short_name: mPhyCat1
+      biosample_id: SAMEA114493129
+      sex: male
+  genome_size: 3217620000
+  genome_size_method: GoaT
+  project: [ vgp ]

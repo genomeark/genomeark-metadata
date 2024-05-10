@@ -1,0 +1,20 @@
+---
+species:
+  short_name: rPodMur
+  name: Podarcis muralis
+  taxon_id: 64176
+  common_name: Common wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodMur118
+      biosample_id: SAMEA115336773
+      sex: female
+    - short_name: rPodMur119
+      biosample_id: SAMEA115336776
+      sex: female
+  genome_size: 1662600000
+  genome_size_method: GoaT
+  project: [ vgp ]

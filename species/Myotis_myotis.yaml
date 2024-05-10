@@ -1,13 +1,18 @@
 ---
 species:
+  short_name: mMyoMyo
+  name: Myotis myotis
+  taxon_id: 51298
   common_name: Greater mouse-eared bat
+  order:
+    name: Chiroptera
   family:
     name: Vespertilionidae
   individuals:
-  - short_name: mMyoMyo1
-  name: Myotis myotis
-  order:
-    name: Chiroptera
-  short_name: mMyoMyo
-  taxon_id: 51298
+    - short_name: mMyoMyo1
+    - short_name: mMyoMyo2
+      biosample_id: SAMEA114088889
+      sex: male
+  genome_size:
+  genome_size_method:
   project: [ vgp ]

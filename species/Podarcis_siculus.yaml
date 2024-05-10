@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodSic
+  name: Podarcis siculus
+  taxon_id: 65484
+  common_name: Italian wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodSic1
+      biosample_id: SAMEA115336774
+      sex: female
+  genome_size: 1933995000
+  genome_size_method: GoaT
+  project: [ vgp ]

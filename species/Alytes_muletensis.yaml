@@ -12,6 +12,9 @@ species:
     - short_name: aAlyMul1
       biosample_id: SAMEA114521711
       sex: female
+    - short_name: aAlyMul15
+      biosample_id:
+      sex:
     - short_name: aAlyMul2
       biosample_id: SAMEA114521712
       sex: male

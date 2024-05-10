@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodVau
+  name: Podarcis vaucheri
+  taxon_id: 140051
+  common_name: Andalusian wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodVau1
+      biosample_id: SAMEA115336770
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]

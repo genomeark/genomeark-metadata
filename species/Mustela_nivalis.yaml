@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMusNiv
+  name: Mustela nivalis
+  taxon_id: 36239
+  common_name: least weasel
+  order:
+    name: Carnivora
+  family:
+    name: Mustelidae
+  individuals:
+    - short_name: mMusNiv2
+      biosample_id: SAMEA113398841
+      sex: female
+  genome_size: 3012240000
+  genome_size_method: GoaT
+  project: [ vgp ]
