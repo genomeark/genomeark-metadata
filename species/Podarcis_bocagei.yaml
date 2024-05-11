@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodBoc
+  name: Podarcis bocagei
+  taxon_id: 90520
+  common_name: Bocage's wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodBoc1
+      biosample_id: SAMEA115336769
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]

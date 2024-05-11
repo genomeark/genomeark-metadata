@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mBalPhy
+  name: Balaenoptera physalus
+  taxon_id: 9770
+  common_name: Fin whale
+  order:
+    name: Cetacea
+  family:
+    name: Balaenopteridae
+  individuals:
+    - short_name: mBalPhy2
+      biosample_id: SAMEA114493136
+      sex: male
+  genome_size: 2865540000
+  genome_size_method: GoaT
+  project: [ vgp ]

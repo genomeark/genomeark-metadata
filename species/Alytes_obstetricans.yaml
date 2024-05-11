@@ -15,6 +15,9 @@ species:
     - short_name: aAlyObs22
       biosample_id: SAMEA114498642
       sex: male
+    - short_name: aAlyObs9
+      biosample_id:
+      sex:
   genome_size: 9564840000
   genome_size_method: GoaT
   project: [ vgp ]
