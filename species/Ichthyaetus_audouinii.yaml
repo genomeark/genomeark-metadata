@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bIchAud
+  name: Ichthyaetus audouinii
+  taxon_id: 1288292
+  common_name: Audouin's Gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bIchAud1
+      biosample_id: SAMEA115337114
+      sex: female
+  genome_size: 1418100000
+  genome_size_method: GoaT
+  project: [ vgp ]

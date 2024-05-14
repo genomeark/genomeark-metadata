@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fDipBim
+  name: Diplecogaster bimaculata
+  taxon_id: 210029
+  common_name: two-spotted clingfish
+  order:
+    name: Gobiesociformes
+  family:
+    name: Gobiesocidae
+  individuals:
+    - short_name: fDipBim1
+      biosample_id: SAMEA115106925
+      sex: female
+  genome_size: 896092500
+  genome_size_method: GoaT
+  project: [ vgp ]
