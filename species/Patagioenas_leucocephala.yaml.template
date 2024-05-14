@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas leucocephala
+  short_name: bPatLeu
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatLeu1
+    biosample_id:
+    description:
+    provider:

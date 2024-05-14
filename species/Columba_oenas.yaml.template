@@ -1,0 +1,14 @@
+species:
+  name: Columba oenas
+  short_name: bColOen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bColOen1
+    biosample_id:
+    description:
+    provider:

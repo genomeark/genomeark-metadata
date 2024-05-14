@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas squamosa
+  short_name: bPatSqu
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatSqu1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Macropygia unchall
+  short_name: bMacUnc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMacUnc1
+    biosample_id:
+    description:
+    provider:

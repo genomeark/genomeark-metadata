@@ -1,0 +1,14 @@
+species:
+  name: Columba delegorguei
+  short_name: bColDel
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bColDel1
+    biosample_id:
+    description:
+    provider:

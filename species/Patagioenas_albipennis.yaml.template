@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas albipennis
+  short_name: bPatAlb
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatAlb1
+    biosample_id:
+    description:
+    provider:

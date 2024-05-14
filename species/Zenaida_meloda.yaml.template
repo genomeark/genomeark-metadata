@@ -1,0 +1,14 @@
+species:
+  name: Zenaida meloda
+  short_name: bZenMel
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bZenMel1
+    biosample_id:
+    description:
+    provider:

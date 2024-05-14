@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas picazuro
+  short_name: bPatPic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatPic1
+    biosample_id:
+    description:
+    provider:

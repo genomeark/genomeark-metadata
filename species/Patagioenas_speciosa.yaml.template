@@ -1,0 +1,14 @@
+species:
+  name: Patagioenas speciosa
+  short_name: bPatSpe
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPatSpe1
+    biosample_id:
+    description:
+    provider:

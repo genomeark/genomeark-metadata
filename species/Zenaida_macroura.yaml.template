@@ -1,0 +1,14 @@
+species:
+  name: Zenaida macroura
+  short_name: bZenMac
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bZenMac1
+    biosample_id:
+    description:
+    provider:

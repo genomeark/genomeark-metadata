@@ -1,0 +1,14 @@
+species:
+  name: Oena capensis
+  short_name: bOenCap
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bOenCap1
+    biosample_id:
+    description:
+    provider:

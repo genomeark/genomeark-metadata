@@ -1,0 +1,14 @@
+species:
+  name: Columba eversmanni
+  short_name: bColEve
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bColEve1
+    biosample_id:
+    description:
+    provider:

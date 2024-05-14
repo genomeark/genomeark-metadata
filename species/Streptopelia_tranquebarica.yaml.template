@@ -1,0 +1,14 @@
+species:
+  name: Streptopelia tranquebarica
+  short_name: bStrTra
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bStrTra1
+    biosample_id:
+    description:
+    provider:
