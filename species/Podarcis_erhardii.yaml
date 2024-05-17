@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodErh
+  name: Podarcis erhardii
+  taxon_id: 140042
+  common_name: Erhard's wall lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodErh1
+      biosample_id: SAMEA115336771
+      sex: female
+  genome_size: 1932772500
+  genome_size_method: GoaT
+  project: [ vgp ]

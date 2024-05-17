@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMesMir
+  name: Mesoplodon mirus
+  taxon_id: 52113
+  common_name: True's beaked whale
+  order:
+    name: Cetacea
+  family:
+    name: Hyperoodontidae
+  individuals:
+    - short_name: mMesMir1
+      biosample_id: SAMEA115358965
+      sex: female
+  genome_size: 3217620000
+  genome_size_method: GoaT
+  project: [ vgp ]

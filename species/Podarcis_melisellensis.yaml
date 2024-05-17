@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rPodMel
+  name: Podarcis melisellensis
+  taxon_id: 65482
+  common_name: Dalmatian wall Lizard
+  order:
+    name: Squamata
+  family:
+    name: Lacertidae
+  individuals:
+    - short_name: rPodMel1
+      biosample_id: SAMEA115336775
+      sex: female
+  genome_size: 1931550000
+  genome_size_method: GoaT
+  project: [ vgp ]
