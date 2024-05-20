@@ -27,7 +27,7 @@ species:
   -
       short_name: mPanPan2
       name: Loretta
-      biosample_id: null
+      biosample_id: SAMN35877942
       strain: null
       subspecies: null
       alt_ids:
@@ -45,7 +45,7 @@ species:
   -
       short_name: mPanPan3
       name: Vernon
-      biosample_id: null
+      biosample_id: SAMN35877943
       strain: null
       subspecies: null
       alt_ids:
