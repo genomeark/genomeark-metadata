@@ -12,6 +12,9 @@ species:
     - short_name: mGraGri1
       biosample_id: SAMEA111380541
       sex: male
+    - short_name: mGraGri2
+      biosample_id: SAMEA114493130
+      sex: male
   genome_size: 3080700000
   genome_size_method: GoaT
   project: [ vgp ]

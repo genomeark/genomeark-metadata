@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bLarGla
+  name: Larus glaucescens
+  taxon_id: 119606
+  common_name: glaucous-winged gull
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bLarGla1
+      biosample_id: SAMEA115348653
+      sex: female
+  genome_size: 1432770000
+  genome_size_method: GoaT
+  project: [ vgp ]

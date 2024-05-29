@@ -1,0 +1,17 @@
+---
+species:
+  short_name: rNatHel
+  name: Natrix helvetica
+  taxon_id: 2025560
+  common_name: Barred grass snake
+  order:
+    name: Squamata
+  family:
+    name: Natricidae
+  individuals:
+    - short_name: rNatHel1
+      biosample_id: SAMEA114598156
+      sex: female
+  genome_size: 2298300000
+  genome_size_method: GoaT
+  project: [ vgp ]
