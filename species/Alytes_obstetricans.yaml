@@ -9,6 +9,9 @@ species:
   family:
     name: Alytidae
   individuals:
+    - short_name: aAlyObs13
+      biosample_id:
+      sex:
     - short_name: aAlyObs21
       biosample_id: SAMEA114498587
       sex: female

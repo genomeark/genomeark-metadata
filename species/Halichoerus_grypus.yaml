@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mHalGry
+  name: Halichoerus grypus
+  taxon_id: 9711
+  common_name: gray seal
+  order:
+    name: Carnivora
+  family:
+    name: Phocidae
+  individuals:
+    - short_name: mHalGry1
+      biosample_id: SAMEA115427674
+      sex: female
+  genome_size: 2875320000
+  genome_size_method: GoaT
+  project: [ vgp ]
