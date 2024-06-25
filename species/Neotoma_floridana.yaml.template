@@ -1,0 +1,14 @@
+species:
+  name: Neotoma floridana
+  short_name: mNeoFlo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mNeoFlo1
+    biosample_id:
+    description:
+    provider:

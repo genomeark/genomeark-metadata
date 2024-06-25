@@ -1,0 +1,14 @@
+species:
+  name: Paroedura picta
+  short_name: rParPic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rParPic1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Pelodiscus sinensis
+  short_name: rPelSin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rPelSin1
+    biosample_id:
+    description:
+    provider:

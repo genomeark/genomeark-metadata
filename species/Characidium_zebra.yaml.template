@@ -1,0 +1,14 @@
+species:
+  name: Characidium zebra
+  short_name: fChaZeb
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fChaZeb1
+    biosample_id:
+    description:
+    provider:

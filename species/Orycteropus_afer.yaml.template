@@ -1,0 +1,14 @@
+species:
+  name: Orycteropus afer
+  short_name: mOryAfe
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mOryAfe1
+    biosample_id:
+    description:
+    provider:

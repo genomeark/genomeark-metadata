@@ -1,0 +1,14 @@
+species:
+  name: Babyrousa celebensis
+  short_name: mBabCel
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mBabCel1
+    biosample_id:
+    description:
+    provider:

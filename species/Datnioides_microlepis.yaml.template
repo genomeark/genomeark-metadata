@@ -1,0 +1,14 @@
+species:
+  name: Datnioides microlepis
+  short_name: fDatMic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fDatMic1
+    biosample_id:
+    description:
+    provider:
