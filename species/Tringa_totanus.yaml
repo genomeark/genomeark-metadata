@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bTriTot
+  name: Tringa totanus
+  taxon_id: 171271
+  common_name: 
+  order:
+    name: Charadriiformes
+  family:
+    name: Scolopacidae
+  individuals:
+    - short_name: bTriTot1
+      biosample_id: SAMEA115433012
+      sex: female
+  genome_size: 1320300000
+  genome_size_method: GoaT
+  project: [ vgp ]

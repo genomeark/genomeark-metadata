@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bAytMar
+  name: Aythya marila
+  taxon_id: 189534
+  common_name: greater scaup
+  order:
+    name: Anseriformes
+  family:
+    name: Anatidae
+  individuals:
+    - short_name: bAytMar2
+      biosample_id: SAMEA115433010
+      sex: female
+  genome_size: 1349640000
+  genome_size_method: GoaT
+  project: [ vgp ]
