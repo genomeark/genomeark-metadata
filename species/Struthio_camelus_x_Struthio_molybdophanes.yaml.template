@@ -1,0 +1,14 @@
+species:
+  name: Struthio camelus x Struthio molybdophanes
+  short_name: bStrCam
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bStrCam1
+    biosample_id:
+    description:
+    provider:
