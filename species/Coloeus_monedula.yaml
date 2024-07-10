@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bColMon
+  name: Coloeus monedula
+  taxon_id: 30423
+  common_name: 
+  order:
+    name: Passeriformes
+  family:
+    name: Corvidae
+  individuals:
+    - short_name: bColMon1
+      biosample_id: SAMEA115433023
+      sex: female
+  genome_size: 1222500000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bPodNig
+  name: Podiceps nigricollis
+  taxon_id: 85099
+  common_name: black-necked grebe
+  order:
+    name: Podicipediformes
+  family:
+    name: Podicipedidae
+  individuals:
+    - short_name: bPodNig1
+      biosample_id: SAMEA115433022
+      sex: female
+  genome_size: 1486560000
+  genome_size_method: GoaT
+  project: [ vgp ]

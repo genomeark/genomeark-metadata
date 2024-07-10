@@ -16,6 +16,9 @@ species:
         name: Falco peregrinus calidus
         common_name: Siberian peregrine falcon
         taxon_id: 495983
+    - short_name: bFalPer5
+      biosample_id: SAMEA115433029
+      sex:
   genome_size: 1420000000
   genome_size_method: GoaT ancestral inferred
   project: [ vgp ]

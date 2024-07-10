@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bHaeOst
+  name: Haematopus ostralegus
+  taxon_id: 31908
+  common_name: Eurasian oystercatcher
+  order:
+    name: Charadriiformes
+  family:
+    name: Haematopodidae
+  individuals:
+    - short_name: bHaeOst1
+      biosample_id: SAMEA115432997
+      sex: male
+  genome_size: 1418100000
+  genome_size_method: GoaT
+  project: [ vgp ]
