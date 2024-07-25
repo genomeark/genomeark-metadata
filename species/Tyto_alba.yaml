@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bTytAlb
+  name: Tyto alba
+  taxon_id: 56313
+  common_name: Barn owl
+  order:
+    name: Strigiformes
+  family:
+    name: Tytonidae
+  individuals:
+    - short_name: bTytAlb2
+      biosample_id: SAMEA115433005
+      sex: female
+  genome_size: 1594140000
+  genome_size_method: GoaT
+  project: [ vgp ]

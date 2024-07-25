@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bChaHia
+  name: Charadrius hiaticula
+  taxon_id: 371911
+  common_name: 
+  order:
+    name: Charadriiformes
+  family:
+    name: Charadriidae
+  individuals:
+    - short_name: bChaHia1
+      biosample_id: SAMEA115433016
+      sex: female
+  genome_size: 1633260000
+  genome_size_method: GoaT
+  project: [ vgp ]
