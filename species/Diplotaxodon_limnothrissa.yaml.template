@@ -1,0 +1,14 @@
+species:
+  name: Diplotaxodon limnothrissa
+  short_name: fDipLim
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fDipLim2
+    biosample_id:
+    description:
+    provider:
