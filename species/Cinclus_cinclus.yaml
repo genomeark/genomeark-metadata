@@ -11,7 +11,7 @@ species:
   individuals:
     - short_name: bCinCin1
       biosample_id: SAMEA9679959
-      sex:
+      sex: male
     - short_name: bCinCin2
       biosample_id: SAMEA9679961
       sex: male
