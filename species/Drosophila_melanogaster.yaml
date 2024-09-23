@@ -1,0 +1,38 @@
+---
+species:
+  short_name: idDroMela
+  name: Drosophila melanogaster
+  common_name: fruit fly
+  taxon_id: 7227
+  order:
+    name: Diptera
+  family:
+    name: Drosophilidae
+  individuals:
+  -
+      short_name: idDroMela1
+      name: null
+      biosample_id: null
+      strain: ISO-1
+      alt_ids:
+      - ISO-1
+      sex: null
+      description: null
+      provider: J.J. Emerson (UC Irvine)
+      mother: null
+      father: null
+  -
+      short_name: idDroMela2
+      name: null
+      biosample_id: null
+      strain: A2
+      alt_ids:
+      - A2
+      sex: null
+      description: null
+      provider: null
+      mother: null
+      father: null
+  genome_size: 176000000
+  genome_size_method: GoaT
+  project: [ t2t ]
