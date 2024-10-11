@@ -1,0 +1,17 @@
+---
+species:
+  short_name: bMilMil
+  name: Milvus milvus
+  taxon_id: 43518
+  common_name: red kite
+  order:
+    name: Accipitriformes
+  family:
+    name: Accipitridae
+  individuals:
+    - short_name: bMilMil1
+      biosample_id: SAMEA115765510
+      sex:
+  genome_size: 1467000000
+  genome_size_method: GoaT
+  project: [ vgp ]

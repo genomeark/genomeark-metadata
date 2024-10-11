@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mPipNat
+  name: Pipistrellus nathusii
+  taxon_id: 59473
+  common_name: Nathusius's pipistrelle
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mPipNat1
+      biosample_id: SAMEA115534661
+      sex: female
+  genome_size: 2122260000
+  genome_size_method: GoaT
+  project: [ bat1k, vgp ]

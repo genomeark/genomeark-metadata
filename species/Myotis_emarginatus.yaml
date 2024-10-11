@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mMyoEma
+  name: Myotis emarginatus
+  taxon_id: 109480
+  common_name: Geoffroy's bat
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mMyoEma1
+      biosample_id: SAMEA115534660
+      sex: female
+  genome_size: 2210280000
+  genome_size_method: GoaT
+  project: [ bat1k, vgp ]
