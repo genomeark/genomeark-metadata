@@ -1,0 +1,14 @@
+species:
+  name: Ctenodactylus gundi
+  short_name: mCteGun
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCteGun2
+    biosample_id:
+    description:
+    provider:

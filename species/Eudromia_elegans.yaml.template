@@ -1,0 +1,14 @@
+species:
+  name: Eudromia elegans
+  short_name: bEudEle
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bEudEle1
+    biosample_id:
+    description:
+    provider:

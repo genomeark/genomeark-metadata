@@ -1,0 +1,14 @@
+species:
+  name: Stylephorus chordatus
+  short_name: fStyCho
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fStyCho2
+    biosample_id:
+    description:
+    provider:

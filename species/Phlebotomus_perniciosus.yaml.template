@@ -1,0 +1,14 @@
+species:
+  name: Phlebotomus perniciosus
+  short_name: iPhlPer
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: iPhlPer3
+    biosample_id:
+    description:
+    provider:

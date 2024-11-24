@@ -1,0 +1,14 @@
+species:
+  name: Pempheris klunzingeri
+  short_name: fPemKlu
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fPemKlu1
+    biosample_id:
+    description:
+    provider:

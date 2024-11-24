@@ -1,0 +1,14 @@
+species:
+  name: Diretmus argenteus
+  short_name: fDirArg
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fDirArg3
+    biosample_id:
+    description:
+    provider:

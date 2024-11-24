@@ -1,0 +1,14 @@
+species:
+  name: Peponocephala electra
+  short_name: mPepEle
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPepEle1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Myuchelys georgesi
+  short_name: rMyuGeo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rMyuGeo1
+    biosample_id:
+    description:
+    provider:
