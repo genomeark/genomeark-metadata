@@ -1,0 +1,14 @@
+species:
+  name: Anniella stebbinsi
+  short_name: rAnnSte
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rAnnSte1
+    biosample_id:
+    description:
+    provider:
