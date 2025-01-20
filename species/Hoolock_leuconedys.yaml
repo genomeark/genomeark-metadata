@@ -28,6 +28,24 @@ species:
          tissue: lymphoblastoid cell line
          dev_stage: adult
          sample_biosample_id: null
+  -
+      short_name: mHooLeu2
+      name: Betty
+      biosample_id: null
+      strain: null
+      alt_ids:
+      - Betty_HLE
+      sex: female
+      description: null
+      provider: Lucia Carbone (Oregon Health & Science University)
+      mother: null
+      father: null
+      samples:
+      -
+         sample_id: mHooLeu2.LCL1
+         tissue: lymphoblastoid cell line
+         dev_stage: adult
+         sample_biosample_id: null
   genome_size: 3230000000
   genome_size_method: GoaT ancestral inferred
   project: [ ]
