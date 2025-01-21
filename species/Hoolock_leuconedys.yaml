@@ -45,7 +45,7 @@ species:
          sample_id: mHooLeu2.LCL1
          tissue: lymphoblastoid cell line
          dev_stage: adult
-         sample_biosample_id: null
+         sample_biosample_id: SAMN12702557
   genome_size: 3230000000
   genome_size_method: GoaT ancestral inferred
   project: [ ]
