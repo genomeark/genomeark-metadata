@@ -12,6 +12,9 @@ species:
     - short_name: bHalAlb1
       biosample_id: SAMEA12857288
       sex: female
+    - short_name: bHalAlb2
+      biosample_id: SAMEA113576084
+      sex: male
   genome_size: 1398540000
   genome_size_method: GoaT
   project: [ vgp ]

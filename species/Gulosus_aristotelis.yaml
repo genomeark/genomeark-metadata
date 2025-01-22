@@ -12,6 +12,12 @@ species:
     - short_name: bGulAri2
       biosample_id: SAMEA10059652
       sex: female
+    - short_name: bGulAri3
+      biosample_id: SAMEA10059653
+      sex:
+    - short_name: bGulAri4
+      biosample_id: SAMEA10059654
+      sex:
   genome_size: 1398540000
   genome_size_method: GoaT
   project: [ vgp ]

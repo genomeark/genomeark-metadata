@@ -1,0 +1,17 @@
+---
+species:
+  short_name: mTurAus
+  name: Tursiops australis
+  taxon_id: 1086039
+  common_name: Burrunan dolphin
+  order:
+    name: Artiodactyla
+  family:
+    name: Delphinidae
+  individuals:
+    - short_name: mTurAus1
+      biosample_id: SAMEA115755147
+      sex: male
+  genome_size: 3080700000
+  genome_size_method: GoaT
+  project: [ vgp ]
