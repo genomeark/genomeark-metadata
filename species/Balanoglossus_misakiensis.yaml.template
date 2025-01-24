@@ -1,0 +1,14 @@
+species:
+  name: Balanoglossus misakiensis
+  short_name: keBalMisa
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: keBalMisa1
+    biosample_id:
+    description:
+    provider:

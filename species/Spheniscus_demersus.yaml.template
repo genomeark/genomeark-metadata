@@ -1,0 +1,14 @@
+species:
+  name: Spheniscus demersus
+  short_name: bSphDem
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSphDem1
+    biosample_id:
+    description:
+    provider:

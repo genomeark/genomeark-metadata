@@ -1,0 +1,14 @@
+species:
+  name: Squalus suckleyi
+  short_name: sSquSuc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sSquSuc3
+    biosample_id:
+    description:
+    provider:
