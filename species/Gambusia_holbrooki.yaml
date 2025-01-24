@@ -1,0 +1,17 @@
+---
+species:
+  short_name: fGamHol
+  name: Gambusia holbrooki
+  taxon_id: 37273
+  common_name: eastern mosquitofish
+  order:
+    name: Cyprinodontiformes
+  family:
+    name: Poeciliidae
+  individuals:
+    - short_name: fGamHol4
+      biosample_id: SAMEA115931328
+      sex: male
+  genome_size: 841080000
+  genome_size_method: GoaT
+  project: [ vgp ]

@@ -9,6 +9,9 @@ species:
   family:
     name: Ammodytidae
   individuals:
+    - short_name: fHypImm2
+      biosample_id: SAMEA13854415
+      sex:
     - short_name: fHypImm3
       biosample_id: SAMEA13854416
       sex:

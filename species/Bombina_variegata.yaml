@@ -9,6 +9,9 @@ species:
   family:
     name: Bombinatoridae
   individuals:
+    - short_name: aBomVar2
+      biosample_id: SAMEA112651401
+      sex: male
     - short_name: aBomVar4
       biosample_id: SAMEA112651403
       sex: male
