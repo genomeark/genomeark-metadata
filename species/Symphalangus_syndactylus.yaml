@@ -23,6 +23,15 @@ species:
       provider: Lucia Carbone (Oregon Health & Science University)
       father: null
       mother: null
+  -
+      short_name: mSymSyn2
+      name: Karenina
+      biosample_id: null
+      sex: female
+      description: null
+      provider: Lucia Carbone (Oregon Health & Science University)
+      father: null
+      mother: null
   genome_size: 3295860000
   genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
   project: [ t2t ]
