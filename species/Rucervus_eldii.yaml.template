@@ -1,0 +1,14 @@
+species:
+  name: Rucervus eldii
+  short_name: mRucEld
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mRucEld1
+    biosample_id:
+    description:
+    provider:

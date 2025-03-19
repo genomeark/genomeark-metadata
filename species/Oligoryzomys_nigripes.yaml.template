@@ -1,0 +1,14 @@
+species:
+  name: Oligoryzomys nigripes
+  short_name: mOliNig
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mOliNig2
+    biosample_id:
+    description:
+    provider:

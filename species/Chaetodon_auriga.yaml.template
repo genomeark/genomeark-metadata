@@ -1,0 +1,14 @@
+species:
+  name: Chaetodon auriga
+  short_name: fChaAug
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fChaAug3
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Axis porcinus
+  short_name: mAxiPor
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mAxiPor1
+    biosample_id:
+    description:
+    provider:

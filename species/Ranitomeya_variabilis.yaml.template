@@ -1,0 +1,14 @@
+species:
+  name: Ranitomeya variabilis
+  short_name: aRanVar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aRanVar5
+    biosample_id:
+    description:
+    provider:

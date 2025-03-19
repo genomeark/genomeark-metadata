@@ -1,0 +1,14 @@
+species:
+  name: Capra nubiana
+  short_name: mCapNub
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCapNub1
+    biosample_id:
+    description:
+    provider:

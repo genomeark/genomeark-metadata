@@ -1,0 +1,14 @@
+species:
+  name: Chitra chitra
+  short_name: rChiChi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rChiChi1
+    biosample_id:
+    description:
+    provider:

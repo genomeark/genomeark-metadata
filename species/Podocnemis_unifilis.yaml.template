@@ -1,0 +1,14 @@
+species:
+  name: Podocnemis unifilis
+  short_name: rPodUni
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rPodUni1
+    biosample_id:
+    description:
+    provider:
