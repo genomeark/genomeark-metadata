@@ -1,15 +1,364 @@
 ---
 species:
-  short_name: mCanLor
+  short_name: mCanLup
   name: Canis lupus
-  taxon_id: 2605939
-  common_name: Greenland wolf
+  taxon_id: 9612
+  common_name: gray wolf
   order:
     name: Carnivora
   family:
     name: Canidae
   individuals:
-    - short_name: mCanLor1
-  genome_size:
-  genome_size_method:
-  project: [ vgp ]
+  -
+     short_name: mCanLor1
+     subspecies:
+       name: Canis lupus orion
+       common_name: Greenland wolf
+       taxon_id: 2605939
+     project: [ vgp ]
+  -
+     short_name: mCanLup5
+     name:  Alfie
+     biosample_id: null
+     strain: null
+     breed: Labrador retriever
+     subspecies:
+       name: Canis lupus familiaris
+       common_name: dog
+       taxon_id: 9615
+     alt_ids:
+     -  339608
+     sex: male
+     description: null
+     provider: Jeff Schoenebeck (The Roslin Institute, University of Edinburgh)
+     mother: null
+     father: null
+     project: [ t2t ]
+     samples:
+     -
+        sample_id: mCanLup5.stomachbody1
+        tissue: stomach body
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 1
+        preservation_method: RNAlater
+		extraction_date: 2024-10-13
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.skin1
+        tissue: skin
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 2
+        preservation_method: RNAlater
+		extraction_date: 2024-10-13
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.retina1
+        tissue: retina
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 3
+        preservation_method: RNAlater
+		extraction_date: 2024-10-13
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.trachealcartilage1
+        tissue: tracheal cartilage
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 4
+        preservation_method: RNAlater
+		extraction_date: 2024-10-13
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.liver1
+        tissue: liver
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 5
+        preservation_method: RNAlater
+		extraction_date: 2024-10-13
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.ileum1
+        tissue: ileum
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 6
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.adrenalmedulla1
+        tissue: adrenal medulla
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 7
+        preservation_method: snap frozen
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.skeletalmuscle1
+        tissue: skeletal muscle
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 8
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.scapularlymphgland1
+        tissue: scapular lymph gland
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 9
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.kidneycortex1
+        tissue: kidney cortex
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 10
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.heart1
+        tissue: heart
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 11
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.bonemarrow1
+        tissue: bone marrow
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 12
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.frontallobcortex1
+        tissue: frontal lobe cortex
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 13
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.cerebellum1
+        tissue: cerebellum
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 14
+        preservation_method: RNAlater
+		extraction_date: 2024-10-17
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.spleen1
+        tissue: spleen
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 15
+        preservation_method: RNAlater
+		extraction_date: 2024-10-19
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.descendingcolon1
+        tissue: descending colon
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 16
+        preservation_method: RNAlater
+		extraction_date: 2024-10-19
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.palatemuscle1
+        tissue: palate (muscle)
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 17
+        preservation_method: RNAlater
+		extraction_date: 2024-10-19
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.palateepithelium1
+        tissue: palate epithelium
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 18
+        preservation_method: RNAlater
+		extraction_date: 2024-10-19
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.stomachbody2
+        tissue: stomach body
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 75
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.skin2
+        tissue: skin
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 76
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.retina2
+        tissue: retina
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 77
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.trachealcartilage2
+        tissue: tracheal cartilage
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 78
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.liver2
+        tissue: liver
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 79
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.ileum2
+        tissue: ileum
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 80
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.adrenalmedulla2
+        tissue: adrenal medulla
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 81
+        preservation_method: snap frozen
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.skeletalmuscle2
+        tissue: skeletal muscle
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 82
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.scapularlymphgland2
+        tissue: scapular lymph gland
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 83
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.kidneycortex2
+        tissue: kidney cortex
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 84
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.heart2
+        tissue: heart
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 85
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.bonemarrow2
+        tissue: bone marrow
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 86
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.frontallobcortex2
+        tissue: frontal lobe cortex
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 87
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.cerebellum2
+        tissue: cerebellum
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 88
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.spleen2
+        tissue: spleen
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 89
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.descendingcolon2
+        tissue: descending colon
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 90
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.palatemuscle2
+        tissue: palate (muscle)
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 91
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+     -
+        sample_id: mCanLup5.palateepithelium2
+        tissue: palate epithelium
+        dev_stage: adult
+        sample_biosample_id: null
+        tube_number: 92
+        preservation_method: RNAlater
+		extraction_date: 2024-10-24
+        provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
+  genome_size: 3070000000
+  genome_size_method: Genomes on a Tree (GoaT) estimate
+  project: [ vgp, t2t ]
