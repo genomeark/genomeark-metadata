@@ -42,7 +42,7 @@ species:
         sample_biosample_id: null
         tube_number: 1
         preservation_method: RNAlater
-		extraction_date: 2024-10-13
+        extraction_date: 2024-10-13
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.skin1
@@ -51,7 +51,7 @@ species:
         sample_biosample_id: null
         tube_number: 2
         preservation_method: RNAlater
-		extraction_date: 2024-10-13
+        extraction_date: 2024-10-13
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.retina1
@@ -60,7 +60,7 @@ species:
         sample_biosample_id: null
         tube_number: 3
         preservation_method: RNAlater
-		extraction_date: 2024-10-13
+        extraction_date: 2024-10-13
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.trachealcartilage1
@@ -69,7 +69,7 @@ species:
         sample_biosample_id: null
         tube_number: 4
         preservation_method: RNAlater
-		extraction_date: 2024-10-13
+        extraction_date: 2024-10-13
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.liver1
@@ -78,7 +78,7 @@ species:
         sample_biosample_id: null
         tube_number: 5
         preservation_method: RNAlater
-		extraction_date: 2024-10-13
+        extraction_date: 2024-10-13
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.ileum1
@@ -87,7 +87,7 @@ species:
         sample_biosample_id: null
         tube_number: 6
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.adrenalmedulla1
@@ -96,7 +96,7 @@ species:
         sample_biosample_id: null
         tube_number: 7
         preservation_method: snap frozen
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.skeletalmuscle1
@@ -105,7 +105,7 @@ species:
         sample_biosample_id: null
         tube_number: 8
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.scapularlymphgland1
@@ -114,7 +114,7 @@ species:
         sample_biosample_id: null
         tube_number: 9
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.kidneycortex1
@@ -123,7 +123,7 @@ species:
         sample_biosample_id: null
         tube_number: 10
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.heart1
@@ -132,7 +132,7 @@ species:
         sample_biosample_id: null
         tube_number: 11
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.bonemarrow1
@@ -141,7 +141,7 @@ species:
         sample_biosample_id: null
         tube_number: 12
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.frontallobcortex1
@@ -150,7 +150,7 @@ species:
         sample_biosample_id: null
         tube_number: 13
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.cerebellum1
@@ -159,7 +159,7 @@ species:
         sample_biosample_id: null
         tube_number: 14
         preservation_method: RNAlater
-		extraction_date: 2024-10-17
+        extraction_date: 2024-10-17
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.spleen1
@@ -168,7 +168,7 @@ species:
         sample_biosample_id: null
         tube_number: 15
         preservation_method: RNAlater
-		extraction_date: 2024-10-19
+        extraction_date: 2024-10-19
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.descendingcolon1
@@ -177,7 +177,7 @@ species:
         sample_biosample_id: null
         tube_number: 16
         preservation_method: RNAlater
-		extraction_date: 2024-10-19
+        extraction_date: 2024-10-19
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.palatemuscle1
@@ -186,7 +186,7 @@ species:
         sample_biosample_id: null
         tube_number: 17
         preservation_method: RNAlater
-		extraction_date: 2024-10-19
+        extraction_date: 2024-10-19
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.palateepithelium1
@@ -195,7 +195,7 @@ species:
         sample_biosample_id: null
         tube_number: 18
         preservation_method: RNAlater
-		extraction_date: 2024-10-19
+        extraction_date: 2024-10-19
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.stomachbody2
@@ -204,7 +204,7 @@ species:
         sample_biosample_id: null
         tube_number: 75
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.skin2
@@ -213,7 +213,7 @@ species:
         sample_biosample_id: null
         tube_number: 76
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.retina2
@@ -222,7 +222,7 @@ species:
         sample_biosample_id: null
         tube_number: 77
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.trachealcartilage2
@@ -231,7 +231,7 @@ species:
         sample_biosample_id: null
         tube_number: 78
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.liver2
@@ -240,7 +240,7 @@ species:
         sample_biosample_id: null
         tube_number: 79
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.ileum2
@@ -249,7 +249,7 @@ species:
         sample_biosample_id: null
         tube_number: 80
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.adrenalmedulla2
@@ -258,7 +258,7 @@ species:
         sample_biosample_id: null
         tube_number: 81
         preservation_method: snap frozen
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.skeletalmuscle2
@@ -267,7 +267,7 @@ species:
         sample_biosample_id: null
         tube_number: 82
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.scapularlymphgland2
@@ -276,7 +276,7 @@ species:
         sample_biosample_id: null
         tube_number: 83
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.kidneycortex2
@@ -285,7 +285,7 @@ species:
         sample_biosample_id: null
         tube_number: 84
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.heart2
@@ -294,7 +294,7 @@ species:
         sample_biosample_id: null
         tube_number: 85
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.bonemarrow2
@@ -303,7 +303,7 @@ species:
         sample_biosample_id: null
         tube_number: 86
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.frontallobcortex2
@@ -312,7 +312,7 @@ species:
         sample_biosample_id: null
         tube_number: 87
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.cerebellum2
@@ -321,7 +321,7 @@ species:
         sample_biosample_id: null
         tube_number: 88
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.spleen2
@@ -330,7 +330,7 @@ species:
         sample_biosample_id: null
         tube_number: 89
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.descendingcolon2
@@ -339,7 +339,7 @@ species:
         sample_biosample_id: null
         tube_number: 90
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.palatemuscle2
@@ -348,7 +348,7 @@ species:
         sample_biosample_id: null
         tube_number: 91
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
      -
         sample_id: mCanLup5.palateepithelium2
@@ -357,7 +357,7 @@ species:
         sample_biosample_id: null
         tube_number: 92
         preservation_method: RNAlater
-		extraction_date: 2024-10-24
+        extraction_date: 2024-10-24
         provider: Jeff Schoenebeck, The Roslin Institute, University of Edinburgh
   genome_size: 3070000000
   genome_size_method: Genomes on a Tree (GoaT) estimate
