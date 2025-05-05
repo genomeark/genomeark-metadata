@@ -1,57 +1,28 @@
 ---
 species:
-  short_name: mNomLeu
-  name: Nomascus leucogenys
-  taxon_id: 61853
-  common_name: Northern White-Cheeked Gibbon
+  short_name: mHylPil
+  name: Hylobates pileatus
+  taxon_id: 9589
+  common_name: Pileated Gibbon
   order:
     name: Primates
   family:
-    name: Nomascus
+    name: Hylobatidae
   individuals:
   -
-    short_name: mNomLeu1
-    name: Vok
+    short_name: mHylPil1
+    name: Domino
     biosample_id: null
     alt_ids:
-    - NLL600 (ISIS#)
-    - 830031 (Melbourne local ID)
+    - HP120
     sex: male
-    birth_date: 29 April 1983
-    birth_location: Melbourne Zoo, Melbourne, Australia
-    birth_type: Captive born
-    mother: null
-    father: null
-    description: >
-      Vok is male Northern White-Cheeked Gibbon born in the Melbourne Zoo, and
-      his genome is being sequenced as part of a T2T effort. We do not have the
-      information on Vok's parents, but we do know that he is the Sire of St.
-      Paddy (male; ISIS# NLL696) and Parker (female; ISIS# NLL699).
-    provider: Lucia Carbone, Oregon Health & Science University
-    samples:
-    -
-      sample_id: mNomLeu1.lcl1
-      sample_type: cell culture
-      tissue: null
-      isolation_source: EBV-transformed lymphoblastoid cell line
-      age: null
-      sample_biosample_id: null
-      collection_date: null
-      provider: Lucia Carbone, Oregon Health & Science University
-    project: [ t2t ]
-  -
-    short_name: mNomLeu2
-    name: Asia
-    biosample_id: null
-    alt_ids: null
-    sex: female
     birth_date: null
     birth_location: null
     birth_type: null
     mother: null
     father: null
     description: >
-      Asia is female Northern White-Cheeked Gibbon and her genome is being
+      Domino is a male Pileated Gibbon and his genome is being
       sequenced as part of a T2T effort.
     provider: Lucia Carbone, Oregon Health & Science University
     samples:
@@ -65,6 +36,33 @@ species:
       collection_date: null
       provider: Lucia Carbone, Oregon Health & Science University
     project: [ t2t ]
-  genome_size: 3230000000
+  -
+    short_name: mHylPil2
+    name: Iszie
+    biosample_id: null
+    alt_ids:
+    - HP185
+    sex: female
+    birth_date: null
+    birth_location: null
+    birth_type: null
+    mother: null
+    father: null
+    description: >
+      Iszie is a female Pileated Gibbon and her genome is being
+      sequenced as part of a T2T effort.
+    provider: Lucia Carbone, Oregon Health & Science University
+    samples:
+    -
+      sample_id: null
+      sample_type: null
+      tissue: null
+      isolation_source: null
+      age: null
+      sample_biosample_id: null
+      collection_date: null
+      provider: Lucia Carbone, Oregon Health & Science University
+    project: [ t2t ]
+  genome_size: 3170000000
   genome_size_method: Genomes on a Tree (GoaT) estimate
   project: [ t2t ]
