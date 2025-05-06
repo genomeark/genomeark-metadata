@@ -1,0 +1,14 @@
+species:
+  name: Rivulus cylindraceus
+  short_name: fRivCyl
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fRivCyl1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Leontopithecus rosalia
+  short_name: mLeoRos
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mLeoRos1
+    biosample_id:
+    description:
+    provider:

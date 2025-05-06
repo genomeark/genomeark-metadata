@@ -1,0 +1,14 @@
+species:
+  name: Dermatemys mawii
+  short_name: rDerMaw
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rDerMaw1
+    biosample_id:
+    description:
+    provider:

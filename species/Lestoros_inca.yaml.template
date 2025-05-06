@@ -1,0 +1,14 @@
+species:
+  name: Lestoros inca
+  short_name: mLesInc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mLesInc1
+    biosample_id:
+    description:
+    provider:

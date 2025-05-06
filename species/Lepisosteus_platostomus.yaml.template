@@ -1,0 +1,14 @@
+species:
+  name: Lepisosteus platostomus
+  short_name: fLepPlt
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fLepPlt1
+    biosample_id:
+    description:
+    provider:

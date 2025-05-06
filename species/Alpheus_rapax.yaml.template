@@ -1,0 +1,14 @@
+species:
+  name: Alpheus rapax
+  short_name: qmAlpRapa
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: qmAlpRapa1
+    biosample_id:
+    description:
+    provider:

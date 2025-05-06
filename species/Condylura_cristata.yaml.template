@@ -1,0 +1,14 @@
+species:
+  name: Condylura cristata
+  short_name: mConCri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mConCri2
+    biosample_id:
+    description:
+    provider:

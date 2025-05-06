@@ -1,0 +1,14 @@
+species:
+  name: Mullus surmuletus
+  short_name: fMulSur
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fMulSur1
+    biosample_id:
+    description:
+    provider:

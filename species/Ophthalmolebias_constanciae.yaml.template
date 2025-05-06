@@ -1,0 +1,14 @@
+species:
+  name: Ophthalmolebias constanciae
+  short_name: fOphCon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fOphCon1
+    biosample_id:
+    description:
+    provider:

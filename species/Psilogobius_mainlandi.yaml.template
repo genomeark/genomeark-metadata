@@ -1,0 +1,14 @@
+species:
+  name: Psilogobius mainlandi
+  short_name: fPsiMai
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fPsiMai1
+    biosample_id:
+    description:
+    provider:
