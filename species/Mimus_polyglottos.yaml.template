@@ -1,0 +1,14 @@
+species:
+  name: Mimus polyglottos
+  short_name: bMimPol
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMimPol1
+    biosample_id:
+    description:
+    provider:

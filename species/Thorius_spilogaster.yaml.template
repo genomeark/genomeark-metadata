@@ -1,0 +1,14 @@
+species:
+  name: Thorius spilogaster
+  short_name: aThoSpi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aThoSpi2
+    biosample_id:
+    description:
+    provider:

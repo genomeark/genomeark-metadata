@@ -1,0 +1,14 @@
+species:
+  name: Cardinalis cardinalis
+  short_name: bCarCad
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCarCad1
+    biosample_id:
+    description:
+    provider:

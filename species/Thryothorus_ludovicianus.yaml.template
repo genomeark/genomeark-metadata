@@ -1,0 +1,14 @@
+species:
+  name: Thryothorus ludovicianus
+  short_name: bThrLud
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bThrLud1
+    biosample_id:
+    description:
+    provider:

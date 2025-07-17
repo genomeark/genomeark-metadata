@@ -1,0 +1,14 @@
+species:
+  name: Poecile carolinensis
+  short_name: bPoeCar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPoeCar1
+    biosample_id:
+    description:
+    provider:

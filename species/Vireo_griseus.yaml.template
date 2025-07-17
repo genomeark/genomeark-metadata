@@ -1,0 +1,14 @@
+species:
+  name: Vireo griseus
+  short_name: bVirGri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bVirGri1
+    biosample_id:
+    description:
+    provider:

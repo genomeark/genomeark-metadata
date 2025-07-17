@@ -1,0 +1,14 @@
+species:
+  name: Contopus sordidulus
+  short_name: bConSor
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bConSor1
+    biosample_id:
+    description:
+    provider:

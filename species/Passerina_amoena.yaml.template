@@ -1,0 +1,14 @@
+species:
+  name: Passerina amoena
+  short_name: bPasAmo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPasAmo1
+    biosample_id:
+    description:
+    provider:

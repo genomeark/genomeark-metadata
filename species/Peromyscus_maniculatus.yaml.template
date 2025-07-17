@@ -1,0 +1,14 @@
+species:
+  name: Peromyscus maniculatus
+  short_name: mPerMan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPerMan3
+    biosample_id:
+    description:
+    provider:

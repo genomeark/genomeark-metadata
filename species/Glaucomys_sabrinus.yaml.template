@@ -1,0 +1,14 @@
+species:
+  name: Glaucomys sabrinus
+  short_name: mGlaSab
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mGlaSab2
+    biosample_id:
+    description:
+    provider:

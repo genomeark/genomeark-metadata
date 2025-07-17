@@ -1,0 +1,14 @@
+species:
+  name: Monodon monoceros
+  short_name: mMonMon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMonMon2
+    biosample_id:
+    description:
+    provider:

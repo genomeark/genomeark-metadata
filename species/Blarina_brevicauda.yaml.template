@@ -1,0 +1,14 @@
+species:
+  name: Blarina brevicauda
+  short_name: mBlaBre
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mBlaBre2
+    biosample_id:
+    description:
+    provider:

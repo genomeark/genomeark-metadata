@@ -1,0 +1,14 @@
+species:
+  name: Reithrodontomys humulis
+  short_name: mReiHum
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mReiHum1
+    biosample_id:
+    description:
+    provider:

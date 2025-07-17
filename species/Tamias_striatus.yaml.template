@@ -1,0 +1,14 @@
+species:
+  name: Tamias striatus
+  short_name: mTamStr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mTamStr1
+    biosample_id:
+    description:
+    provider:

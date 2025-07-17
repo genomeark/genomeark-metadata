@@ -1,0 +1,14 @@
+species:
+  name: Aplocheilus lineatus
+  short_name: fAplLin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAplLin1
+    biosample_id:
+    description:
+    provider:
