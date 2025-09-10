@@ -1,0 +1,28 @@
+---
+species:
+  short_name: mGirTip
+  name: Giraffa tippelskirchi
+  common_name: Masai giraffe
+  taxon_id: 439328
+  order:
+    name: Artiodactyla
+  family:
+    name: Giraffidae
+  individuals:
+  -
+      short_name: mGirTip1
+      name: Fenn
+      biosample_id: null
+      strain: null
+      alt_ids: null
+      sex: male
+      birth_date: null
+      birth_location: null
+      birth_type: null
+      description: null
+      provider: null
+      mother: null
+      father: null
+  genome_size:
+  genome_size_method:
+  project: [ t2t ]
