@@ -1,0 +1,14 @@
+species:
+  name: Oenanthe pleschanka
+  short_name: bOenPle
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bOenPle1
+    biosample_id:
+    description:
+    provider:
