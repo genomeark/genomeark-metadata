@@ -1,0 +1,14 @@
+species:
+  name: Aulostomus maculatus
+  short_name: fAulMac
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAulMac1
+    biosample_id:
+    description:
+    provider:

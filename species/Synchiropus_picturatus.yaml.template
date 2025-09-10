@@ -1,0 +1,14 @@
+species:
+  name: Synchiropus picturatus
+  short_name: fSynPic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fSynPic1
+    biosample_id:
+    description:
+    provider:

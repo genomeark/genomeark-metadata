@@ -1,0 +1,14 @@
+species:
+  name: Pipilo chlorurus
+  short_name: bPipChr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPipChr1
+    biosample_id:
+    description:
+    provider:

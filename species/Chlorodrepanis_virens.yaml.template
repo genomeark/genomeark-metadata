@@ -1,0 +1,14 @@
+species:
+  name: Chlorodrepanis virens
+  short_name: bHemVir
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bHemVir1
+    biosample_id:
+    description:
+    provider:

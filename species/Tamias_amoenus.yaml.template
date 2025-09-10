@@ -1,0 +1,14 @@
+species:
+  name: Tamias amoenus
+  short_name: mTamAmo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mTamAmo1
+    biosample_id:
+    description:
+    provider:

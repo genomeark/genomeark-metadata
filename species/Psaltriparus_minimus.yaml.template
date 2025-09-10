@@ -1,0 +1,14 @@
+species:
+  name: Psaltriparus minimus
+  short_name: bPsaMin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPsaMin1
+    biosample_id:
+    description:
+    provider:

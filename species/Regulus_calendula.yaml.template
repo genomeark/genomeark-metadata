@@ -1,0 +1,14 @@
+species:
+  name: Regulus calendula
+  short_name: bRegCal
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bRegCal2
+    biosample_id:
+    description:
+    provider:

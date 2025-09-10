@@ -1,0 +1,14 @@
+species:
+  name: Spizella pusilla
+  short_name: bSpiPus
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSpiPus1
+    biosample_id:
+    description:
+    provider:

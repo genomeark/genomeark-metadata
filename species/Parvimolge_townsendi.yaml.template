@@ -1,0 +1,14 @@
+species:
+  name: Parvimolge townsendi
+  short_name: aParTow
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aParTow1
+    biosample_id:
+    description:
+    provider:

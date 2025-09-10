@@ -1,0 +1,14 @@
+species:
+  name: Melanerpes carolinus
+  short_name: bMelCao
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMelCao1
+    biosample_id:
+    description:
+    provider:

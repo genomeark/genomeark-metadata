@@ -1,0 +1,14 @@
+species:
+  name: Ichthyomyzon gagei
+  short_name: kcIchGage
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kcIchGage1
+    biosample_id:
+    description:
+    provider:

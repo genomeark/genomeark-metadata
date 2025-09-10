@@ -1,0 +1,14 @@
+species:
+  name: Peromyscus boylii
+  short_name: mPerBoy
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPerBoy1
+    biosample_id:
+    description:
+    provider:

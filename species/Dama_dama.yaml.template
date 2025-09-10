@@ -1,0 +1,14 @@
+species:
+  name: Dama dama
+  short_name: mDamDam
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mDamDam1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Steatornis caripensis
+  short_name: bSteCar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSteCar1
+    biosample_id:
+    description:
+    provider:

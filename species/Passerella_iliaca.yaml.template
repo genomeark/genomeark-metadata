@@ -1,0 +1,14 @@
+species:
+  name: Passerella iliaca
+  short_name: bPasIli
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPasIli2
+    biosample_id:
+    description:
+    provider:

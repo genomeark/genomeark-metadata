@@ -1,0 +1,14 @@
+species:
+  name: Ascidiella scabra
+  short_name: kaAscScab
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kaAscScab1
+    biosample_id:
+    description:
+    provider:

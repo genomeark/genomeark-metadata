@@ -1,0 +1,14 @@
+species:
+  name: Drepanis coccinea
+  short_name: bDreCoc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bDreCoc1
+    biosample_id:
+    description:
+    provider:

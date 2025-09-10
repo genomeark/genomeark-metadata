@@ -1,0 +1,14 @@
+species:
+  name: Tupaia tana
+  short_name: mTupTan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mTupTan1
+    biosample_id:
+    description:
+    provider:

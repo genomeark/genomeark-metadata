@@ -1,0 +1,14 @@
+species:
+  name: Albula glossodonta
+  short_name: fAlbGlo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAlbGlo1
+    biosample_id:
+    description:
+    provider:

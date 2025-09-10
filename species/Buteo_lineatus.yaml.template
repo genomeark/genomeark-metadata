@@ -1,0 +1,14 @@
+species:
+  name: Buteo lineatus
+  short_name: bButLin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bButLin1
+    biosample_id:
+    description:
+    provider:

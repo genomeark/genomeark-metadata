@@ -1,0 +1,14 @@
+species:
+  name: Ardea goliath
+  short_name: bArdGol
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bArdGol1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Anilios waitii
+  short_name: rAniWai
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rAniWai1
+    biosample_id:
+    description:
+    provider:

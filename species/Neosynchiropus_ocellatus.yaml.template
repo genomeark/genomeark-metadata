@@ -1,0 +1,14 @@
+species:
+  name: Neosynchiropus ocellatus
+  short_name: fNeoOce
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fNeoOce1
+    biosample_id:
+    description:
+    provider:

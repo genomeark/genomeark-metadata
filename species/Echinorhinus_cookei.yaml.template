@@ -1,0 +1,14 @@
+species:
+  name: Echinorhinus cookei
+  short_name: sEchCoo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sEchCoo1
+    biosample_id:
+    description:
+    provider:
