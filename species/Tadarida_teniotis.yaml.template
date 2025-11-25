@@ -1,0 +1,14 @@
+species:
+  name: Tadarida teniotis
+  short_name: mTadTen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mTadTen1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Tamias minimus
+  short_name: mTamMin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mTamMin1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Peromyscus truei
+  short_name: mPerTru
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPerTru1
+    biosample_id:
+    description:
+    provider:

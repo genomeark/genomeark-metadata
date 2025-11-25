@@ -1,0 +1,14 @@
+species:
+  name: Lycocorax pyrrhopterus
+  short_name: lycPyr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: lycPyr6
+    biosample_id:
+    description:
+    provider:

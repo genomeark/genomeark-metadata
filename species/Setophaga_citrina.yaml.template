@@ -1,0 +1,14 @@
+species:
+  name: Setophaga citrina
+  short_name: bSetCit
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSetCit1
+    biosample_id:
+    description:
+    provider:

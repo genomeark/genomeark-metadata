@@ -1,0 +1,14 @@
+species:
+  name: Phascolarctos cinereus
+  short_name: mPhaCin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPhaCin1
+    biosample_id:
+    description:
+    provider:

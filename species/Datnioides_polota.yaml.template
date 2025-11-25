@@ -1,0 +1,14 @@
+species:
+  name: Datnioides polota
+  short_name: fDatPol
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fDatPol1
+    biosample_id:
+    description:
+    provider:

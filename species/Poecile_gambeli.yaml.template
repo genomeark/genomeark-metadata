@@ -1,0 +1,14 @@
+species:
+  name: Poecile gambeli
+  short_name: bPoeGam
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPoeGam1
+    biosample_id:
+    description:
+    provider:

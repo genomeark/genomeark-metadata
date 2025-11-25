@@ -1,0 +1,14 @@
+species:
+  name: Hiodon alosoides
+  short_name: fHioAlo
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fHioAlo1
+    biosample_id:
+    description:
+    provider:

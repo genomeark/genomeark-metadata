@@ -1,0 +1,14 @@
+species:
+  name: Alepocephalus tenebrosus
+  short_name: fAleTen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fAleTen1
+    biosample_id:
+    description:
+    provider:

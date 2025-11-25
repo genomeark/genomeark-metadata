@@ -1,0 +1,14 @@
+species:
+  name: Bothrops pictus
+  short_name: rBotPic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rBotPic1
+    biosample_id:
+    description:
+    provider:

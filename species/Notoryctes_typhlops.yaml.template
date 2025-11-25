@@ -1,0 +1,14 @@
+species:
+  name: Notoryctes typhlops
+  short_name: mNotTyp
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mNotTyp1
+    biosample_id:
+    description:
+    provider:
