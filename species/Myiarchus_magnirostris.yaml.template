@@ -1,0 +1,14 @@
+species:
+  name: Myiarchus magnirostris
+  short_name: bMyiMag
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMyiMag1
+    biosample_id:
+    description:
+    provider:

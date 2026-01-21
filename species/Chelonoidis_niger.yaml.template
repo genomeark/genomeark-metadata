@@ -1,0 +1,14 @@
+species:
+  name: Chelonoidis niger
+  short_name: rCheNig
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rCheNig1
+    biosample_id:
+    description:
+    provider:
