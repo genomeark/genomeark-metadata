@@ -1,0 +1,14 @@
+species:
+  name: Anomalurus derbianus
+  short_name: mAnoDer
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mAnoDer1
+    biosample_id:
+    description:
+    provider:

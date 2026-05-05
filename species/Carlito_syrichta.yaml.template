@@ -1,0 +1,14 @@
+species:
+  name: Carlito syrichta
+  short_name: mCarSyr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCarSyr1
+    biosample_id:
+    description:
+    provider:

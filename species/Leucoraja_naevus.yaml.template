@@ -1,0 +1,14 @@
+species:
+  name: Leucoraja naevus
+  short_name: sLeuNae
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sLeuNae1
+    biosample_id:
+    description:
+    provider:

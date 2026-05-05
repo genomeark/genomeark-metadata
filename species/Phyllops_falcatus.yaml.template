@@ -1,0 +1,14 @@
+species:
+  name: Phyllops falcatus
+  short_name: mPhyFal
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPhyFal1
+    biosample_id:
+    description:
+    provider:

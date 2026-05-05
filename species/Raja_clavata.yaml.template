@@ -1,0 +1,14 @@
+species:
+  name: Raja clavata
+  short_name: sRajCla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: sRajCla2
+    biosample_id:
+    description:
+    provider:

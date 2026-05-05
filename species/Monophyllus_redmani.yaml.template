@@ -1,0 +1,14 @@
+species:
+  name: Monophyllus redmani
+  short_name: mMonRed
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMonRed1
+    biosample_id:
+    description:
+    provider:

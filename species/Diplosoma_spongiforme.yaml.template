@@ -1,0 +1,14 @@
+species:
+  name: Diplosoma spongiforme
+  short_name: kaDipSpon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kaDipSpon1
+    biosample_id:
+    description:
+    provider:

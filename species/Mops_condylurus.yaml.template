@@ -1,0 +1,14 @@
+species:
+  name: Mops condylurus
+  short_name: mMopCon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMopCon1
+    biosample_id:
+    description:
+    provider:

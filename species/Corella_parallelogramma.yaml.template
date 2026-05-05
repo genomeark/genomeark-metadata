@@ -1,0 +1,14 @@
+species:
+  name: Corella parallelogramma
+  short_name: kaCorPara
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kaCorPara1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Rhinotyphlops lalandei
+  short_name: rRhiLal
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rRhiLal1
+    biosample_id:
+    description:
+    provider:

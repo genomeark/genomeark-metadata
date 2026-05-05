@@ -1,0 +1,14 @@
+species:
+  name: Sus scrofa
+  short_name: mSusScr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mSusScr4
+    biosample_id:
+    description:
+    provider:
