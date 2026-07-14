@@ -1,0 +1,14 @@
+species:
+  name: Centurio senex
+  short_name: mCenSen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mCenSen1
+    biosample_id:
+    description:
+    provider:

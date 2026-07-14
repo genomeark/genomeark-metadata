@@ -1,0 +1,14 @@
+species:
+  name: Pteropus vampyrus
+  short_name: mPteVam
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPteVam1
+    biosample_id:
+    description:
+    provider:

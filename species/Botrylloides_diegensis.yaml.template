@@ -1,0 +1,14 @@
+species:
+  name: Botrylloides diegensis
+  short_name: kaBotDieg
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kaBotDieg1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Glis glis
+  short_name: mGliGli
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mGliGli1
+    biosample_id:
+    description:
+    provider:

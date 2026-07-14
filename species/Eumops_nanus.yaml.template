@@ -1,0 +1,14 @@
+species:
+  name: Eumops nanus
+  short_name: mEumNan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mEumNan1
+    biosample_id:
+    description:
+    provider:

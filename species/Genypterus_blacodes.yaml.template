@@ -1,0 +1,14 @@
+species:
+  name: Genypterus blacodes
+  short_name: fGenBla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fGenBla1
+    biosample_id:
+    description:
+    provider:

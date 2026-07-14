@@ -1,0 +1,14 @@
+species:
+  name: Megophrys montana
+  short_name: aMegMon
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aMegMon1
+    biosample_id:
+    description:
+    provider:

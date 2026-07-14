@@ -1,0 +1,14 @@
+species:
+  name: Aplodontia rufa
+  short_name: mAplRuf
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mAplRuf1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Pteropus hypomelanus
+  short_name: mPteHyp
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPteHyp1
+    biosample_id:
+    description:
+    provider:
