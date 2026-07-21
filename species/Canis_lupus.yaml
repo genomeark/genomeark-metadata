@@ -3,7 +3,7 @@ species:
   short_name: mCanLup
   name: Canis lupus
   taxon_id: 9612
-  common_name: gray wolf
+  common_name: wolf/dog
   order:
     name: Carnivora
   family:
