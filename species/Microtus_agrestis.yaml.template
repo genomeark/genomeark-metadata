@@ -1,0 +1,14 @@
+species:
+  name: Microtus agrestis
+  short_name: mMicAgr
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mMicAgr2
+    biosample_id:
+    description:
+    provider:

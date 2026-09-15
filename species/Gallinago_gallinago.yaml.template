@@ -1,0 +1,14 @@
+species:
+  name: Gallinago gallinago
+  short_name: bGalGai
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bGalGai1
+    biosample_id:
+    description:
+    provider:

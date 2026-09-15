@@ -1,0 +1,14 @@
+species:
+  name: Regulus ignicapilla
+  short_name: bRegIgn
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bRegIgn1
+    biosample_id:
+    description:
+    provider:

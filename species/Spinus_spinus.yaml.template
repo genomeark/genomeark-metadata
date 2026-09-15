@@ -1,0 +1,14 @@
+species:
+  name: Spinus spinus
+  short_name: bSpiSpi
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bSpiSpi3
+    biosample_id:
+    description:
+    provider:

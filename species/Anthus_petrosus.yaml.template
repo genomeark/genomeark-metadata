@@ -1,0 +1,14 @@
+species:
+  name: Anthus petrosus
+  short_name: bAntPet
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAntPet1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Anthus trivialis
+  short_name: bAntTri
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAntTri1
+    biosample_id:
+    description:
+    provider:

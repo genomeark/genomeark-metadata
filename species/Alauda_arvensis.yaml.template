@@ -1,0 +1,14 @@
+species:
+  name: Alauda arvensis
+  short_name: bAlaArv
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAlaArv1
+    biosample_id:
+    description:
+    provider:

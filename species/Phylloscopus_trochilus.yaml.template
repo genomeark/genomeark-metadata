@@ -1,0 +1,14 @@
+species:
+  name: Phylloscopus trochilus
+  short_name: bPhyTrc
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPhyTrc2
+    biosample_id:
+    description:
+    provider:

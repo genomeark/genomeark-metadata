@@ -1,0 +1,14 @@
+species:
+  name: Phoca vitulina
+  short_name: mPhoVit
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: mPhoVit2
+    biosample_id:
+    description:
+    provider:

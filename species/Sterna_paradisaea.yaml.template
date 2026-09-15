@@ -1,0 +1,14 @@
+species:
+  name: Sterna paradisaea
+  short_name: bStePaa
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bStePaa1
+    biosample_id:
+    description:
+    provider:

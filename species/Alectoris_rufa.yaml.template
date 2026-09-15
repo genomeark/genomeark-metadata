@@ -1,0 +1,14 @@
+species:
+  name: Alectoris rufa
+  short_name: bAleRuf
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAleRuf2
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Acanthis flammea
+  short_name: bAcaFla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAcaFla1
+    biosample_id:
+    description:
+    provider:

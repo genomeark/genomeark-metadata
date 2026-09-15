@@ -1,0 +1,14 @@
+species:
+  name: Psittacula krameri
+  short_name: bPsiKra
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPsiKra1
+    biosample_id:
+    description:
+    provider:

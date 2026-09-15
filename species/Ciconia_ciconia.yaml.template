@@ -1,0 +1,14 @@
+species:
+  name: Ciconia ciconia
+  short_name: bCicCic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCicCic1
+    biosample_id:
+    description:
+    provider:

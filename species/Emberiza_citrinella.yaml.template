@@ -1,0 +1,14 @@
+species:
+  name: Emberiza citrinella
+  short_name: bEmbCit
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bEmbCit1
+    biosample_id:
+    description:
+    provider:

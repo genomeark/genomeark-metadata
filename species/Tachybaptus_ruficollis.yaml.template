@@ -1,0 +1,14 @@
+species:
+  name: Tachybaptus ruficollis
+  short_name: bTacRuf
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bTacRuf1
+    biosample_id:
+    description:
+    provider:

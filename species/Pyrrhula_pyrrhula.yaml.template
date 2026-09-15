@@ -1,0 +1,14 @@
+species:
+  name: Pyrrhula pyrrhula
+  short_name: bPyrPyh
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPyrPyh2
+    biosample_id:
+    description:
+    provider:

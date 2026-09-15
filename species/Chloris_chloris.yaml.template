@@ -1,0 +1,14 @@
+species:
+  name: Chloris chloris
+  short_name: bChlChl
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bChlChl3
+    biosample_id:
+    description:
+    provider:

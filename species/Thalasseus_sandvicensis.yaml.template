@@ -1,0 +1,14 @@
+species:
+  name: Thalasseus sandvicensis
+  short_name: bThaSan
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bThaSan1
+    biosample_id:
+    description:
+    provider:

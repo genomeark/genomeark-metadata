@@ -1,0 +1,14 @@
+species:
+  name: Alcedo atthis
+  short_name: bAlcAtt
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAlcAtt1
+    biosample_id:
+    description:
+    provider:

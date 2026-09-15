@@ -1,0 +1,14 @@
+species:
+  name: Crex crex
+  short_name: bCreCre
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCreCre1
+    biosample_id:
+    description:
+    provider:

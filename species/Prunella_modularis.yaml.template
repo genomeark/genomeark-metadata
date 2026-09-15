@@ -1,0 +1,14 @@
+species:
+  name: Prunella modularis
+  short_name: bPruMod
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPruMod1
+    biosample_id:
+    description:
+    provider:

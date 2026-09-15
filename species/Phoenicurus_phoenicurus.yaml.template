@@ -1,0 +1,14 @@
+species:
+  name: Phoenicurus phoenicurus
+  short_name: bPhoPho
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPhoPho1
+    biosample_id:
+    description:
+    provider:

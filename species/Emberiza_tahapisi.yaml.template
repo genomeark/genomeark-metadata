@@ -1,0 +1,14 @@
+species:
+  name: Emberiza tahapisi
+  short_name: bFriTah
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bFriTah1
+    biosample_id:
+    description:
+    provider:

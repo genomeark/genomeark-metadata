@@ -1,0 +1,14 @@
+species:
+  name: Mareca penelope
+  short_name: bMarPen
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMarPen1
+    biosample_id:
+    description:
+    provider:

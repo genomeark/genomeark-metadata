@@ -1,0 +1,14 @@
+species:
+  name: Circus cyaneus
+  short_name: bCirCya
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCirCya1
+    biosample_id:
+    description:
+    provider:

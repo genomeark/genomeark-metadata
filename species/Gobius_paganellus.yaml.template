@@ -1,0 +1,14 @@
+species:
+  name: Gobius paganellus
+  short_name: fGobPag
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fGobPag2
+    biosample_id:
+    description:
+    provider:

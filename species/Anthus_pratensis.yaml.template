@@ -1,0 +1,14 @@
+species:
+  name: Anthus pratensis
+  short_name: bAntPra
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAntPra1
+    biosample_id:
+    description:
+    provider:

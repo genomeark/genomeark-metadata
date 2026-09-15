@@ -1,0 +1,14 @@
+species:
+  name: Poecile palustris
+  short_name: bPoePal
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPoePal1
+    biosample_id:
+    description:
+    provider:

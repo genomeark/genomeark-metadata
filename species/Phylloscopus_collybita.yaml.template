@@ -1,0 +1,14 @@
+species:
+  name: Phylloscopus collybita
+  short_name: bPhyCol
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPhyCol1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Acrocephalus schoenobaenus
+  short_name: bAcrSch
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bAcrSch1
+    biosample_id:
+    description:
+    provider:

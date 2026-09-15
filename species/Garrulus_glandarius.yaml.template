@@ -1,0 +1,14 @@
+species:
+  name: Garrulus glandarius
+  short_name: bGarGla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bGarGla1
+    biosample_id:
+    description:
+    provider:

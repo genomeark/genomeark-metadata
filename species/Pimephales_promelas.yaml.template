@@ -1,0 +1,14 @@
+species:
+  name: Pimephales promelas
+  short_name: fPimPro
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fPimPro1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Xenopus boumbaensis
+  short_name: aXenBou
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: aXenBou1
+    biosample_id:
+    description:
+    provider:

@@ -1,0 +1,14 @@
+species:
+  name: Lullula arborea
+  short_name: bLulArb
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bLulArb1
+    biosample_id:
+    description:
+    provider:

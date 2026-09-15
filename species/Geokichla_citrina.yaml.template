@@ -1,0 +1,14 @@
+species:
+  name: Geokichla citrina
+  short_name: bGeoCit
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bGeoCit1
+    biosample_id:
+    description:
+    provider:

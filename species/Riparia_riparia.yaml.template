@@ -1,0 +1,14 @@
+species:
+  name: Riparia riparia
+  short_name: bRipRip
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bRipRip1
+    biosample_id:
+    description:
+    provider:

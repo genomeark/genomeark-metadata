@@ -1,0 +1,14 @@
+species:
+  name: Motacilla cinerea
+  short_name: bMotCin
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMotCin1
+    biosample_id:
+    description:
+    provider:

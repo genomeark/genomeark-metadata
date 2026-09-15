@@ -1,0 +1,14 @@
+species:
+  name: Motacilla flava
+  short_name: bMotFla
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bMotFla1
+    biosample_id:
+    description:
+    provider:

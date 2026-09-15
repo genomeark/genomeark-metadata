@@ -1,0 +1,14 @@
+species:
+  name: Limosa limosa
+  short_name: bLimLim
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bLimLim1
+    biosample_id:
+    description:
+    provider:

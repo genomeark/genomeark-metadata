@@ -1,0 +1,14 @@
+species:
+  name: Pica pica
+  short_name: bPicPic
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bPicPic2
+    biosample_id:
+    description:
+    provider:

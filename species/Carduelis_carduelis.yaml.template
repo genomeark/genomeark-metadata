@@ -1,0 +1,14 @@
+species:
+  name: Carduelis carduelis
+  short_name: bCarCar
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bCarCar1
+    biosample_id:
+    description:
+    provider:

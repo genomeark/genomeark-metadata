@@ -1,0 +1,14 @@
+species:
+  name: Ichthyomyzon castaneus
+  short_name: kcIchCast
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: kcIchCast1
+    biosample_id:
+    description:
+    provider:
